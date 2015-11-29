@@ -1,0 +1,862 @@
+h2. Issue 0:
+h5. October 28th, 2012
+||Name||Url||Description||Tags||
+|Sliding Menu | https://github.com/jfeinstein10/SlidingMenu | Jeremy Feinstein just updated his Sliding Menu component. Some optimizations and more example code. | {status:colour=Yellow|title=optimizations|subtle=false} {status:colour=Yellow|title=just|subtle=false} {status:colour=Yellow|title=updated|subtle=false} |
+|Roboboost | https://github.com/mecid/roboboost | Roboboost is a library that takes the guesswork out of development. For example it let's you inject views via annotations. The library can be compared to Roboguice but the author Mecid Djabrayilov says that things are done more efficient. | {status:colour=Yellow|title=says|subtle=false} {status:colour=Yellow|title=compared|subtle=false} {status:colour=Yellow|title=inject|subtle=false} |
+|FinAppsParty | http://code.google.com/p/finapps-personal-shopper/ | Xavi Rigau released a prototype app open source at google code. The app is shopping assistant that was created during FinAppParty 2012 | {status:colour=Yellow|title=assistant|subtle=false} {status:colour=Yellow|title=shopping|subtle=false} {status:colour=Yellow|title=google|subtle=false} |
+|Android Pull To Refresh 1.4.2 | https://github.com/chrisbanes/Android-PullToRefresh/wiki/Changelog | AndroidPullToRefresh 1.4.2 has been released. The old style flip animation is back. He also introduces PullToRefreshWebView2, which is a new version of PullToRefreshWebView that delegates calls to the WebView's Javascript. For more updates check the changelog. | {status:colour=Yellow|title=updates|subtle=false} {status:colour=Yellow|title=calls|subtle=false} {status:colour=Yellow|title=delegates|subtle=false} |
+|ORMAN Framework | http://ahmetalpbalkan.com/blog/introducing-orman-framework/ | The ORMAN framework was hyped on HackerNews yesterday. It's an object relational mapper for SQLite. We're pretty sceptical about this library since the blogpost is from 2011, the Github repository seems to be unmaintained and it also has zero test coverage. If you're looking for something more solid you better check out GreenDAO from Greenrobot. | {status:colour=Yellow|title=zero|subtle=false} {status:colour=Yellow|title=unmaintained|subtle=false} {status:colour=Yellow|title=blogpost|subtle=false} |
+h2. Issue 1:
+h5. October 28th, 2011
+||Name||Url||Description||Tags||
+|https://github.com/johannilsson/android-actionbar | https://github.com/johannilsson/android-actionbar | A nice little ActionBar GUI Component. | {status:colour=Yellow|title=nice|subtle=false} {status:colour=Yellow|title=little|subtle=false} {status:colour=Yellow|title=gui|subtle=false} |
+|https://github.com/kaeppler/droid-fu | https://github.com/kaeppler/droid-fu | Droid-Fu is a utitlity library for all your Android needs. | {status:colour=Yellow|title=utitlity|subtle=false} {status:colour=Yellow|title=all|subtle=false} {status:colour=Yellow|title=needs|subtle=false} |
+h2. Issue 2:
+h5. November 4th, 2011
+||Name||Url||Description||Tags||
+|https://github.com/johannilsson/android-pulltorefresh | https://github.com/johannilsson/android-pulltorefresh | Twitters pull to refresh is a well adopted gesture in many apps. Here is a reusable component that implements this behaviour. | {status:colour=Yellow|title=gesture|subtle=false} {status:colour=Yellow|title=adopted|subtle=false} {status:colour=Yellow|title=reusable|subtle=false} |
+|http://joda-time.sourceforge.net/ | http://joda-time.sourceforge.net/ | Dealing with Time and Date in Java can be pretty nasty. Joda Time is a quality replacement for those classes. | {status:colour=Yellow|title=those|subtle=false} {status:colour=Yellow|title=quality|subtle=false} {status:colour=Yellow|title=replacement|subtle=false} |
+h2. Issue 3:
+h5. November 11th, 2011
+||Name||Url||Description||Tags||
+|http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html | http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html | RealViewSwitcher allows to your user to horizontally navigate through the views like in the Launcher App. | {status:colour=Yellow|title=navigate|subtle=false} {status:colour=Yellow|title=horizontally|subtle=false} {status:colour=Yellow|title=through|subtle=false} |
+|http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/ | http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/ | Is your app aware if your device is connected to the internet? This snippet will help you to determine if you are online. | {status:colour=Yellow|title=determine|subtle=false} {status:colour=Yellow|title=snippet|subtle=false} {status:colour=Yellow|title=internet?|subtle=false} |
+h2. Issue 4:
+h5. November 18th, 2011
+||Name||Url||Description||Tags||
+|Android Viewflow | https://github.com/pakerfeldt/android-viewflow | Here comes two alternatives on how to create a horizontal view navigation. This is a pretty decent and well explained library. | {status:colour=Yellow|title=explained|subtle=false} {status:colour=Yellow|title=decent|subtle=false} {status:colour=Yellow|title=alternatives|subtle=false} |
+|Horizontal View Swiping with ViewPager | http://android-developers.blogspot.com/2011/08/horizontal-view-swiping-with-viewpager.html?m=1 | The next one was released as part of the compatibility package for devices with an older system (>1.6). | {status:colour=Yellow|title=system|subtle=false} {status:colour=Yellow|title=devices|subtle=false} {status:colour=Yellow|title=part|subtle=false} |
+h2. Issue 5:
+h5. November 25th, 2011
+||Name||Url||Description||Tags||
+|Quick Action UI Component | https://github.com/lorensiuswlt/NewQuickAction | NewQuickAction is a small android library to create QuickAction dialog. | {status:colour=Yellow|title=small|subtle=false} {status:colour=Yellow|title=android|subtle=false} {status:colour=Yellow|title=create|subtle=false} |
+|Brian Tarricone convenience Classes for Android | https://github.com/kelnos/bt-android-utils | (github.com) | {status:colour=Yellow|title=(githubcom)|subtle=false} |
+h2. Issue 6:
+h5. December 2nd, 2011
+||Name||Url||Description||Tags||
+|QR Library | http://code.google.com/p/zxing/ | Ever wanted to integrate QR Codes into your App? Heres a good library for that. | {status:colour=Yellow|title=wanted|subtle=false} {status:colour=Yellow|title=integrate|subtle=false} {status:colour=Yellow|title=into|subtle=false} |
+|Themissingtabwidget | http://code.google.com/p/themissingtabwidget/ | The missing tabs widget. | {status:colour=Yellow|title=tabs|subtle=false} {status:colour=Yellow|title=missing|subtle=false} {status:colour=Yellow|title=widget|subtle=false} |
+h2. Issue 7:
+h5. December 9th, 2011
+||Name||Url||Description||Tags||
+|Android Wheel List Library | http://code.google.com/p/android-wheel/ | (code.google.com) | {status:colour=Yellow|title=(codegooglecom)|subtle=false} |
+|Coverflow Widget | http://www.inter-fuser.com/2010/02/android-coverflow-widget-v2.html | (inter-fuser.com) | {status:colour=Yellow|title=(inter-fusercom)|subtle=false} |
+h2. Issue 8:
+h5. December 16th, 2011
+||Name||Url||Description||Tags||
+|Android Section List | http://code.google.com/p/android-section-list/ | This library provides you iOS style lists with sections on your Android. | {status:colour=Yellow|title=sections|subtle=false} {status:colour=Yellow|title=lists|subtle=false} {status:colour=Yellow|title=style|subtle=false} |
+|Tree View List | http://code.google.com/p/tree-view-list-android/ | This library provides an easy way to annotate map overlay items with a simple information balloon. | {status:colour=Yellow|title=annotate|subtle=false} {status:colour=Yellow|title=overlay|subtle=false} {status:colour=Yellow|title=map|subtle=false} |
+h2. Issue 9:
+h5. January 6th, 2012
+||Name||Url||Description||Tags||
+|HockeyKit Demo version for Android | https://github.com/TheRealKerni/HockeyKit | With HockeyKit deploying Android and iOS Apps for your testers is like a breeze. | {status:colour=Yellow|title=testers|subtle=false} {status:colour=Yellow|title=deploying|subtle=false} {status:colour=Yellow|title=breeze|subtle=false} |
+|A demo of CheckBox’s isChecked() method. | http://www.technotalkative.com/android-checkbox-example-ischecked/ | (technotalkative.com) | {status:colour=Yellow|title=(technotalkativecom)|subtle=false} |
+|Sending SMS from android application - method 1. | http://www.technotalkative.com/android-%E2%80%93-sending-sms-from-android-application-%E2%80%93-method-1/ | (technotalkative.com) | {status:colour=Yellow|title=(technotalkativecom)|subtle=false} |
+|Sending SMS from android application - method 2. | http://www.technotalkative.com/android-sending-sms-from-android-application | (technotalkative.com) | {status:colour=Yellow|title=(technotalkativecom)|subtle=false} |
+h2. Issue 10:
+h5. January 13th, 2012
+||Name||Url||Description||Tags||
+|A ListView control that has an event for a Double Tap. | https://github.com/NikolaDespotoski/DoubleTapListView | (github.com) | {status:colour=Yellow|title=(githubcom)|subtle=false} |
+|A UI control to show a wheel select. | http://code.google.com/p/android-wheel/ | (code.google.com) | {status:colour=Yellow|title=(codegooglecom)|subtle=false} |
+h2. Issue 11:
+h5. January 20th, 2012
+||Name||Url||Description||Tags||
+|Using the Animation API | http://nineoldandroids.com/ | Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0! | {status:colour=Yellow|title=back|subtle=false} {status:colour=Yellow|title=platform|subtle=false} {status:colour=Yellow|title=versions|subtle=false} |
+|Toast notification | http://www.technotalkative.com/android-text-notifications-toast/ | This is what you need if you want to show an alert message (text notification) to the user of an application. | {status:colour=Yellow|title=notification)|subtle=false} {status:colour=Yellow|title=(text|subtle=false} {status:colour=Yellow|title=alert|subtle=false} |
+|Custom Toast notification | http://www.technotalkative.com/android-custom-toast-notification/ |  |  |
+h2. Issue 12:
+h5. January 27th, 2012
+||Name||Url||Description||Tags||
+|OrmLite | http://ormlite.com/sqlite_java_android_orm.shtml | This weeks focus is on persistence and the first library will show you on how to persist classes with SQLite. | {status:colour=Yellow|title=persist|subtle=false} {status:colour=Yellow|title=persistence|subtle=false} {status:colour=Yellow|title=weeks|subtle=false} |
+|Deserializing JSON in Android using GSON | http://benjii.me/2010/04/deserializing-json-in-android-using-gson/ |  |  |
+|Simple XML in Android | http://robertmassaioli.wordpress.com/2011/04/21/simple-xml-in-android-1-5-and-up/ |  |  |
+h2. Issue 13:
+h5. February 5th, 2012
+||Name||Url||Description||Tags||
+|Twitter Code For Android Applications | http://abhinavasblog.blogspot.com/2011/06/for-all-my-code-thirsty-friends-twitter.html | In Abhinava's blog he shares some code with you and builds a very simple Twitter Client. | {status:colour=Yellow|title=builds|subtle=false} {status:colour=Yellow|title=shares|subtle=false} {status:colour=Yellow|title=he|subtle=false} |
+|Here are some nice extensions to the ViewPager UI Component | https://github.com/astuetz/ViewPagerExtensions |  |  |
+h2. Issue 14:
+h5. February 10th, 2012
+||Name||Url||Description||Tags||
+|Robolectric | http://pivotal.github.com/robolectric/index.html | Robolectric is a unit test framework that de-fangs the Android SDK jar so you can test-drive the development of your Android app. | {status:colour=Yellow|title=test-drive|subtle=false} {status:colour=Yellow|title=jar|subtle=false} {status:colour=Yellow|title=de-fangs|subtle=false} |
+|Android ToggleButton | http://www.technotalkative.com/android-togglebutton-example/ | This is a simple example for implementing ToggleButton in android application | {status:colour=Yellow|title=implementing|subtle=false} {status:colour=Yellow|title=example|subtle=false} {status:colour=Yellow|title=android|subtle=false} |
+|Android Spinner | http://www.technotalkative.com/android-spinner-example/ | Spinner is a widget similar to a drop-down list for selecting items. This tutorial will show you how to create a simple spinner widget that displays a list of days. | {status:colour=Yellow|title=tutorial|subtle=false} {status:colour=Yellow|title=selecting|subtle=false} {status:colour=Yellow|title=drop-down|subtle=false} |
+h2. Issue 15:
+h5. February 17th, 2012
+||Name||Url||Description||Tags||
+|Another progress visualization | https://github.com/Todd-Davies/ProgressWheel | Todd David has released an UI component that visualizes progress without a progress bar. | {status:colour=Yellow|title=visualizes|subtle=false} {status:colour=Yellow|title=progress|subtle=false} {status:colour=Yellow|title=ui|subtle=false} |
+|Android ORM for SQLite | http://greendao-orm.com/ | GreenDao is an ORM that maps Java classes directly onto SQLite tables. No more tedious SQL wrapping. | {status:colour=Yellow|title=onto|subtle=false} {status:colour=Yellow|title=maps|subtle=false} {status:colour=Yellow|title=tedious|subtle=false} |
+h2. Issue 16:
+h5. February 24th, 2012
+||Name||Url||Description||Tags||
+|ActionBarSherlock | https://github.com/JakeWharton/ActionBarSherlock/tree/4.0-wip | Android library for implementing the action bar design pattern using the native ActionBar on 3.0+ and a custom implementation on pre-3.0 through a single API and theme. | {status:colour=Yellow|title=single|subtle=false} {status:colour=Yellow|title=bar|subtle=false} {status:colour=Yellow|title=implementing|subtle=false} |
+|Bash completion for the adb tool | http://code.google.com/p/romannurik-code/source/browse/misc/bash_completion/adb | Roman Nurik has hacked together a great bash completion for the adb tool. | {status:colour=Yellow|title=completion|subtle=false} {status:colour=Yellow|title=bash|subtle=false} {status:colour=Yellow|title=hacked|subtle=false} |
+h2. Issue 17:
+h5. March 2nd, 2012
+||Name||Url||Description||Tags||
+|LibGDX | http://libgdx.badlogicgames.com/ | LibGDX is a cross-platform 2D and 3D game development framework written in Java/C/C++. | {status:colour=Yellow|title=cross-platform|subtle=false} {status:colour=Yellow|title=game|subtle=false} {status:colour=Yellow|title=written|subtle=false} |
+|Android Asynchronous Http Client | http://loopj.com/android-async-http/ | A Callback-Based Http Client Library for Android built on top of Apache’s HttpClient libraries. | {status:colour=Yellow|title=top|subtle=false} {status:colour=Yellow|title=built|subtle=false} {status:colour=Yellow|title=httpclient|subtle=false} |
+h2. Issue 18:
+h5. March 9th, 2012
+||Name||Url||Description||Tags||
+|GreenDroid | https://github.com/cyrilmottier/GreenDroid | GreenDroid is a development library for the Android platform. It is intended to make UI developments easier and consistent through your applications. | {status:colour=Yellow|title=consistent|subtle=false} {status:colour=Yellow|title=developments|subtle=false} {status:colour=Yellow|title=intended|subtle=false} |
+|Ruboto - Ruby on Android | https://github.com/ruboto/ruboto | A platform for developing apps using JRuby on Android. | {status:colour=Yellow|title=developing|subtle=false} {status:colour=Yellow|title=platform|subtle=false} {status:colour=Yellow|title=apps|subtle=false} |
+h2. Issue 19:
+h5. March 16th, 2012
+||Name||Url||Description||Tags||
+|RangeSeekBar widget | https://code.google.com/p/range-seek-bar/ | If you need a widget allowing to handle two values (like a minimum and maximum value or a range), this RangeSeekBar widget might suit your needs. | {status:colour=Yellow|title=suit|subtle=false} {status:colour=Yellow|title=maximum|subtle=false} {status:colour=Yellow|title=minimum|subtle=false} |
+|ActionBarSherlock 4.0 | http://actionbarsherlock.com/ | Version 4.0 of the ActionBarSherlock has been released. ActionBarSherlock is an extension of the compatibility library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API. | {status:colour=Yellow|title=facilitate|subtle=false} {status:colour=Yellow|title=across|subtle=false} {status:colour=Yellow|title=single|subtle=false} |
+h2. Issue 20:
+h5. March 23rd, 2012
+||Name||Url||Description||Tags||
+|Android Scroll Bar Panel | https://github.com/rno/Android-ScrollBarPanel | Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0. | {status:colour=Yellow|title=attach|subtle=false} {status:colour=Yellow|title=it's|subtle=false} {status:colour=Yellow|title=done|subtle=false} |
+|Touch Image View | https://github.com/MikeOrtiz/TouchImageView | Adds panning and pinch zoom to Android ImageView. | {status:colour=Yellow|title=panning|subtle=false} {status:colour=Yellow|title=pinch|subtle=false} {status:colour=Yellow|title=zoom|subtle=false} |
+h2. Issue 21:
+h5. March 30th, 2012
+||Name||Url||Description||Tags||
+|Android Active Record | http://code.google.com/p/android-active-record/ | Lightweight persistence library for Android. | {status:colour=Yellow|title=persistence|subtle=false} {status:colour=Yellow|title=lightweight|subtle=false} {status:colour=Yellow|title=android|subtle=false} |
+|Maven plugin for Android | https://github.com/jberkel/maven-android-plugin | Easy to use Maven plugin for Android. | {status:colour=Yellow|title=plugin|subtle=false} {status:colour=Yellow|title=maven|subtle=false} {status:colour=Yellow|title=use|subtle=false} |
+h2. Issue 22:
+h5. April 6th, 2012
+||Name||Url||Description||Tags||
+|StickyListHeaders | https://github.com/emilsjolander/StickyListHeaders | StickyListHeaders is an android library that makes it easy to integrate section headers in your ListView. | {status:colour=Yellow|title=section|subtle=false} {status:colour=Yellow|title=integrate|subtle=false} {status:colour=Yellow|title=headers|subtle=false} |
+|Google Music API | https://github.com/simon-weber/Unofficial-Google-Music-API | Simon Weber has just released his unofficial Google Music API on Github. | {status:colour=Yellow|title=unofficial|subtle=false} {status:colour=Yellow|title=just|subtle=false} {status:colour=Yellow|title=his|subtle=false} |
+|Java Port | https://github.com/jkiddo/gmusic.api | If you want to implement a client, there is also a Java Port | {status:colour=Yellow|title=there|subtle=false} {status:colour=Yellow|title=implement|subtle=false} {status:colour=Yellow|title=also|subtle=false} |
+h2. Issue 23:
+h5. April 13th, 2012
+||Name||Url||Description||Tags||
+|Android Snippets | http://www.androidsnippets.com/ | Ever wondered which parameters to stuff in an intent to share an email? Android Snippets got the answer! | {status:colour=Yellow|title=answer!|subtle=false} {status:colour=Yellow|title=email?|subtle=false} {status:colour=Yellow|title=intent|subtle=false} |
+|Android Viewbadger | https://github.com/jgilfelt/android-viewbadger | Badges are a pretty common design pattern. Viewbadger is a simple way to "badge" any given Android view at runtime without having to cater for it in layout. | {status:colour=Yellow|title=cater|subtle=false} {status:colour=Yellow|title=given|subtle=false} {status:colour=Yellow|title="badge"|subtle=false} |
+|Smart Image View for Android | https://github.com/loopj/android-smart-image-view | SmartImageView is a drop-in replacement for Android’s standard ImageView which additionally allows images to be loaded from URLs or the user’s contact address book. Images are cached to memory and to disk for super fast loading. | {status:colour=Yellow|title=address|subtle=false} {status:colour=Yellow|title=contact|subtle=false} {status:colour=Yellow|title=user’s|subtle=false} |
+h2. Issue 24:
+h5. April 23rd, 2012
+||Name||Url||Description||Tags||
+|DataDroid | https://github.com/foxykeep/datadroid | DataDroid is a library that helps you to develop Restful Android Applications. | {status:colour=Yellow|title=develop|subtle=false} {status:colour=Yellow|title=helps|subtle=false} {status:colour=Yellow|title=restful|subtle=false} |
+|ViewFlow UI | https://github.com/pakerfeldt/android-viewflow | The ViewFlow UI component is a horizontally scrollable ViewGroup with items populated from an Adapter. It has been recently improved and updated. | {status:colour=Yellow|title=improved|subtle=false} {status:colour=Yellow|title=recently|subtle=false} {status:colour=Yellow|title=populated|subtle=false} |
+|Mock Http Server | https://github.com/vladimirvivien/workbench/tree/master/android-tutorials/MockHttpServer | Testing HTTP services can a pain. Fortunately Vladimir Vivien has created a mock http server to test your services. | {status:colour=Yellow|title=mock|subtle=false} {status:colour=Yellow|title=services|subtle=false} {status:colour=Yellow|title=server|subtle=false} |
+h2. Issue 25:
+h5. May 7th, 2012
+||Name||Url||Description||Tags||
+|Droid-Fo -> Ignition | https://github.com/kaeppler/ignition | Droid-Fu was a nice library of helper classes - you Ignition is aiming to supersede it. It contains several widgets, a better HTTP Client and a nicer and more robust implementation of AsyncTask. | {status:colour=Yellow|title=supersede|subtle=false} {status:colour=Yellow|title=aiming|subtle=false} {status:colour=Yellow|title=nicer|subtle=false} |
+|Android and self-signed ssl certificates | http://blog.synyx.de/2010/06/android-and-self-signed-ssl-certificates/ | Dealing with self-signed SSL certificates is a real pain, because it's not that simple to add them in your app and let android accept them. But fortunately, there's a workaround that uses an own SSLSocketFactory and an own TrustManager. | {status:colour=Yellow|title=own|subtle=false} {status:colour=Yellow|title=workaround|subtle=false} {status:colour=Yellow|title=there's|subtle=false} |
+h2. Issue 26:
+h5. May 12th, 2012
+||Name||Url||Description||Tags||
+|All Android Game Engines | http://mobilegameengines.com/android/game_engines | Do you want to code a game on Android? Don't reinvent the wheel, there are plenty of game engines out there. This website shows you a comprehensive list of commercial and open source game engines. | {status:colour=Yellow|title=game|subtle=false} {status:colour=Yellow|title=commercial|subtle=false} {status:colour=Yellow|title=comprehensive|subtle=false} |
+|31 Days of Android: Day 5 | http://chrisrisner.com/31-Days-of-Android--Day-5%E2%80%93Adding-Multiple-Activities-and-using-Intents | 31 Days of Android: Day 5 Adding multiple activities and using intents. | {status:colour=Yellow|title=activities|subtle=false} {status:colour=Yellow|title=5|subtle=false} {status:colour=Yellow|title=31|subtle=false} |
+|10 Open Source Android Apps you should look into | http://sudarmuthu.com/blog/10-open-source-android-apps-which-every-android-developer-must-look-into | You've learned how to program Android? Now you want to do a larger app, but you quite unsure how fit the bits & pieces? Maybe get some inspiration by looking at 10 open source Android apps. | {status:colour=Yellow|title=pieces?|subtle=false} {status:colour=Yellow|title=bits|subtle=false} {status:colour=Yellow|title=fit|subtle=false} |
+h2. Issue 27:
+h5. May 18th, 2012
+||Name||Url||Description||Tags||
+|Android-image-manager | http://code.google.com/p/android-image-manager/ | Image manager provides performant and easy way to load image resources asynchronously with many options like loading different versions and image quality control. | {status:colour=Yellow|title=resources|subtle=false} {status:colour=Yellow|title=performant|subtle=false} {status:colour=Yellow|title=manager|subtle=false} |
+|ContractFragment | https://gist.github.com/2621173 | This gist shows you how to implement a ContractFragment. It ensures that the parent Activity implements a contract interface. | {status:colour=Yellow|title=contract|subtle=false} {status:colour=Yellow|title=parent|subtle=false} {status:colour=Yellow|title=ensures|subtle=false} |
+|Using Loaders beyond Cursors | http://andappdevlog.tumblr.com/post/6756906908/using-loaders-beyond-cursors | If you want to use a AsyncTaskLoader to load something over the network here is a little snippets to help you get the job done. | {status:colour=Yellow|title=job|subtle=false} {status:colour=Yellow|title=snippets|subtle=false} {status:colour=Yellow|title=here|subtle=false} |
+|AdbToggleAccessLib | https://github.com/ramdroid/AdbToggleAccessLib | A code library to communicate AdbToggle. | {status:colour=Yellow|title=communicate|subtle=false} {status:colour=Yellow|title=adbtoggle|subtle=false} {status:colour=Yellow|title=code|subtle=false} |
+h2. Issue 28:
+h5. May 30th, 2012
+||Name||Url||Description||Tags||
+|Pull To Refresh | https://github.com/chrisbanes/Android-PullToRefresh?utm_source=androidweekly | A very good implementation of the pull to refresh paradigma for lists. | {status:colour=Yellow|title=paradigma|subtle=false} {status:colour=Yellow|title=refresh|subtle=false} {status:colour=Yellow|title=pull|subtle=false} |
+|Android Pinch | http://code.google.com/p/android-pinch/ | Do you need a pinch zoom component and you don't want to use a WebView, then you have to try Android Pinch. | {status:colour=Yellow|title=try|subtle=false} {status:colour=Yellow|title=don't|subtle=false} {status:colour=Yellow|title=pinch|subtle=false} |
+h2. Issue 29:
+h5. June 14th, 2012
+||Name||Url||Description||Tags||
+|31 Days of Android: Day 7 | http://chrisrisner.com/31-Days-of-Android--Day-7%E2%80%93Sharing-Data-Between-Activities | 31 Days of Android: Sharing data between Activities. | {status:colour=Yellow|title=31|subtle=false} {status:colour=Yellow|title=between|subtle=false} {status:colour=Yellow|title=data|subtle=false} |
+|Segmented Radiobutton | https://github.com/makeramen/android-segmentedradiobutton | This weeks code snippets will deal with how to implement an iOS like segmented control. We've selected 3 open source components, so that you can choose for yourself. | {status:colour=Yellow|title=segmented|subtle=false} {status:colour=Yellow|title=choose|subtle=false} {status:colour=Yellow|title=3|subtle=false} |
+|Segcontrol | https://github.com/bookwormat/segcontrol | (github.com) | {status:colour=Yellow|title=(githubcom)|subtle=false} |
+|Segmented Button Control in Android | http://ttlnews.blogspot.de/2011/09/segmented-button-control-in-android.html | (ttlnews.blogspot.de) | {status:colour=Yellow|title=(ttlnewsblogspotde)|subtle=false} |
+|AndTweet | http://code.google.com/p/andtweet/ | AndTweet is an open source Android client for twitter. | {status:colour=Yellow|title=client|subtle=false} {status:colour=Yellow|title=twitter|subtle=false} {status:colour=Yellow|title=andtweet|subtle=false} |
+h2. Issue 30:
+h5. July 1st, 2012
+||Name||Url||Description||Tags||
+|Beardroid | https://github.com/hvasconcelos/beardroid | Some usefull code to create Amazing Android Apps. The project lacks a lot of documentation but the aim is create a bunch of boilerplate code for Android Application development. | {status:colour=Yellow|title=bunch|subtle=false} {status:colour=Yellow|title=documentation|subtle=false} {status:colour=Yellow|title=usefull|subtle=false} |
+|Swipe to Dismiss | https://gist.github.com/2980593 | Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code. | {status:colour=Yellow|title=find|subtle=false} {status:colour=Yellow|title=interesting|subtle=false} {status:colour=Yellow|title=ui|subtle=false} |
+|Double Tap List View Handler | https://github.com/NikolaDespotoski/DoubleTapListViewHandler | Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code. | {status:colour=Yellow|title=find|subtle=false} {status:colour=Yellow|title=interesting|subtle=false} {status:colour=Yellow|title=ui|subtle=false} |
+h2. Issue 31:
+h5. July 12th, 2012
+||Name||Url||Description||Tags||
+|Appunta | http://code.google.com/p/appunta/?utm_source=androidweekly | An AR engine that covers not only AR but related operations like compass and location. | {status:colour=Yellow|title=compass|subtle=false} {status:colour=Yellow|title=engine|subtle=false} {status:colour=Yellow|title=related|subtle=false} |
+|iosched | http://code.google.com/p/iosched/?utm_source=androidweekly | The source code for the Google I/O 2012 Android app is now available at Google Code. If you're a newbie developer and want to see how things are glued together take a look at this to get some inspiration. | {status:colour=Yellow|title=glued|subtle=false} {status:colour=Yellow|title=newbie|subtle=false} {status:colour=Yellow|title=together|subtle=false} |
+|A basic HTTP client for Android | http://turbomanage.wordpress.com/2012/06/12/a-basic-http-client-for-android-and-more/?utm_source=androidweekly | I'm not quit sure if I like the AsyncTask handling since AsyncTask can really mess things up when you tear an Activity down (e.g. during orientation changes) but it looks quite solid nonetheless. | {status:colour=Yellow|title=changes)|subtle=false} {status:colour=Yellow|title=orientation|subtle=false} {status:colour=Yellow|title=tear|subtle=false} |
+h2. Issue 32:
+h5. July 20th, 2012
+||Name||Url||Description||Tags||
+|gles2 sample android | https://github.com/ldo/gles2_sample_android | Lawrence D'Oliveiro released a little sample app where he demonstrates custom Open GLES shader programming. | {status:colour=Yellow|title=shader|subtle=false} {status:colour=Yellow|title=where|subtle=false} {status:colour=Yellow|title=demonstrates|subtle=false} |
+|LoadingImageView | https://github.com/JohnHostile/LoadingImageView | Our fellow developer John Hostile released LoadingImageView on Github. It's a view that displays a holo-themed progress/loading animation. Very cool that he released his first open source work - more developers should do that. | {status:colour=Yellow|title=progress/loading|subtle=false} {status:colour=Yellow|title=holo-themed|subtle=false} {status:colour=Yellow|title=fellow|subtle=false} |
+|HanselAndGretel | http://jakewharton.com/hanselandgretel/ | Hansel und Gretel is an Android library providing bread crumbs to the support library fragments. | {status:colour=Yellow|title=crumbs|subtle=false} {status:colour=Yellow|title=bread|subtle=false} {status:colour=Yellow|title=und|subtle=false} |
+h2. Issue 33:
+h5. July 27th, 2012
+||Name||Url||Description||Tags||
+|Synchronized Scrolling Library | https://github.com/xrigau/Synchronized-Scrolling/tree/master/XaviRigau-SynchronizedScrolling | Synchronized Scrolling by Xavi Rigua is a library project that allows you to have a Synchronized scrolling effect in a view, similar to the one in the GMail app (when you open a conversation with multiple messages, you can scroll down and the senders info stay on top of screen). | {status:colour=Yellow|title=stay|subtle=false} {status:colour=Yellow|title=info|subtle=false} {status:colour=Yellow|title=senders|subtle=false} |
+|Android-Simple-Social-Sharing | https://github.com/nostra13/Android-Simple-Social-Sharing | Sergey Tarasevich has a library on Github that helps you to share your content in Facebook or Twitter. | {status:colour=Yellow|title=share|subtle=false} {status:colour=Yellow|title=content|subtle=false} {status:colour=Yellow|title=helps|subtle=false} |
+|Android-Universal-Image-Loader | https://github.com/nostra13/Android-Universal-Image-Loader | Universal Image Loader (also by Sergey Terasevich) is a reusable and powerful component for asynchronous image loading, caching and displaying. | {status:colour=Yellow|title=(also|subtle=false} {status:colour=Yellow|title=reusable|subtle=false} {status:colour=Yellow|title=caching|subtle=false} |
+h2. Issue 34:
+h5. August 3rd, 2012
+||Name||Url||Description||Tags||
+|Android annotations | http://androidannotations.org/ | AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance. It has RoboGuice under the hood and really simplifies your code from boilerplate. | {status:colour=Yellow|title=really|subtle=false} {status:colour=Yellow|title=hood|subtle=false} {status:colour=Yellow|title=simplifying|subtle=false} |
+|Crouton | https://github.com/neofoniemobile/Crouton | Crouton, is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast. | {status:colour=Yellow|title=insensitive|subtle=false} {status:colour=Yellow|title=feel|subtle=false} {status:colour=Yellow|title=alternative|subtle=false} |
+|AndroidBillingLibrary | https://github.com/robotmedia/AndroidBillingLibrary | Android Billing Library implements in-app billing's full specification and offers high-level classes to use it. Transactions are stored in a local obfuscated database which can be easily queried. | {status:colour=Yellow|title=obfuscated|subtle=false} {status:colour=Yellow|title=stored|subtle=false} {status:colour=Yellow|title=high-level|subtle=false} |
+h2. Issue 35:
+h5. August 18th, 2012
+||Name||Url||Description||Tags||
+|Robotium | http://code.google.com/p/robotium/ | Robotium is a test framework created to make it easy to write powerful and robust automatic black-box test cases for Android applications. | {status:colour=Yellow|title=black-box|subtle=false} {status:colour=Yellow|title=automatic|subtle=false} {status:colour=Yellow|title=test|subtle=false} |
+|Implement Flipboard Animation | http://openaphid.github.com/blog/2012/05/21/how-to-implement-flipboard-animation-on-android/ | Do you want to give your app a Flipboard like effect? Here's some code, that exactly does that. | {status:colour=Yellow|title=exactly|subtle=false} {status:colour=Yellow|title=effect?|subtle=false} {status:colour=Yellow|title=give|subtle=false} |
+h2. Issue 36:
+h5. September 7th, 2012
+||Name||Url||Description||Tags||
+|Asynchronous Http Client | http://loopj.com/android-async-http/ | An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries. All requests are made outside of your app’s main UI thread, but any callback logic will be executed on the same thread as the callback was created using Android’s Handler message passing. | {status:colour=Yellow|title=callback|subtle=false} {status:colour=Yellow|title=executed|subtle=false} {status:colour=Yellow|title=app’s|subtle=false} |
+|Android Menudrawer | https://github.com/SimonVT/android-menudrawer | Android Menu Drawer is a fly in app menu implementation based on this blog post (http://android.cyrilmottier.com/?p=658). It's implemented as an Android Library project. | {status:colour=Yellow|title=implemented|subtle=false} {status:colour=Yellow|title=fly|subtle=false} {status:colour=Yellow|title=post|subtle=false} |
+|Wizard Builder | https://github.com/ramdroid/WizardBuilder | Wizard Builder is a helper to create easy wizards for your app. | {status:colour=Yellow|title=wizards|subtle=false} {status:colour=Yellow|title=helper|subtle=false} {status:colour=Yellow|title=create|subtle=false} |
+|The Ultimate Android Library | http://www.theultimateandroidlibrary.com/ | This one is similar to our toolbox, great libraries in there. | {status:colour=Yellow|title=our|subtle=false} {status:colour=Yellow|title=libraries|subtle=false} {status:colour=Yellow|title=great|subtle=false} |
+h2. Issue 37:
+h5. September 15th, 2012
+||Name||Url||Description||Tags||
+|PullToRefresh 1.4 | https://github.com/chrisbanes/Android-PullToRefresh | Android-PullToRefresh has been updated to version 1.4. OverScroll Support, Jelly Bean optimisation, some fixes and more stuff. Check out Chris Banes repository at Github. | {status:colour=Yellow|title=fixes|subtle=false} {status:colour=Yellow|title=updated|subtle=false} {status:colour=Yellow|title=repository|subtle=false} |
+|ViewPagerIndicator 2.4.0 released! | https://plus.google.com/108284392618554783657/posts/U1RRMWkssYg | Jake Wharton updated his ViewPagerIndicator to version 2.4.0. Lot of bugfixes and optimizations. | {status:colour=Yellow|title=bugfixes|subtle=false} {status:colour=Yellow|title=updated|subtle=false} {status:colour=Yellow|title=his|subtle=false} |
+|Android Unused Resources | http://code.google.com/p/android-unused-resources | If the deadline approaches, projects can become messy. Andround Unused Resources is a Java application that will scan your project for... well... unused resources. Good if you need to clean some things up. | {status:colour=Yellow|title=scan|subtle=false} {status:colour=Yellow|title=unused|subtle=false} {status:colour=Yellow|title=become|subtle=false} |
+h2. Issue 38:
+h5. September 22nd, 2012
+||Name||Url||Description||Tags||
+|Android adt templates | https://github.com/jgilfelt/android-adt-templates | Android ADT Templates is a small collection of ADT templates for Android development to help quickly scaffold common Activity and UI patterns compiled by Jeff Gilfelt. | {status:colour=Yellow|title=compiled|subtle=false} {status:colour=Yellow|title=scaffold|subtle=false} {status:colour=Yellow|title=quickly|subtle=false} |
+|Amazon Maps API & Kindle Fire | https://github.com/jgilfelt/android-mapviewballoons#amazon-maps-api--kindle-fire | Jeff Gilfet also updated his MapView Balloons Library. It now supports an alternative Amazon Maps API. | {status:colour=Yellow|title=now|subtle=false} {status:colour=Yellow|title=alternative|subtle=false} {status:colour=Yellow|title=supports|subtle=false} |
+h2. Issue 39:
+h5. September 29th, 2012
+||Name||Url||Description||Tags||
+|Html5 Webview | http://code.google.com/p/html5webview/ | Have you ever wondered why the vanilla WebView component is not as powerful as the Android browser - It's all a matter of configuration! HTML5WebView is a better start and it has plenty of configuration options! So when you want to implement HTML5 Video support or Geolocation Features you should start with this one. | {status:colour=Yellow|title=options!|subtle=false} {status:colour=Yellow|title=configuration!|subtle=false} {status:colour=Yellow|title=matter|subtle=false} |
+|ImageLoader | http://androidimageloader.com/ | Novoda, a london based dev shop, released an open source component: ImageLoader. ImageLoader is a simple library that makes it easy to download, display and cache remote images in Android apps. Download happens away from the UI thread and the images are cached with a two-level in-memory/SD card cache. | {status:colour=Yellow|title=card|subtle=false} {status:colour=Yellow|title=two-level|subtle=false} {status:colour=Yellow|title=away|subtle=false} |
+|Google+ sign in | https://developers.google.com/android/google-play-services/ | Do you need a Google+ sign in? Google Play services, client library API that offers integration with Google products in Android apps. | {status:colour=Yellow|title=products|subtle=false} {status:colour=Yellow|title=in?|subtle=false} {status:colour=Yellow|title=sign|subtle=false} |
+h2. Issue 40:
+h5. October 5th, 2012
+||Name||Url||Description||Tags||
+|PhotoView | https://github.com/chrisbanes/PhotoView | Chris Banes has released PhotoView, a simple ImageView that support zooming, both by Multi-touch gestures and double-tap. | {status:colour=Yellow|title=gestures|subtle=false} {status:colour=Yellow|title=both|subtle=false} {status:colour=Yellow|title=support|subtle=false} |
+|Disk LRU Cache | https://github.com/JakeWharton/DiskLruCache | Disk LRU Cache, written by Jake Wharton, is a cache that uses a certain amount of space on a filesystem. | {status:colour=Yellow|title=space|subtle=false} {status:colour=Yellow|title=amount|subtle=false} {status:colour=Yellow|title=certain|subtle=false} |
+|Jalousie | https://github.com/AndreasZeiser/Jalousie | Jalousie, a library providing expandable layouts and views for Android. | {status:colour=Yellow|title=expandable|subtle=false} {status:colour=Yellow|title=layouts|subtle=false} {status:colour=Yellow|title=providing|subtle=false} |
+h2. Issue 41:
+h5. October 12th, 2012
+||Name||Url||Description||Tags||
+|ShowcaseView | https://github.com/Espiandev/ShowcaseView | The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. | {status:colour=Yellow|title=attractive|subtle=false} {status:colour=Yellow|title=distinctive|subtle=false} {status:colour=Yellow|title=highlight|subtle=false} |
+|Meet Polaris, a map library for Android | http://android.cyrilmottier.com/?p=824 | Polaris is a nice library, by Cyrill Mottier, that makes the developer life much easier when dealing with Google Maps. Read a nice wrap up of all features in his blog post. The source is released on Github. | {status:colour=Yellow|title=wrap|subtle=false} {status:colour=Yellow|title=life|subtle=false} {status:colour=Yellow|title=nice|subtle=false} |
+h2. Issue 42:
+h5. October 19th, 2012
+||Name||Url||Description||Tags||
+|Otto | http://square.github.com/otto/ | Otto is an enhanced Guava-based event bus with emphasis on Android support. When you create large applications it is necessary to decouple different components while keeping the communication between them easy. | {status:colour=Yellow|title=necessary|subtle=false} {status:colour=Yellow|title=emphasis|subtle=false} {status:colour=Yellow|title=enhanced|subtle=false} |
+|PhotoView v1.1 | http://www.senab.co.uk/2012/10/12/photoview-v1-1/ | Photoview 1.1, by Chris Banes, has been released. Photoview is an advanced image view which makes pinching and zooming easy. See his introductionary blog post for more information. | {status:colour=Yellow|title=introductionary|subtle=false} {status:colour=Yellow|title=zooming|subtle=false} {status:colour=Yellow|title=pinching|subtle=false} |
+|WebImageLoader | https://github.com/lexs/webimageloader | WebImageLoader, by Alexander Blom, is a library designed to take to hassle out of handling images on the web. | {status:colour=Yellow|title=hassle|subtle=false} {status:colour=Yellow|title=take|subtle=false} {status:colour=Yellow|title=images|subtle=false} |
+|Crouton | http://www.grokkingandroid.com/useful-android-libraries-crouton/ | The crouton library is an conceptual enhancement of Toasts. Read this blog posts if you had cases where Notifications via Toasts were not enough. | {status:colour=Yellow|title=had|subtle=false} {status:colour=Yellow|title=posts|subtle=false} {status:colour=Yellow|title=enhancement|subtle=false} |
+h2. Issue 44:
+h5. November 2nd, 2012
+||Name||Url||Description||Tags||
+|RoboSpice | https://github.com/octo-online/robospice | RoboSpice is a modular android library that makes writing asynchronous network requests easy. It executes asynchronously (in a background AndroidService) network requests and supports REST out of the box via Spring Android [link zu http://www.springsource.org/spring-android]. | {status:colour=Yellow|title=requests|subtle=false} {status:colour=Yellow|title=zu|subtle=false} {status:colour=Yellow|title=[link|subtle=false} |
+|Android Websockets | https://github.com/koush/android-websockets | A very simple bare-minimum WebSocket and Socket.IO client for Android by Koushik Dutta. | {status:colour=Yellow|title=bare-minimum|subtle=false} {status:colour=Yellow|title=client|subtle=false} {status:colour=Yellow|title=very|subtle=false} |
+|Android File Chooser | https://github.com/iPaulPro/aFileChooser | This library by Paul Burke provides you the possibility to choose a file from the filesystem or an external storage device. | {status:colour=Yellow|title=external|subtle=false} {status:colour=Yellow|title=filesystem|subtle=false} {status:colour=Yellow|title=possibility|subtle=false} |
+|Green Droid Light | https://github.com/foxykeep/GreenDroidLight | GreenDroid light is... guess what, a lighter version of the GreenDroid library. Nikolaus Klein, has removed the ActionBar code, since you can (and should) use ActionBarSherlock - he also removed some of the original constraints. | {status:colour=Yellow|title=removed|subtle=false} {status:colour=Yellow|title=original|subtle=false} {status:colour=Yellow|title=should)|subtle=false} |
+h2. Issue 45:
+h5. November 9th, 2012
+||Name||Url||Description||Tags||
+|UnifiedPreference | https://github.com/saik0/UnifiedPreference | UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up. | {status:colour=Yellow|title=v4|subtle=false} {status:colour=Yellow|title=package|subtle=false} {status:colour=Yellow|title=versions|subtle=false} |
+|ACRA - Know your Bugs | http://acra.ch/ | If you need some Error Reporting with more power, then Acra is your thing. It support multiple backends like HockeyApp or Bugsense. | {status:colour=Yellow|title=backends|subtle=false} {status:colour=Yellow|title=multiple|subtle=false} {status:colour=Yellow|title=then|subtle=false} |
+|NotificationCompat2 | https://github.com/JakeWharton/NotificationCompat2 | Do you need some Jelly Bean goodness for your notifications on older devices? Then checkout this repository by Jake Wharton. It adds the missing functionality. | {status:colour=Yellow|title=devices?|subtle=false} {status:colour=Yellow|title=notifications|subtle=false} {status:colour=Yellow|title=goodness|subtle=false} |
+|ActivityCompat2 | https://github.com/JakeWharton/ActivityCompat2 | Here comes the same for startActivity and ActivityOptions | {status:colour=Yellow|title=same|subtle=false} {status:colour=Yellow|title=comes|subtle=false} {status:colour=Yellow|title=activityoptions|subtle=false} |
+h2. Issue 46:
+h5. November 16th, 2012
+||Name||Url||Description||Tags||
+|Android Sqlite Asset Helper | https://github.com/jgilfelt/android-sqlite-asset-helper | Have you ever needed to update the SQLite Database in one of your apps? It's a nightmare, right? Luckily Jeff Gilfelt created this handy helper class that does the heavy lifting. It manages the database creation and handles version management. | {status:colour=Yellow|title=heavy|subtle=false} {status:colour=Yellow|title=handy|subtle=false} {status:colour=Yellow|title=right?|subtle=false} |
+|Gaug.es Android App | https://github.com/github/gauges-android#readme | Gaug.es is a webservice to analyize traffic. They've open sourced their Android Client and it's a very well engineered app. Check out if you want to see how a good app architecture is made - or if you want to play with their API. | {status:colour=Yellow|title=play|subtle=false} {status:colour=Yellow|title=engineered|subtle=false} {status:colour=Yellow|title=analyize|subtle=false} |
+h2. Issue 47:
+h5. November 30th, 2012
+||Name||Url||Description||Tags||
+|Androidviews.net | http://www.androidviews.net/ | Android Views is like our Toolbox a great collection of open source views for different purposes. | {status:colour=Yellow|title=our|subtle=false} {status:colour=Yellow|title=great|subtle=false} {status:colour=Yellow|title=collection|subtle=false} |
+|Switch Compat Library | https://github.com/ankri/SwitchCompatLibrary | ICS backport of the Switch button for API Level 8. | {status:colour=Yellow|title=button|subtle=false} {status:colour=Yellow|title=backport|subtle=false} {status:colour=Yellow|title=level|subtle=false} |
+|Android Complex Preferences | https://github.com/fsilvestremorais/android-complex-preferences | Complex Preferences is a library that helps you to store complex objects, even with associations, in the SharedPreferences. | {status:colour=Yellow|title=store|subtle=false} {status:colour=Yellow|title=complex|subtle=false} {status:colour=Yellow|title=even|subtle=false} |
+|Active Text View | https://github.com/laurencedawson/activetextview | ActiveTextView is a view designed to add additional options for links within a TextView. | {status:colour=Yellow|title=links|subtle=false} {status:colour=Yellow|title=options|subtle=false} {status:colour=Yellow|title=additional|subtle=false} |
+|LinearListView | https://github.com/frankiesardo/LinearListView | Android library that allows you to bind a LinearLayout with a ListAdapter. | {status:colour=Yellow|title=bind|subtle=false} {status:colour=Yellow|title=listadapter|subtle=false} {status:colour=Yellow|title=linearlayout|subtle=false} |
+|Android Formidable Validation | https://github.com/coreform/android-formidable-validation | Form validation and feedback library for Android. | {status:colour=Yellow|title=feedback|subtle=false} {status:colour=Yellow|title=validation|subtle=false} {status:colour=Yellow|title=form|subtle=false} |
+h2. Issue 48:
+h5. December 14th, 2012
+||Name||Url||Description||Tags||
+|IconicTextView | https://github.com/atermenji/IconicTextView | IconicTextView, by Artur Termenji, is an extension of Android TextView class which provides support for some iconic fonts like Entypo. | {status:colour=Yellow|title=iconic|subtle=false} {status:colour=Yellow|title=fonts|subtle=false} {status:colour=Yellow|title=extension|subtle=false} |
+|Transfuse | http://androidtransfuse.org/ | Transfuse is a Java Dependency Injection and integration library geared specifically for the Google Android API. It would be interesting in what ways it differs from Roboguice. | {status:colour=Yellow|title=differs|subtle=false} {status:colour=Yellow|title=ways|subtle=false} {status:colour=Yellow|title=specifically|subtle=false} |
+|White House | https://github.com/WhiteHouse/wh-app-android | Do you start Android development and do you want to know who things are done? Checkout the open source White House app. Lot's of best practices inside. | {status:colour=Yellow|title=practices|subtle=false} {status:colour=Yellow|title=done?|subtle=false} {status:colour=Yellow|title=best|subtle=false} |
+h2. Issue 49:
+h5. January 3rd, 2013
+||Name||Url||Description||Tags||
+|DataDroid v2 | http://www.datadroidlib.com/2012/12/datadroid-v2-is-available | DataDroid is an Android Library which will ease the developement of Android applications when you have to manage local data or to call REST webservices for remote data. | {status:colour=Yellow|title=webservices|subtle=false} {status:colour=Yellow|title=call|subtle=false} {status:colour=Yellow|title=developement|subtle=false} |
+|Inscription | https://github.com/MartinvanZ/Inscription | Inscription is an open source library to display information about your Android app. | {status:colour=Yellow|title=display|subtle=false} {status:colour=Yellow|title=about|subtle=false} {status:colour=Yellow|title=information|subtle=false} |
+|AsyncTaskFragment | https://github.com/GBouerat/AsyncTaskFragment | AsyncTaskFragment is an Android library project designed to help you to perform background operations and publish results on the UI thread from your fragment without having to manipulate threads and/or handlers. | {status:colour=Yellow|title=and/or|subtle=false} {status:colour=Yellow|title=manipulate|subtle=false} {status:colour=Yellow|title=fragment|subtle=false} |
+|CardsUI for Android | https://bitbucket.org/nadavfima/cardsui-for-android | Cards UI View library for Android, like the one on Google Now. | {status:colour=Yellow|title=one|subtle=false} {status:colour=Yellow|title=ui|subtle=false} {status:colour=Yellow|title=cards|subtle=false} |
+|RibbonMenu | https://github.com/darvds/RibbonMenu | Navigation menu for Android (based on Google+ app). | {status:colour=Yellow|title=(based|subtle=false} {status:colour=Yellow|title=menu|subtle=false} {status:colour=Yellow|title=app)|subtle=false} |
+|Android-PullToRefresh | https://github.com/chrisbanes/Android-PullToRefresh | Android-PullToRefresh v2.1 is out. There are performance improvements. | {status:colour=Yellow|title=performance|subtle=false} {status:colour=Yellow|title=are|subtle=false} {status:colour=Yellow|title=improvements|subtle=false} |
+h2. Issue 50:
+h5. January 18th, 2013
+||Name||Url||Description||Tags||
+|ImageLoader | https://github.com/novoda/ImageLoader | Sometimes I have the feeling that the first task of every good studio is to release an open source ImageLoader component. This one seems pretty solid since it has acceptance tests. So if you have not choosen your favourite yet then check it out. | {status:colour=Yellow|title=favourite|subtle=false} {status:colour=Yellow|title=acceptance|subtle=false} {status:colour=Yellow|title=studio|subtle=false} |
+|Android-DirectoryChooser | https://github.com/passy/Android-DirectoryChooser | Do you need a directory chooser for your app? Pascal Hartig has released a reference implementation ready to use for your project. | {status:colour=Yellow|title=ready|subtle=false} {status:colour=Yellow|title=app?|subtle=false} {status:colour=Yellow|title=chooser|subtle=false} |
+|Android-Validator | https://github.com/throrin19/Android-Validator | Benjamin Besse has released Android Validator an Form validation library as an library project. | {status:colour=Yellow|title=validation|subtle=false} {status:colour=Yellow|title=validator|subtle=false} {status:colour=Yellow|title=besse|subtle=false} |
+h2. Issue 51:
+h5. January 28th, 2013
+||Name||Url||Description||Tags||
+|Android-BitmapCache v2.1 | http://www.senab.co.uk/2013/01/24/android-bitmapcache-v2-1/ | Chris Bane has released V2.1 of Android-BitmapCache, a specialised cache, for use with Android Bitmap objects. The update includes an update to v1.3.1 of DiskLruCache. Also the API got a lot easier and more direct. | {status:colour=Yellow|title=update|subtle=false} {status:colour=Yellow|title=includes|subtle=false} {status:colour=Yellow|title=specialised|subtle=false} |
+|Photup | https://github.com/chrisbanes/photup | Photup is an application by Chris Banes, currently available on Google Play with an average rating of 4.4 (at time of writing). Due to lack of time, I'm open sourcing this so anyone can look at the code, and more importantly, so you can submit patches and keep it alive. | {status:colour=Yellow|title=patches|subtle=false} {status:colour=Yellow|title=anyone|subtle=false} {status:colour=Yellow|title=sourcing|subtle=false} |
+|SlidingMenu | https://github.com/jfeinstein10/SlidingMenu | We covered that, but in case you missed it: A SlidingMenu Component by Jeremy Feinstein | {status:colour=Yellow|title=it:|subtle=false} {status:colour=Yellow|title=missed|subtle=false} {status:colour=Yellow|title=covered|subtle=false} |
+h2. Issue 52:
+h5. February 5th, 2013
+||Name||Url||Description||Tags||
+|EventBus | https://github.com/greenrobot/EventBus | EventBus is an Android optimized publish/subscribe event bus. A typical use case for Android apps is gluing Activities, Fragments, and background threads together. | {status:colour=Yellow|title=gluing|subtle=false} {status:colour=Yellow|title=typical|subtle=false} {status:colour=Yellow|title=publish/subscribe|subtle=false} |
+|GlowPadBackport | https://github.com/rock3r/GlowPadBackport | GlowPadView is a circular grid of dots, with a central handle that the user can grab to various customizable targets. It is heavily based upon Google's own internal implementation of the GlowPadView found in Android 4.2 Jelly Bean. | {status:colour=Yellow|title=internal|subtle=false} {status:colour=Yellow|title=upon|subtle=false} {status:colour=Yellow|title=heavily|subtle=false} |
+|TimesSquare | http://corner.squareup.com/2013/01/times-square.html | TimeSquare is a standalone Android widget for picking a single date from a calendar view. | {status:colour=Yellow|title=calendar|subtle=false} {status:colour=Yellow|title=picking|subtle=false} {status:colour=Yellow|title=standalone|subtle=false} |
+|ADAFramework | https://github.com/mobandme/ADA-Framework | Android Data Abstraction Framework is an ORM library that aims to simplify your code. With plenty of examples and screencasts the frameworks looks quit ok. Unfortunately I cannot see any tests in the repository so I cannot evaluate the robustness of the library. | {status:colour=Yellow|title=cannot|subtle=false} {status:colour=Yellow|title=robustness|subtle=false} {status:colour=Yellow|title=evaluate|subtle=false} |
+|JazzyViewPager | https://github.com/jfeinstein10/JazzyViewPager | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go! | {status:colour=Yellow|title=go!|subtle=false} {status:colour=Yellow|title=swiping|subtle=false} {status:colour=Yellow|title=change|subtle=false} |
+|parcelabler: for implementing Android’s Parcelable interface | http://dallasgutauckis.com/2012/01/20/parcelabler-for-implementing-androids-parcelable-interface/ | Writing parcelables can be a time consuming task. Luckily Dallas Gutauckis implemented a generator to build all the bolierplate code. | {status:colour=Yellow|title=bolierplate|subtle=false} {status:colour=Yellow|title=consuming|subtle=false} {status:colour=Yellow|title=parcelables|subtle=false} |
+h2. Issue 53:
+h5. February 11th, 2013
+||Name||Url||Description||Tags||
+|Mechanoid | http://robotoworks.github.com/mechanoid/ | Mechanoid is a set of Xtext DSL's for the rapid development of Android applications. It covers database management, network code and preferences. | {status:colour=Yellow|title=rapid|subtle=false} {status:colour=Yellow|title=covers|subtle=false} {status:colour=Yellow|title=database|subtle=false} |
+|Android-AnnotatedSQL | https://github.com/hamsterksu/Android-AnnotatedSQL | Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes. | {status:colour=Yellow|title=full-featured|subtle=false} {status:colour=Yellow|title=provider|subtle=false} {status:colour=Yellow|title=auto|subtle=false} |
+|Android Validator | http://www.throrinstudio.com/dev/android/android-validator-1-0-released/ | Romain Piel has released a component that helps you with form validation. | {status:colour=Yellow|title=form|subtle=false} {status:colour=Yellow|title=component|subtle=false} {status:colour=Yellow|title=helps|subtle=false} |
+|ZXing Barcode Scanner Android library | https://github.com/kennydude/zxing-lib | Joe Simpson has ported the ZXing barcode scanning library to work in fragment. | {status:colour=Yellow|title=scanning|subtle=false} {status:colour=Yellow|title=barcode|subtle=false} {status:colour=Yellow|title=ported|subtle=false} |
+|AndroidAnnotations | http://androidannotations.org/ | The Android Annotations project has been updated. Android Annotations is a library that puts your biolerplate code on a diet. | {status:colour=Yellow|title=biolerplate|subtle=false} {status:colour=Yellow|title=puts|subtle=false} {status:colour=Yellow|title=diet|subtle=false} |
+|Crouton | https://github.com/keyboardsurfer/Crouton | Crouton is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast. | {status:colour=Yellow|title=insensitive|subtle=false} {status:colour=Yellow|title=feel|subtle=false} {status:colour=Yellow|title=alternative|subtle=false} |
+|Indic-text-renderer | https://code.google.com/p/indic-text-renderer/ | Using FreeType (font rasterization engine) and Harfbuzz-ng (complex script layout engine), this Android widget allows Indic text (Devanagari / Hindi, Kannada, Tamil, Telugu etc) to be rendered on Android phones without having to root the phone. | {status:colour=Yellow|title=phones|subtle=false} {status:colour=Yellow|title=rendered|subtle=false} {status:colour=Yellow|title=etc)|subtle=false} |
+h2. Issue 54:
+h5. February 22nd, 2013
+||Name||Url||Description||Tags||
+|Sticky Grid Headers | http://tonicartos.github.com/StickyGridHeaders/ | Tonic Artos has created an Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top. | {status:colour=Yellow|title=stick|subtle=false} {status:colour=Yellow|title=sectioned|subtle=false} {status:colour=Yellow|title=grid|subtle=false} |
+|Simpl3r | https://github.com/jgilfelt/android-simpl3r | A simple abstraction to upload multipart files directly to Amazon S3. | {status:colour=Yellow|title=multipart|subtle=false} {status:colour=Yellow|title=upload|subtle=false} {status:colour=Yellow|title=abstraction|subtle=false} |
+|ListViewAnimations | https://bitbucket.org/nhaarman/listviewanimations | Niek Haarman has released a library that provides animations for ListViews. The sourcecode is available on BitBucket. | {status:colour=Yellow|title=sourcecode|subtle=false} {status:colour=Yellow|title=animations|subtle=false} {status:colour=Yellow|title=available|subtle=false} |
+|Android Chips EditText | http://www.kpbird.com/2013/02/android-chips-edittext-token-edittext.html | Ketan Parmar has released a ChipsEditTextView which is a tokenized auto-completing text editing field like the recipients field in your gmail client. | {status:colour=Yellow|title=field|subtle=false} {status:colour=Yellow|title=gmail|subtle=false} {status:colour=Yellow|title=recipients|subtle=false} |
+|tellandroid | https://github.com/vbabiy/tellandroid | A set of utilities to make it easier to work with the android emulator telnet protocol. | {status:colour=Yellow|title=telnet|subtle=false} {status:colour=Yellow|title=emulator|subtle=false} {status:colour=Yellow|title=utilities|subtle=false} |
+h2. Issue 55:
+h5. March 10th, 2013
+||Name||Url||Description||Tags||
+|Butterknife | https://github.com/JakeWharton/butterknife | Butter Knife is a view "injection" library, by Jake Wharton,  which uses annotation processing to generate code that does direct field assignment of your views. | {status:colour=Yellow|title=assignment|subtle=false} {status:colour=Yellow|title=direct|subtle=false} {status:colour=Yellow|title="injection"|subtle=false} |
+|Quality-Tools-for-Android | https://github.com/stephanenicolas/Quality-Tools-for-Android | Quality Tools for Android is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform. | {status:colour=Yellow|title=increase|subtle=false} {status:colour=Yellow|title=+|subtle=false} {status:colour=Yellow|title=tests|subtle=false} |
+h2. Issue 56:
+h5. March 18th, 2013
+||Name||Url||Description||Tags||
+|Android Network Intents | https://github.com/pocmo/Android-Network-Intents | An interesting library comes from Sebastian Kaspari. Android Network Intents is a library to send Android Intent objects to listening apps/devices via multicast (UDP). This library has been written to utilize it for writing simple app or service discovery protocols but as it can be used to send and receive any Intents through the network without knowing the specific receivers. The library comes with an example chat app - I could imagine an Android P2P filesharing app. | {status:colour=Yellow|title=send|subtle=false} {status:colour=Yellow|title=filesharing|subtle=false} {status:colour=Yellow|title=imagine|subtle=false} |
+|PostMan (rings twice) Lib | https://github.com/fedepaol/PostmanLib--Rings-Twice--Android | LibPostman (Rings Twice) for Android is a library intended to make the asynchronous interaction with a remote server easier, without having to deal with all the well known problems related to asynctasks bound to activities. | {status:colour=Yellow|title=bound|subtle=false} {status:colour=Yellow|title=asynctasks|subtle=false} {status:colour=Yellow|title=problems|subtle=false} |
+|HorizontalDatePicker | https://github.com/almozavr/HorizontalDatePicker | Simple but yet flexible android date picker view based on horizontal list views. | {status:colour=Yellow|title=picker|subtle=false} {status:colour=Yellow|title=yet|subtle=false} {status:colour=Yellow|title=horizontal|subtle=false} |
+|LogCat | https://github.com/YANOUSHek/LogCat | LogCat is a simple adb logcat viewer written purely in Objective-C and designed with Apple's Human Interface Guidelines in mind. It uses the native GUI views and is a lot nicer for the eyes than Eclipse plugins. | {status:colour=Yellow|title=eyes|subtle=false} {status:colour=Yellow|title=purely|subtle=false} {status:colour=Yellow|title=viewer|subtle=false} |
+h2. Issue 57:
+h5. March 24th, 2013
+||Name||Url||Description||Tags||
+|QuickReturnListView | https://github.com/LarsWerkman/QuickReturnListView | QuickReturnListView is a implementation of the QuickReturn UI developed by Roman Nurik and Nick Butcher. It mimics the same behavior as seen in the Google+ app. | {status:colour=Yellow|title=behavior|subtle=false} {status:colour=Yellow|title=mimics|subtle=false} {status:colour=Yellow|title=seen|subtle=false} |
+|QuickReturn.java | https://gist.github.com/frankiesardo/5161734 | Frankie Sardo has released a refactored version of that UI with a better API. But why not as a pull request? | {status:colour=Yellow|title=request?|subtle=false} {status:colour=Yellow|title=refactored|subtle=false} {status:colour=Yellow|title=why|subtle=false} |
+|ProviGen | https://github.com/TimotheeJeannin/ProviGen | Provigen is a library by Timothee Jeannin that helps you to generate ContentProvider from a ContractClass via annotations. | {status:colour=Yellow|title=generate|subtle=false} {status:colour=Yellow|title=annotations|subtle=false} {status:colour=Yellow|title=contractclass|subtle=false} |
+|Appcompat | https://android.googlesource.com/platform/frameworks/support/+/master/appcompat/ | Google has released a backported version of their ActionBar. I would still rather going with ActionBarSherlock | {status:colour=Yellow|title=going|subtle=false} {status:colour=Yellow|title=rather|subtle=false} {status:colour=Yellow|title=backported|subtle=false} |
+|SlidingPaneLayout.java | https://android.googlesource.com/platform/frameworks/support/+/master/v4/java/android/support/v4/widget/SlidingPaneLayout.java | They also released a SlidePlaneLayout in their compatibility package. | {status:colour=Yellow|title=compatibility|subtle=false} {status:colour=Yellow|title=their|subtle=false} {status:colour=Yellow|title=also|subtle=false} |
+|Bypass | http://uncodin.github.com/bypass/ | If you want to render Markdown with your App, then you can use Bypass to bypass HTML and a WebView. | {status:colour=Yellow|title=bypass|subtle=false} {status:colour=Yellow|title=render|subtle=false} {status:colour=Yellow|title=webview|subtle=false} |
+h2. Issue 58:
+h5. April 8th, 2013
+||Name||Url||Description||Tags||
+|6Wunderkinder SlidingLayer for Android | https://github.com/6wunderkinder/android-sliding-layer-lib | 6Wunderkinder have released a SlidingLayer Component for Android that can be seen in their Wunderlist 2 app. | {status:colour=Yellow|title=seen|subtle=false} {status:colour=Yellow|title=2|subtle=false} {status:colour=Yellow|title=their|subtle=false} |
+|Android Form EditText | https://github.com/vekexasia/android-form-edittext | Android form edit text is an extension of EditText that brings data validation facilities to the edittext. | {status:colour=Yellow|title=facilities|subtle=false} {status:colour=Yellow|title=brings|subtle=false} {status:colour=Yellow|title=edit|subtle=false} |
+|MultiChoiceAdapter | https://github.com/ManuelPeinado/MultiChoiceAdapter | MultiChoiceAdapter by Manuel Peinado is an implementation of ListAdapter which adds support for modal multiple choice selection as in the native Gmail app. | {status:colour=Yellow|title=selection|subtle=false} {status:colour=Yellow|title=choice|subtle=false} {status:colour=Yellow|title=modal|subtle=false} |
+|RobotoViews | https://github.com/eeVoskos/RobotoViews | RobotoViews is an Android library hosting a collection of Views that use the Roboto font. | {status:colour=Yellow|title=hosting|subtle=false} {status:colour=Yellow|title=collection|subtle=false} {status:colour=Yellow|title=roboto|subtle=false} |
+|Routable | http://usepropeller.com/blog/posts/routable/ | Routable is a little router component for iOS and Android. It seems to be very valuable if you have URLs that can be called externally. It also helps you to decouple your activities. | {status:colour=Yellow|title=valuable|subtle=false} {status:colour=Yellow|title=router|subtle=false} {status:colour=Yellow|title=decouple|subtle=false} |
+h2. Issue 59:
+h5. April 13th, 2013
+||Name||Url||Description||Tags||
+|Activity Split Animation | http://udinic.wordpress.com/2013/03/13/activity-split-animation/ | Udi Cohen has released a component for a split transition between two activities. | {status:colour=Yellow|title=split|subtle=false} {status:colour=Yellow|title=transition|subtle=false} {status:colour=Yellow|title=two|subtle=false} |
+|Slide Expandable List View | https://github.com/tjerkw/Android-SlideExpandableListView | Tjerk Wolterink has released an Expandable List View like the fancy one you can see in the Spotify app. | {status:colour=Yellow|title=fancy|subtle=false} {status:colour=Yellow|title=see|subtle=false} {status:colour=Yellow|title=spotify|subtle=false} |
+|Android Async | https://github.com/koush/AndroidAsync | AndroidAsync is a java.nio based socket and http library for Android. | {status:colour=Yellow|title=socket|subtle=false} {status:colour=Yellow|title=http|subtle=false} {status:colour=Yellow|title=based|subtle=false} |
+h2. Issue 105:
+h5. June 8th, 2014
+||Name||Url||Description||Tags||
+|Holoaccent | https://github.com/negusoft/holoaccent | Android library to customize the Holo theme with a custom accent color. The color can even be set programmatically, allowing the UI to change dynamically. | {status:colour=Yellow|title=accent|subtle=false} {status:colour=Yellow|title=allowing|subtle=false} {status:colour=Yellow|title=theme|subtle=false} |
+| | https://github.com/medyo/dynamicbox | DynamicBox is a library which inflates custom layouts to indicate loading content, show an error message or even a custom view. Supports ListView, GridView, ExpandableListView, Activity, FragmentActivity, Fragment, LinearLayout, RelativeLayout, ScrollView | {status:colour=Yellow|title=error|subtle=false} {status:colour=Yellow|title=inflates|subtle=false} {status:colour=Yellow|title=indicate|subtle=false} |
+|Android Image Slider | https://github.com/daimajia/AndroidImageSlider | An image slider for Android with many image transformation effects. | {status:colour=Yellow|title=transformation|subtle=false} {status:colour=Yellow|title=slider|subtle=false} {status:colour=Yellow|title=image|subtle=false} |
+|Circular Progress Button | https://github.com/dmytrodanylyk/circular-progress-button | Android Button which can morph to Circular Progress. See the gifs to get a feeling of the animation. | {status:colour=Yellow|title=gifs|subtle=false} {status:colour=Yellow|title=morph|subtle=false} {status:colour=Yellow|title=feeling|subtle=false} |
+|KeyboardlessEditText | https://github.com/danialgoodwin/android-widget-keyboardless-edittext | A native EditText, except that no keyboard will appear when user interacts with it. All other edit operations still work. We wonder what it will be used for - but if you have that need then check it out. | {status:colour=Yellow|title=wonder|subtle=false} {status:colour=Yellow|title=interacts|subtle=false} {status:colour=Yellow|title=appear|subtle=false} |
+h2. Issue 106:
+h5. June 15th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/FilipPudak/ProgressPieView | Android library for showing progress in a highly customizable pie chart. | {status:colour=Yellow|title=pie|subtle=false} {status:colour=Yellow|title=highly|subtle=false} {status:colour=Yellow|title=showing|subtle=false} |
+|Emojicon | http://rockerhieu.com/emojicon/ | Emojicon is an Android library to implement a TextView that supports emoji. | {status:colour=Yellow|title=supports|subtle=false} {status:colour=Yellow|title=implement|subtle=false} {status:colour=Yellow|title=emoji|subtle=false} |
+|Goro 2.0 | http://stanfy.com/blog/goro-2/ | Goro is an Android library for organizing your asynchronous tasks in queues. | {status:colour=Yellow|title=organizing|subtle=false} {status:colour=Yellow|title=tasks|subtle=false} {status:colour=Yellow|title=asynchronous|subtle=false} |
+|Parallax Pager Library | https://github.com/xgc1986/ParallaxPagerLibrary | A PageTransformer for ViewPager that provides a parallax effect. | {status:colour=Yellow|title=parallax|subtle=false} {status:colour=Yellow|title=provides|subtle=false} {status:colour=Yellow|title=viewpager|subtle=false} |
+h2. Issue 107:
+h5. June 22nd, 2014
+||Name||Url||Description||Tags||
+|DesarrolloAntonio/FragmentTransactionExtended | https://github.com/DesarrolloAntonio/FragmentTransactionExtended | FragmentTransactionExtended is a library which provide us a set of custom animations between fragments. | {status:colour=Yellow|title=us|subtle=false} {status:colour=Yellow|title=animations|subtle=false} {status:colour=Yellow|title=between|subtle=false} |
+|Philm is now open source | http://chris.banes.me/2014/06/18/philm-is-now-open-source/ | If you haven't seen Philm yet, it is a movie collection and information app that I created for Android. It uses the Trakt and TMDB APIs. This morning Chris Banes pushed the source of Philm to GitHub under the Apache v2.0 licence. | {status:colour=Yellow|title=pushed|subtle=false} {status:colour=Yellow|title=morning|subtle=false} {status:colour=Yellow|title=haven't|subtle=false} |
+|MoshDev/ILog | https://github.com/MoshDev/ILog | Simple Logging Tool for Android and Java Platforms | {status:colour=Yellow|title=platforms|subtle=false} {status:colour=Yellow|title=logging|subtle=false} {status:colour=Yellow|title=tool|subtle=false} |
+h2. Issue 109:
+h5. July 6th, 2014
+||Name||Url||Description||Tags||
+|romainguy/google-io-2014 | https://github.com/romainguy/google-io-2014 | Romain Guy shares the Material Witness sample application for the new Material Design APIs introduced in the Android L Preview SDK:
+
+Custom theme colors
+Dynamic palette
+Circular reveal
+Activity transitions | {status:colour=Yellow|title=transitions|subtle=false} {status:colour=Yellow|title=palette|subtle=false} {status:colour=Yellow|title=reveal|subtle=false} |
+|daimajia/AnimationEasingFunctions | https://github.com/daimajia/AnimationEasingFunctions | Android Animation Easing Functions. Let's make animation more real! | {status:colour=Yellow|title=real!|subtle=false} {status:colour=Yellow|title=make|subtle=false} {status:colour=Yellow|title=animation|subtle=false} |
+| | https://plus.google.com/+GabrieleMariotti/posts/BZtP7JYVVxH | Gabriele Mariotti shares a little gist to build a simple Floating Action Button for Android-L with shadow, ripple and outline. | {status:colour=Yellow|title=ripple|subtle=false} {status:colour=Yellow|title=shares a|subtle=false} {status:colour=Yellow|title=build|subtle=false} |
+h2. Issue 110:
+h5. July 13th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/9elements/9elements-One-for-Android-Wear | 9elements has released some code that shows how to develop a custom watch face for Android Wear. | {status:colour=Yellow|title=9elements|subtle=false} {status:colour=Yellow|title=face|subtle=false} {status:colour=Yellow|title=watch|subtle=false} |
+|Android Wear: Heart Rate and Samsung Gear Live | https://gist.github.com/gabrielemariotti/d23bfe583e900a4f9276 | Here a little gist to get the heart rate on the Samsung Gear Live. | {status:colour=Yellow|title=rate|subtle=false} {status:colour=Yellow|title=heart|subtle=false} {status:colour=Yellow|title=live|subtle=false} |
+|Circular Image View | https://github.com/Pkmmte/CircularImageView | Custom view for circular images in Android while maintaining the best draw performance | {status:colour=Yellow|title=draw|subtle=false} {status:colour=Yellow|title=maintaining|subtle=false} {status:colour=Yellow|title=best|subtle=false} |
+|EazeGraph | https://github.com/blackfizz/EazeGraph | EazeGraph is an Android library for creating beautiful and fancy charts. Its main goal was to create a lighweight library which is easy to use and highly customizeable with an "up-to-date"-look. | {status:colour=Yellow|title=customizeable|subtle=false} {status:colour=Yellow|title=lighweight|subtle=false} {status:colour=Yellow|title=highly|subtle=false} |
+|Android View Animations | https://github.com/daimajia/AndroidViewAnimations | Cute view animation collection. | {status:colour=Yellow|title=animation|subtle=false} {status:colour=Yellow|title=view|subtle=false} {status:colour=Yellow|title=cute|subtle=false} |
+|Unofficial Base WatchFace Activity | https://plus.google.com/u/1/101581283591300788111/posts/je1SJtu5RCE | Tavon Gatling has released an unofficial Base WatchFace Activity that helps you to control some additional lifecycle events (like screen dimming etc). | {status:colour=Yellow|title=dimming|subtle=false} {status:colour=Yellow|title=lifecycle|subtle=false} {status:colour=Yellow|title=events|subtle=false} |
+|Android Wear and LIFX | https://github.com/kentarosu/AndroidWearAndLIFX | Tavon Gatling has released a simple app that uses an Android Wear device to connect to LIFX lights on a local network and turn them off and on. | {status:colour=Yellow|title=off|subtle=false} {status:colour=Yellow|title=turn|subtle=false} {status:colour=Yellow|title=lights|subtle=false} |
+h2. Issue 111:
+h5. July 20th, 2014
+||Name||Url||Description||Tags||
+|Android Wear: Get data from Battery | https://gist.github.com/gabrielemariotti/b49cf077d184e8b26378 | Here a little gist to get details from your battery in your wear device. | {status:colour=Yellow|title=battery|subtle=false} {status:colour=Yellow|title=details|subtle=false} {status:colour=Yellow|title=wear|subtle=false} |
+|Android Wear: Heart Rate and Samsung Gear Live | https://gist.github.com/gabrielemariotti/d23bfe583e900a4f9276 | Here a little gist to get the heart rate on the Samsung Gear Live. | {status:colour=Yellow|title=rate|subtle=false} {status:colour=Yellow|title=heart|subtle=false} {status:colour=Yellow|title=live|subtle=false} |
+|Painter | https://github.com/agrosner/Painter | This library enables you to color a view, image icons, and text in a very simple way. | {status:colour=Yellow|title=color|subtle=false} {status:colour=Yellow|title=enables|subtle=false} {status:colour=Yellow|title=text|subtle=false} |
+|VNTNumberPickerPreference | https://github.com/vanniktech/VNTNumberPickerPreference | This is an easy to use custom preference, which opens a dialog with a number picker. The value gets automatically saved and you can set the default-, min- and maxValue conveniently in the XML. | {status:colour=Yellow|title=conveniently|subtle=false} {status:colour=Yellow|title=min-|subtle=false} {status:colour=Yellow|title=saved|subtle=false} |
+|VNTFontListPreference | https://github.com/vanniktech/VNTFontListPreference | This is an easy to use custom preference, which opens a dialog with a list of available fonts. The selected font gets automatically saved and you are able to set the font directory as well as the defaultValue. | {status:colour=Yellow|title=font|subtle=false} {status:colour=Yellow|title=able|subtle=false} {status:colour=Yellow|title=directory|subtle=false} |
+|OpenFlappyBird | http://deano2390.github.io/OpenFlappyBird/ | An open source clone of a famous flappy bird game for Android using the AndEngine library. | {status:colour=Yellow|title=bird|subtle=false} {status:colour=Yellow|title=flappy|subtle=false} {status:colour=Yellow|title=famous|subtle=false} |
+|android_maskable_layout | https://github.com/christophesmet/android_maskable_layout | The Maskable Layout is a simple frame layout that allow you to easily mask views and viewgroups. Simple Drawables are accepted, as well as AnimationDrawables. | {status:colour=Yellow|title=mask|subtle=false} {status:colour=Yellow|title=frame|subtle=false} {status:colour=Yellow|title=allow|subtle=false} |
+h2. Issue 112:
+h5. July 27th, 2014
+||Name||Url||Description||Tags||
+|Watchface Template | https://github.com/twotoasters/watchface-template | If you want to develop a Watchface for Android Wear then this might be your starting point. Be sure you also read Two Toasters blog post about wear development. | {status:colour=Yellow|title=read|subtle=false} {status:colour=Yellow|title=starting|subtle=false} {status:colour=Yellow|title=might|subtle=false} |
+|CircularFloatingActionMenu | http://github.com/oguzbilgener/CircularFloatingActionMenu | An animated, customizable circular floating menu for Android, inspired by Path app. | {status:colour=Yellow|title=menu|subtle=false} {status:colour=Yellow|title=floating|subtle=false} {status:colour=Yellow|title=circular|subtle=false} |
+|Floating Action Button | https://github.com/makovkastar/FloatingActionButton | Another floating action button implementation. | {status:colour=Yellow|title=button|subtle=false} {status:colour=Yellow|title=floating|subtle=false} {status:colour=Yellow|title=action|subtle=false} |
+|Magnet | https://github.com/premnirmal/Magnet | This library enables you to create a window icon similar to Facebooks chat icon, and also similar to the Link Bubble app. | {status:colour=Yellow|title=window|subtle=false} {status:colour=Yellow|title=similar|subtle=false} {status:colour=Yellow|title=chat|subtle=false} |
+|CircleView | https://github.com/pavlospt/CircleView | A circle view containing title and subtitle. | {status:colour=Yellow|title=containing|subtle=false} {status:colour=Yellow|title=title|subtle=false} {status:colour=Yellow|title=circle|subtle=false} |
+h2. Issue 113:
+h5. August 3rd, 2014
+||Name||Url||Description||Tags||
+|Beanlib | https://bitbucket.org/littlerobots/beanlib | This is an unofficial SDK for the Punch Through Design Beann (an Arduino-based BLE device). The library allows for communication with the bean and control its various functions. | {status:colour=Yellow|title=bean|subtle=false} {status:colour=Yellow|title=(an|subtle=false} {status:colour=Yellow|title=communication|subtle=false} |
+|Adapter Kit | https://github.com/mobsandgeeks/adapter-kit | Adapter Kit is a set of useful adapters for Android. The kit currently includes: Instant Adapter, Instant Cursor Adapter, Simple Section Adapter, Circular List Adapter | {status:colour=Yellow|title=includes:|subtle=false} {status:colour=Yellow|title=adapters|subtle=false} {status:colour=Yellow|title=kit|subtle=false} |
+h2. Issue 114:
+h5. August 10th, 2014
+||Name||Url||Description||Tags||
+|FillingEffect | https://github.com/fedestyla/FillingEffect | Nice progress indicator effect. | {status:colour=Yellow|title=indicator|subtle=false} {status:colour=Yellow|title=progress|subtle=false} {status:colour=Yellow|title=effect|subtle=false} |
+| | https://github.com/PhilJay/MPAndroidChart | A charting library for Android. It contains the following chart types: LineChart, BarChart2D, BarChart3D, PieChart and ScatterChart. All the types come in different flavours. | {status:colour=Yellow|title=come|subtle=false} {status:colour=Yellow|title=types:|subtle=false} {status:colour=Yellow|title=types|subtle=false} |
+|WilliamChart | https://github.com/diogobernardino/WilliamChart | Another charting library. It contains a LineChartView and a BarChartView. It doesn't look as feature complete as MPAndroidChart so maybe you developers join forces. | {status:colour=Yellow|title=join|subtle=false} {status:colour=Yellow|title=maybe|subtle=false} {status:colour=Yellow|title=doesn't|subtle=false} |
+|QMBForm | https://github.com/quemb/QMBForm | Create simple Android forms. QMBForm is inspired by the iOS counterpart XMLForm. | {status:colour=Yellow|title=counterpart|subtle=false} {status:colour=Yellow|title=inspired|subtle=false} {status:colour=Yellow|title=xmlform|subtle=false} |
+|AndroidGradleSignPlugin | https://github.com/alexvasilkov/AndroidGradleSignPlugin | Gradle plugin to prompt for Android release keystore passwords. | {status:colour=Yellow|title=keystore|subtle=false} {status:colour=Yellow|title=prompt|subtle=false} {status:colour=Yellow|title=release|subtle=false} |
+|fb Android Dagger | https://github.com/adennie/fb-android-dagger | A set of helper classes for using Square's Dagger with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services. | {status:colour=Yellow|title=such|subtle=false} {status:colour=Yellow|title=components|subtle=false} {status:colour=Yellow|title=helper|subtle=false} |
+|A Gson TypeAdapterFactory | https://gist.github.com/JakeWharton/0d67d01badcee0ae7bc9 | A Gson TypeAdapterFactory which allows serialization of @AutoValue types. Apache 2 licensed. | {status:colour=Yellow|title=serialization|subtle=false} {status:colour=Yellow|title=2|subtle=false} {status:colour=Yellow|title=allows|subtle=false} |
+|Amphitheatre | https://github.com/jerrellmardis/Amphitheatre | Amphitheatre is an Android TV app that connects with network shares, organizes and serves videos to any Android capable media player app. | {status:colour=Yellow|title=player|subtle=false} {status:colour=Yellow|title=videos|subtle=false} {status:colour=Yellow|title=serves|subtle=false} |
+h2. Issue 115:
+h5. August 17th, 2014
+||Name||Url||Description||Tags||
+|davdroid | https://github.com/rfc2822/davdroid | DAVdroid is an open-source CalDAV/CardDAV synchronization app for Android 4+ | {status:colour=Yellow|title=4+|subtle=false} {status:colour=Yellow|title=synchronization|subtle=false} {status:colour=Yellow|title=open-source|subtle=false} |
+|ImageViewZoom | https://github.com/sephiroth74/ImageViewZoom | Android ImageView widget with zoom and pan capabilities | {status:colour=Yellow|title=capabilities|subtle=false} {status:colour=Yellow|title=pan|subtle=false} {status:colour=Yellow|title=zoom|subtle=false} |
+h2. Issue 116:
+h5. August 24th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/serso/android-checkout | Checkout is a library for Android In-App Billing (v3). The main goal is to reduce work which should be done by developers who want to integrate in-app purchases in their products. The project is inspired by Volley library and is designed to be easy to use, fast and flexible. | {status:colour=Yellow|title=purchases|subtle=false} {status:colour=Yellow|title=reduce|subtle=false} {status:colour=Yellow|title=in-app|subtle=false} |
+|pixel-dungeon | https://github.com/watabou/pixel-dungeon | Pixel Dungeon is an open source, traditional roguelike game with pixel-art graphics and simple interface. | {status:colour=Yellow|title=graphics|subtle=false} {status:colour=Yellow|title=pixel-art|subtle=false} {status:colour=Yellow|title=roguelike|subtle=false} |
+|Announcing Artbook: An Android Client for Dribbble | http://arpitonline.com/blog/2014/08/21/announcing-artbook-an-android-client-for-dribbble/ | Arpit Mathur, author of the open source control FreeFlow, has open sourced his Dribbble artwork viewing app Artbook under the Apache 2 license. | {status:colour=Yellow|title=viewing|subtle=false} {status:colour=Yellow|title=artwork|subtle=false} {status:colour=Yellow|title=under|subtle=false} |
+h2. Issue 117:
+h5. August 31st, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/daimajia/AndroidSwipeLayout | A library that reveals controls with a swipe gesture. Can be easily integrated in anywhere, ListView, GridView, ViewGroup. | {status:colour=Yellow|title=integrated|subtle=false} {status:colour=Yellow|title=swipe|subtle=false} {status:colour=Yellow|title=controls|subtle=false} |
+|TwistVolley | https://github.com/TwistedEquations/TwistVolley | Extension to the Volley library adding an easy to use wrapper around Volley that sets up the RequestQueue and Image cache for the ImageLoader. It also provides an easy Picasso inspired image loading system based on the ImageLoader. | {status:colour=Yellow|title=sets|subtle=false} {status:colour=Yellow|title=system|subtle=false} {status:colour=Yellow|title=around|subtle=false} |
+|Widgets | https://github.com/MostafaGazar/Widgets | This new library has a Ripple View base class for adding to your project. | {status:colour=Yellow|title=base|subtle=false} {status:colour=Yellow|title=adding|subtle=false} {status:colour=Yellow|title=class|subtle=false} |
+|QuickReturn | https://github.com/lawloretienne/QuickReturn | QuickReturn is a library which showcases the QuickReturn UI pattern. It can be used for header views, footer views, or both header views and footer views. Supports both ScrollView and ListView and comes with examples of Twitter, Facebook, and Google+ QuickReturn views. | {status:colour=Yellow|title=footer|subtle=false} {status:colour=Yellow|title=header|subtle=false} {status:colour=Yellow|title=both|subtle=false} |
+|Foundry | https://bitbucket.org/josephearl/foundry | Tired of manually setting the typefaces of all your views and cluttering your logic with presentation code? Foundry lets you style the typefaces of your views in your XML layout files and styles. | {status:colour=Yellow|title=typefaces|subtle=false} {status:colour=Yellow|title=code?|subtle=false} {status:colour=Yellow|title=presentation|subtle=false} |
+|SystemUiHelper | http://chris.banes.me/2014/08/29/systemuihelper/ | Here's a Gist from Chris Banes and Roman Nurik to help with dealing with Android System UI visibility across the different API levels. | {status:colour=Yellow|title=visibility|subtle=false} {status:colour=Yellow|title=across|subtle=false} {status:colour=Yellow|title=dealing|subtle=false} |
+h2. Issue 118:
+h5. September 7th, 2014
+||Name||Url||Description||Tags||
+|About Libraries | https://github.com/mikepenz/AboutLibraries | Most modern apps feature an "Used Library"-Section and for this some information of those libs is required. As it gets annoying to copy those strings always to your app I've developed this small helper library to provide the required information. | {status:colour=Yellow|title=strings|subtle=false} {status:colour=Yellow|title=copy|subtle=false} {status:colour=Yellow|title=annoying|subtle=false} |
+|Holdr | https://github.com/evant/holdr | Holdr generates classes based on your layouts to help you interact with them in a type-safe way. It removes the boilerplate of doing TextView myTextView = findViewById(R.id.my_text_view) all the time. | {status:colour=Yellow|title==|subtle=false} {status:colour=Yellow|title=doing|subtle=false} {status:colour=Yellow|title=removes|subtle=false} |
+|Recycler ViewItem Animators | https://github.com/gabrielemariotti/RecyclerViewItemAnimators | This repo provides simple animators for the item views in the RecyclerView This code is cloned from DefaultItemAnimator provided by Google customizing the animations. | {status:colour=Yellow|title=customizing|subtle=false} {status:colour=Yellow|title=provided|subtle=false} {status:colour=Yellow|title=cloned|subtle=false} |
+h2. Issue 119:
+h5. September 14th, 2014
+||Name||Url||Description||Tags||
+|android-floatinglabel-widgets | https://github.com/marvinlabs/android-floatinglabel-widgets | A set of input widgets with a hint label that floats when input is not empty. | {status:colour=Yellow|title=input|subtle=false} {status:colour=Yellow|title=hint|subtle=false} {status:colour=Yellow|title=widgets|subtle=false} |
+|SnackBar | https://github.com/MrEngineer13/SnackBar | SnackBar is a toast-like alert pattern for Android inspired by the Google Material Design Spec. | {status:colour=Yellow|title=toast-like|subtle=false} {status:colour=Yellow|title=alert|subtle=false} {status:colour=Yellow|title=pattern|subtle=false} |
+|ig-json-parser | https://github.com/Instagram/ig-json-parser/ | Fast JSON parser for java projects | {status:colour=Yellow|title=parser|subtle=false} {status:colour=Yellow|title=projects|subtle=false} {status:colour=Yellow|title=java|subtle=false} |
+h2. Issue 120:
+h5. September 21st, 2014
+||Name||Url||Description||Tags||
+|Android-RxJava | https://github.com/kaushikgopal/Android-RxJava | This is a repository with real-world useful examples of using RxJava with Android. It usually will be in a constant state of "Work in Progress" | {status:colour=Yellow|title=constant|subtle=false} {status:colour=Yellow|title=usually|subtle=false} {status:colour=Yellow|title=real-world|subtle=false} |
+h2. Issue 121:
+h5. September 28th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/alamkanak/Android-Week-View | Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling. | {status:colour=Yellow|title=view)|subtle=false} {status:colour=Yellow|title=day|subtle=false} {status:colour=Yellow|title=(week|subtle=false} |
+|Android-typeface-helper | https://github.com/norbsoft/android-typeface-helper | Android lacks proper support for custom typefaces. Most obvious method of defining typeface for UI elements via XML attributes is missing from default framework views. This library makes it a lot easier to set custom typefaces from java code. | {status:colour=Yellow|title=default|subtle=false} {status:colour=Yellow|title=elements|subtle=false} {status:colour=Yellow|title=typeface|subtle=false} |
+|Lantern | https://github.com/lucamtudor/lantern | A simple Android app to light your way (written in Kotlin) | {status:colour=Yellow|title=(written|subtle=false} {status:colour=Yellow|title=light|subtle=false} {status:colour=Yellow|title=way|subtle=false} |
+h2. Issue 122:
+h5. October 5th, 2014
+||Name||Url||Description||Tags||
+|Android-Wear-Codelab | https://github.com/fnk0/Android-Wear-Codelab | Android Wear codelab for the GDG OSU Stillwater: This codelab was developed by Marcus Gabilheri to be used in the GDG OSU Stillwater I/O Extended event. | {status:colour=Yellow|title=codelab|subtle=false} {status:colour=Yellow|title=developed|subtle=false} {status:colour=Yellow|title=extended|subtle=false} |
+h2. Issue 123:
+h5. October 12th, 2014
+||Name||Url||Description||Tags||
+|Introducing ActionView for Android | https://plus.google.com/+MarkusHi/posts/356rDLDfCoy | Inspired by some fancy Material showcases Markus Hi created a widget which can tween between different actions dynamically. Transitions between drawer navigation, back, close and plus are built-in. | {status:colour=Yellow|title=plus|subtle=false} {status:colour=Yellow|title=close|subtle=false} {status:colour=Yellow|title=actions|subtle=false} |
+|Picasso and CircularTransform Example | https://gist.github.com/donnfelker/46c56cab8441ecf2ee14 | A Picasso and CircularTransform example from Donn Felker | {status:colour=Yellow|title=example|subtle=false} {status:colour=Yellow|title=felker|subtle=false} {status:colour=Yellow|title=donn|subtle=false} |
+h2. Issue 124:
+h5. October 19th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/traex/RippleEffect | Implementation of Ripple effect from Material Design for Android API 14+ | {status:colour=Yellow|title=14+|subtle=false} {status:colour=Yellow|title=effect|subtle=false} {status:colour=Yellow|title=api|subtle=false} |
+|FlipCheckBox | https://github.com/franlopjur/FlipCheckBox | Give your collections (on any View at all) a fancier look by adding a cool way to check elements. | {status:colour=Yellow|title=fancier|subtle=false} {status:colour=Yellow|title=all)|subtle=false} {status:colour=Yellow|title=(on|subtle=false} |
+|LDrawer | https://github.com/ikimuhendis/LDrawer | And another Android drawer icon with material design animation. | {status:colour=Yellow|title=another|subtle=false} {status:colour=Yellow|title=icon|subtle=false} {status:colour=Yellow|title=drawer|subtle=false} |
+|DrawerArrowDrawable | https://github.com/ChrisRenke/DrawerArrowDrawable | A simple drawable backport of the new drawer-indicator/back-arrow rotating drawable from the upcoming Android L. | {status:colour=Yellow|title=drawable|subtle=false} {status:colour=Yellow|title=upcoming|subtle=false} {status:colour=Yellow|title=rotating|subtle=false} |
+|RoboBinding | http://robobinding.github.io/RoboBinding/ | A data-binding Presentation Model (MVVM) framework for the Android platform. RoboBinding helps you write UI code that is easier to read, test and maintain without performance compromise(code generation instead of java reflection). | {status:colour=Yellow|title=generation|subtle=false} {status:colour=Yellow|title=compromise(code|subtle=false} {status:colour=Yellow|title=data-binding|subtle=false} |
+h2. Issue 125:
+h5. October 26th, 2014
+||Name||Url||Description||Tags||
+| | https://chris.banes.me/2014/10/20/palette-v21/ | Tried the Android Lollipop SDK? You may have noticed that Palette's API has been updated. As before, Palette allows you to extract colors from images for use in your UI. | {status:colour=Yellow|title=extract|subtle=false} {status:colour=Yellow|title=noticed|subtle=false} {status:colour=Yellow|title=may|subtle=false} |
+|TaggerString | https://github.com/polok/TaggerString | TaggerString is very light library which allows to build dynamic string resource in much more readable way. | {status:colour=Yellow|title=readable|subtle=false} {status:colour=Yellow|title=string|subtle=false} {status:colour=Yellow|title=resource|subtle=false} |
+|Recyclerview with sticky headers | https://github.com/eowise/recyclerview-stickyheaders | Android library that integrate sticky section headers in your RecyclerView. | {status:colour=Yellow|title=sticky|subtle=false} {status:colour=Yellow|title=section|subtle=false} {status:colour=Yellow|title=integrate|subtle=false} |
+|Display DrawerLayout over ActionBar but under StatusBar | https://plus.google.com/+ChrisBanes/posts/AXaiFCe7rBv | A lot of peeps were asking so Chris Banes explains on StackOverflow. | {status:colour=Yellow|title=explains|subtle=false} {status:colour=Yellow|title=asking|subtle=false} {status:colour=Yellow|title=peeps|subtle=false} |
+|Manifestreplace Gradle Plugin | https://github.com/castorflex/manifestreplace-plugin | Gradle plugin to add more placeholders to your manifest.xml. | {status:colour=Yellow|title=placeholders|subtle=false} {status:colour=Yellow|title=manifestxml|subtle=false} {status:colour=Yellow|title=plugin|subtle=false} |
+|EfficientAdapter | https://github.com/StanKocken/EfficientAdapter | An efficient adapter to make the use of RecyclerView much easier for Android. | {status:colour=Yellow|title=adapter|subtle=false} {status:colour=Yellow|title=efficient|subtle=false} {status:colour=Yellow|title=much|subtle=false} |
+|FloatLabelLayout | https://gist.github.com/chrisbanes/11247418 | A short little gist by Chris Banes that implements the float label UI pattern. | {status:colour=Yellow|title=float|subtle=false} {status:colour=Yellow|title=short|subtle=false} {status:colour=Yellow|title=label|subtle=false} |
+|Talon for Twitter | https://github.com/klinker24/Talon-for-Twitter | This is the complete version of the Twitter client that Luke Klinker created for Android. It is 100% open source, the only thing that you will have to do plug in is your own API keys. If you want to see a well structured app in action then check it out. | {status:colour=Yellow|title=plug|subtle=false} {status:colour=Yellow|title=structured|subtle=false} {status:colour=Yellow|title=thing|subtle=false} |
+h2. Issue 126:
+h5. November 2nd, 2014
+||Name||Url||Description||Tags||
+|App language localization SDK | http://www.transround.com/l6 | The Transround SDK implements dynamic language resource handling with AOP for Android apps. It is used for on-device app translation and on the fly resource distribution in a free app localization framework and service. | {status:colour=Yellow|title=resource|subtle=false} {status:colour=Yellow|title=localization|subtle=false} {status:colour=Yellow|title=distribution|subtle=false} |
+h2. Issue 127:
+h5. November 9th, 2014
+||Name||Url||Description||Tags||
+|Greenrobot Common | https://github.com/greenrobot/greenrobot-common | greenrobot-common provides general purpose utilities for Android and Java projects. Having its root in the early days of Android development, the library is minimalistic, tiny in size (jar < 100k), and focuses on efficiency and performance. | {status:colour=Yellow|title=efficiency|subtle=false} {status:colour=Yellow|title=focuses|subtle=false} {status:colour=Yellow|title=<|subtle=false} |
+|Material Dialogs | https://github.com/afollestad/material-dialogs | Not even AppCompat uses Material theming for AlertDialogs on pre-Lollipop. This is a beautiful and easy solution. | {status:colour=Yellow|title=theming|subtle=false} {status:colour=Yellow|title=beautiful|subtle=false} {status:colour=Yellow|title=even|subtle=false} |
+h2. Issue 128:
+h5. November 16th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/pavlospt/RoundedLetterView | RoundedLetterView like the one in Android 5.0 Contacts app | {status:colour=Yellow|title=one|subtle=false} {status:colour=Yellow|title=contacts|subtle=false} {status:colour=Yellow|title=50|subtle=false} |
+|Tinybus | https://github.com/beworker/tinybus | A lightweight and simple event bus tailored for Android | {status:colour=Yellow|title=tailored|subtle=false} {status:colour=Yellow|title=bus|subtle=false} {status:colour=Yellow|title=event|subtle=false} |
+|Android-ObservableScrollView | https://github.com/ksoichiro/Android-ObservableScrollView | Android library to observe scroll events on scrollable views. | {status:colour=Yellow|title=observe|subtle=false} {status:colour=Yellow|title=scrollable|subtle=false} {status:colour=Yellow|title=events|subtle=false} |
+|Geometry Math Library for C++ Game Developers: MathFu | http://google.github.io/mathfu/ | Google announces 1.0 release of MathFu, a cross-platform geometry math library for C++ game developers. MathFu is a C++ math library developed primarily for games focused on simplicity and efficiency. | {status:colour=Yellow|title=math|subtle=false} {status:colour=Yellow|title=simplicity|subtle=false} {status:colour=Yellow|title=focused|subtle=false} |
+h2. Issue 129:
+h5. November 23rd, 2014
+||Name||Url||Description||Tags||
+|DBFlow | https://github.com/agrosner/DBFlow | A blazing fast, powerful, and very simple ORM android database library that writes database code for you. | {status:colour=Yellow|title=writes|subtle=false} {status:colour=Yellow|title=blazing|subtle=false} {status:colour=Yellow|title=database|subtle=false} |
+|Droidicon | https://github.com/theDazzler/droidicon | Based on IconicDroid, droidicon provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app. | {status:colour=Yellow|title=badges|subtle=false} {status:colour=Yellow|title=droidicon|subtle=false} {status:colour=Yellow|title=more!|subtle=false} |
+|Introducing Android Network Intents | http://www.androidzeitgeist.com/2014/11/introducing-android-network-intents17.html | Sebastian Kaspari's new library allows you to send Intents to listening clients on the local network (WiFi) without knowing who these clients are. Sender and receiver do not need to connect to each other. Therefore the library can be used to write custom discovery protocols. | {status:colour=Yellow|title=clients|subtle=false} {status:colour=Yellow|title=receiver|subtle=false} {status:colour=Yellow|title=discovery|subtle=false} |
+|Snackbar | https://github.com/nispok/snackbar | Library that implements Snackbars from Google's Material Design documentation. | {status:colour=Yellow|title=implements|subtle=false} {status:colour=Yellow|title=google's|subtle=false} {status:colour=Yellow|title=snackbars|subtle=false} |
+h2. Issue 130:
+h5. November 30th, 2014
+||Name||Url||Description||Tags||
+| | https://github.com/inaka/galgo/ | A tiny Android library for those moments when you want your logs to be displayed on screen | {status:colour=Yellow|title=logs|subtle=false} {status:colour=Yellow|title=moments|subtle=false} {status:colour=Yellow|title=displayed|subtle=false} |
+|AndroidProgressLayout | https://github.com/antonkrasov/AndroidProgressLayout | If you're tired of wrapping your Views with RelativeLayout to add ProgressBar then this small view will help you. | {status:colour=Yellow|title=wrapping|subtle=false} {status:colour=Yellow|title=tired|subtle=false} {status:colour=Yellow|title=you're|subtle=false} |
+h2. Issue 131:
+h5. December 7th, 2014
+||Name||Url||Description||Tags||
+|ScrollableItemList | https://github.com/rohaanhamid/ScrollableItemList | An Android RecyclerView List with items that can scroll to reveal more content on the side. This view has been inspired by the one found in the Reddit News App | {status:colour=Yellow|title=found|subtle=false} {status:colour=Yellow|title=reveal|subtle=false} {status:colour=Yellow|title=content|subtle=false} |
+|Grab-n-Run | https://github.com/lukeFalsina/Grab-n-Run | Grab’n Run (aka GNR) is a simple and effective Java Library that you can easily add to your Android projects to perform secure dynamic class loading operations over standard DexClassLoader | {status:colour=Yellow|title=effective|subtle=false} {status:colour=Yellow|title=(aka|subtle=false} {status:colour=Yellow|title=standard|subtle=false} |
+|DiscreteSeekBar | https://github.com/AnderWeb/discreteSeekBar | Here's the start of a project on GitHub to implement Material design's Discrete Slider. The author is looking for help in adding polish and publishing to jcenter. | {status:colour=Yellow|title=publishing|subtle=false} {status:colour=Yellow|title=polish|subtle=false} {status:colour=Yellow|title=design's|subtle=false} |
+|BabushkaText | https://github.com/quiqueqs/BabushkaText | BabushkaText is a custom TextView which lets you customize the styling of parts of your text via Spannables, but without the hassle of having to deal directly with Spannable themselves. | {status:colour=Yellow|title=styling|subtle=false} {status:colour=Yellow|title=hassle|subtle=false} {status:colour=Yellow|title=parts|subtle=false} |
+|Spotify Android SDK | https://developer.spotify.com/technologies/spotify-android-sdk/ | The Spotify Android SDK makes it easy to add audio streaming, user authentication and other Spotify features to Android apps.  | {status:colour=Yellow|title=authentication|subtle=false} {status:colour=Yellow|title=audio|subtle=false} {status:colour=Yellow|title=other|subtle=false} |
+h2. Issue 132:
+h5. December 12th, 2014
+||Name||Url||Description||Tags||
+|New in Gilt Tech Open Source | http://tech.gilt.com/post/105014609604/new-in-gilt-tech-open-source | Gilt Senior Software Engineer Kevin Schultz has just released android-proguard-snippets: Sample ProGuard configurations for common Android libraries. | {status:colour=Yellow|title=configurations|subtle=false} {status:colour=Yellow|title=android-proguard-snippets:|subtle=false} {status:colour=Yellow|title=common|subtle=false} |
+|Collapsing Toolbar Title | https://plus.google.com/+ChrisBanes/posts/J9Fwbc15BHN | Chris Banes shares an implementation of a collapsing toolbar. | {status:colour=Yellow|title=collapsing|subtle=false} {status:colour=Yellow|title=shares|subtle=false} {status:colour=Yellow|title=implementation|subtle=false} |
+h2. Issue 133:
+h5. December 21st, 2014
+||Name||Url||Description||Tags||
+|ParcelableCodeGenerator | https://github.com/foxykeep/ParcelableCodeGenerator | This project is a code generator written in Java used to generate Android code. Given a JSON definition file, it will generate the corresponding Parcelable class. | {status:colour=Yellow|title=generate|subtle=false} {status:colour=Yellow|title=corresponding|subtle=false} {status:colour=Yellow|title=definition|subtle=false} |
+|ContentProviderCodeGenerator | https://github.com/foxykeep/ContentProviderCodeGenerator | Given a database schema JSON definition file, it will generate all the code you need to add the corresponding ContentProvider in your project. | {status:colour=Yellow|title=corresponding|subtle=false} {status:colour=Yellow|title=definition|subtle=false} {status:colour=Yellow|title=schema|subtle=false} |
+|Parser | https://github.com/Raizlabs/Parser | Parser is the fastest JSON-to-Model object parser that uses annotation processing to generate the parsing for you. It only uses reflection one time and parsing is as fast as writing the code yourself. | {status:colour=Yellow|title=parsing|subtle=false} {status:colour=Yellow|title=reflection|subtle=false} {status:colour=Yellow|title=processing|subtle=false} |
+|kotlin-dagger-example | https://github.com/damianpetla/kotlin-dagger-example | This project demonstrate how to setup an Android Project with Kotlin and Dagger 2. | {status:colour=Yellow|title=setup|subtle=false} {status:colour=Yellow|title=demonstrate|subtle=false} {status:colour=Yellow|title=how|subtle=false} |
+h2. Issue 134:
+h5. January 4th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/telly/MrVector | An Android 7+ backport of VectorDrawable. Basic, simple vector drawables are working now. Please lend your support to help complete some of the roadmap. | {status:colour=Yellow|title=lend|subtle=false} {status:colour=Yellow|title=drawables|subtle=false} {status:colour=Yellow|title=vector|subtle=false} |
+|Singleton | https://github.com/Raizlabs/Singleton | An implementation of the Singleton pattern, with the added bonus of disk persistence. | {status:colour=Yellow|title=bonus|subtle=false} {status:colour=Yellow|title=disk|subtle=false} {status:colour=Yellow|title=added|subtle=false} |
+|Soas | https://github.com/MostafaGazar/soas | Native Android "sample of all samples" for beginners and experienced, 14+, with focus on lollipop and Material. Your help is needed to add a few more examples to the project. | {status:colour=Yellow|title=few|subtle=false} {status:colour=Yellow|title=lollipop|subtle=false} {status:colour=Yellow|title=beginners|subtle=false} |
+h2. Issue 135:
+h5. January 11th, 2015
+||Name||Url||Description||Tags||
+|Android Libs | http://android-libs.com/ | Another good site to find all your favorite android libraries and tools for development. Support your Android community! | {status:colour=Yellow|title=community!|subtle=false} {status:colour=Yellow|title=tools|subtle=false} {status:colour=Yellow|title=favorite|subtle=false} |
+h2. Issue 136:
+h5. January 18th, 2015
+||Name||Url||Description||Tags||
+|Gradle Advanced Build Version Plugin | https://github.com/moallemi/gradle-advanced-build-version | A plugin to generate the Android version code and version name automatically. | {status:colour=Yellow|title=name|subtle=false} {status:colour=Yellow|title=version|subtle=false} {status:colour=Yellow|title=generate|subtle=false} |
+|MaterialRangeBar | https://github.com/oli107/material-range-bar | MaterialRangeBar is a fork of https://github.com/edmodo/range-bar that adds some basic material styling, as well as start and end values, values as floats and some other things. | {status:colour=Yellow|title=end|subtle=false} {status:colour=Yellow|title=basic|subtle=false} {status:colour=Yellow|title=fork|subtle=false} |
+|Android Indicators | https://github.com/MoshDev/AndroidIndicators | A simple library to add some effect to screen title. | {status:colour=Yellow|title=screen|subtle=false} {status:colour=Yellow|title=effect|subtle=false} {status:colour=Yellow|title=add|subtle=false} |
+|Android PagerSlidingTabStrip | https://github.com/jpardogo/PagerSlidingTabStrip | Interactive paging indicator widget, compatible with the ViewPager from the Android Support Library. | {status:colour=Yellow|title=compatible|subtle=false} {status:colour=Yellow|title=paging|subtle=false} {status:colour=Yellow|title=indicator|subtle=false} |
+|Side-Menu.Android | https://github.com/Yalantis/Side-Menu.Android | A nicely animated side navigation menu | {status:colour=Yellow|title=navigation|subtle=false} {status:colour=Yellow|title=side|subtle=false} {status:colour=Yellow|title=animated|subtle=false} |
+|Telecine | https://github.com/JakeWharton/Telecine | Jake Wharton has released and open sourced Telecine, a small app which he wrote two months ago for creating clean screen recordings directly on your device. | {status:colour=Yellow|title=recordings|subtle=false} {status:colour=Yellow|title=ago|subtle=false} {status:colour=Yellow|title=months|subtle=false} |
+h2. Issue 137:
+h5. January 25th, 2015
+||Name||Url||Description||Tags||
+|Joda-time-android | https://github.com/dlew/joda-time-android | Dan Lew has created an Android specific port of Joda-time, which provides a quality replacement for the Java date and time classes. | {status:colour=Yellow|title=port|subtle=false} {status:colour=Yellow|title=date|subtle=false} {status:colour=Yellow|title=quality|subtle=false} |
+h2. Issue 139:
+h5. February 8th, 2015
+||Name||Url||Description||Tags||
+|The Fastest Android ORM Database Library | http://www.raizlabs.com/dev/2015/02/go-dbflow-fastest-android-orm-database-library/ | Raizlabs built DBFlow as a more efficient and powerful alternative to existing ORMs, and the results have been outstanding – it’s supposedly the fastest Android ORM database library | {status:colour=Yellow|title=supposedly|subtle=false} {status:colour=Yellow|title=it’s|subtle=false} {status:colour=Yellow|title=–|subtle=false} |
+|RushOrm - Object-relational mapping for Android | http://www.rushorm.com/ | RushOrm for Android (v0.5) replaces the need for SQL by mapping java classes to SQL tables | {status:colour=Yellow|title=tables|subtle=false} {status:colour=Yellow|title=mapping|subtle=false} {status:colour=Yellow|title=replaces|subtle=false} |
+|Beacon-keeper | https://github.com/m039/beacon-keeper | The main goal of this project is to create solid and simple library for locating and working with iBeacons for Android. | {status:colour=Yellow|title=locating|subtle=false} {status:colour=Yellow|title=goal|subtle=false} {status:colour=Yellow|title=solid|subtle=false} |
+|Android-styled-dialogs | https://github.com/avast/android-styled-dialogs | A backport of Material style dialogs based on DialogFragment. Supports stacked buttons, neutral button, callbacks even after rotation. Contains even more specialized dialogs: List, Progress, Time&Date Picker, Custom, etc. | {status:colour=Yellow|title=dialogs:|subtle=false} {status:colour=Yellow|title=specialized|subtle=false} {status:colour=Yellow|title=after|subtle=false} |
+h2. Issue 140:
+h5. February 15th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/prolificinteractive/material-calendarview | A better looking implementation of android's CalendarView. | {status:colour=Yellow|title=android's|subtle=false} {status:colour=Yellow|title=looking|subtle=false} {status:colour=Yellow|title=better|subtle=false} |
+|SlideDateTimePicker | https://github.com/jjobes/SlideDateTimePicker | A combined DatePicker and TimePicker in a DialogFragment for Android. | {status:colour=Yellow|title=combined|subtle=false} {status:colour=Yellow|title=dialogfragment|subtle=false} {status:colour=Yellow|title=timepicker|subtle=false} |
+|Paginize | https://github.com/neevek/Paginize | A light-weight application framework for Android. | {status:colour=Yellow|title=light-weight|subtle=false} {status:colour=Yellow|title=framework|subtle=false} {status:colour=Yellow|title=application|subtle=false} |
+h2. Issue 141:
+h5. February 22nd, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/mikepenz/MaterialDrawer | A simple take on creating a easy to use and fast material drawer implementation | {status:colour=Yellow|title=take|subtle=false} {status:colour=Yellow|title=drawer|subtle=false} {status:colour=Yellow|title=creating|subtle=false} |
+|Awesome-Android | http://snowdream.github.io/awesome-android/ | A huge and good list of Android libs from Github | {status:colour=Yellow|title=libs|subtle=false} {status:colour=Yellow|title=huge|subtle=false} {status:colour=Yellow|title=list|subtle=false} |
+|LoganSquare | https://github.com/bluelinelabs/LoganSquare | Screaming fast JSON parsing and serialization library for Android. | {status:colour=Yellow|title=parsing|subtle=false} {status:colour=Yellow|title=serialization|subtle=false} {status:colour=Yellow|title=fast|subtle=false} |
+|AwesomeText | https://github.com/JMPergar/AwesomeText | A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...). | {status:colour=Yellow|title=facilitates|subtle=false} {status:colour=Yellow|title=tool|subtle=false} {status:colour=Yellow|title=extension|subtle=false} |
+|Hawk | https://github.com/orhanobut/hawk | Secure and easy key value storage for Android. Internally it uses AES for the crypto and SharedPreferences for the storage. With Hawk you can secure persist save any type and collections of types. | {status:colour=Yellow|title=save|subtle=false} {status:colour=Yellow|title=crypto|subtle=false} {status:colour=Yellow|title=key|subtle=false} |
+h2. Issue 142:
+h5. March 1st, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/PhilJay/MPAndroidChart | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations. | {status:colour=Yellow|title=dragging|subtle=false} {status:colour=Yellow|title=charts|subtle=false} {status:colour=Yellow|title=candlestick|subtle=false} |
+|AwesomeValidation | https://github.com/thyrlian/AwesomeValidation | Do you need validation for your Android forms? This library helps to boil down the tedious work to three easy steps. | {status:colour=Yellow|title=boil|subtle=false} {status:colour=Yellow|title=forms?|subtle=false} {status:colour=Yellow|title=three|subtle=false} |
+|SQLBrite | https://github.com/square/sqlbrite | A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations. | {status:colour=Yellow|title=semantics|subtle=false} {status:colour=Yellow|title=stream|subtle=false} {status:colour=Yellow|title=reactive|subtle=false} |
+|TinyTask | https://github.com/inaka/TinyTask | A Tiny Task Library | {status:colour=Yellow|title=task|subtle=false} {status:colour=Yellow|title=tiny|subtle=false} {status:colour=Yellow|title=library|subtle=false} |
+|ArcAnimator | https://github.com/asyl/ArcAnimator | ArcAnimator helps to create arc transition animation | {status:colour=Yellow|title=arc|subtle=false} {status:colour=Yellow|title=transition|subtle=false} {status:colour=Yellow|title=animation|subtle=false} |
+|Clockwise | https://github.com/ustwo/clockwise | Clockwise is a watch face framework for Android Wear. It helps you with all the tedious tasks like handling watch face modes (ambient / burn in / ...) or a big GeometryUtil package with lots of nifty convenience functions. | {status:colour=Yellow|title=face|subtle=false} {status:colour=Yellow|title=watch|subtle=false} {status:colour=Yellow|title=convenience|subtle=false} |
+h2. Issue 143:
+h5. March 8th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/orhanobut/bee | Bee is a QA/Debug tool that works like a widget in any application. | {status:colour=Yellow|title=works|subtle=false} {status:colour=Yellow|title=tool|subtle=false} {status:colour=Yellow|title=qa/debug|subtle=false} |
+|MaterialLoadingProgressBar | https://github.com/lsjwzh/MaterialLoadingProgressBar | MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator. | {status:colour=Yellow|title=styled|subtle=false} {status:colour=Yellow|title=looks|subtle=false} {status:colour=Yellow|title=loading|subtle=false} |
+|SharedPreferenceInspector | https://github.com/orhanobut/dialogplus | Provides a simple way to see shared preferences and edit them for test. | {status:colour=Yellow|title=preferences|subtle=false} {status:colour=Yellow|title=shared|subtle=false} {status:colour=Yellow|title=edit|subtle=false} |
+|Caeser | https://github.com/vbauer/caesar | Caesar is a tiny Java library that allows to create an asynchronous proxy-version of some synchronous bean. It means that you can still think in terms of your service/bean/object and use its methods instead of writing concurrency code. | {status:colour=Yellow|title=concurrency|subtle=false} {status:colour=Yellow|title=methods|subtle=false} {status:colour=Yellow|title=service/bean/object|subtle=false} |
+|Wasp | https://github.com/orhanobut/wasp | Wasp is compact, complete, easy-in-use and all-in-one network solution. | {status:colour=Yellow|title=all-in-one|subtle=false} {status:colour=Yellow|title=easy-in-use|subtle=false} {status:colour=Yellow|title=network|subtle=false} |
+|DragSortAdapter | https://github.com/vinc3m1/DragSortAdapter | Drag and drop re-ordering adapter for RecyclerView. A note from the author: "This is an advanced library meant to be flexible and customizable which leads to more complexity in integration. It is not meant to be a simple drop-in." | {status:colour=Yellow|title=meant|subtle=false} {status:colour=Yellow|title=complexity|subtle=false} {status:colour=Yellow|title=leads|subtle=false} |
+h2. Issue 144:
+h5. March 15th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/ckurtm/FabButton | Android Floating ActionButton with a progress indicator ring. | {status:colour=Yellow|title=indicator|subtle=false} {status:colour=Yellow|title=progress|subtle=false} {status:colour=Yellow|title=ring|subtle=false} |
+|Android Shadow Layout | https://github.com/dmytrodanylyk/shadow-layout | Android Shadow Layout - because CardView is not enough (e.g. when drawind a  circular shadow). | {status:colour=Yellow|title=drawind|subtle=false} {status:colour=Yellow|title=enough|subtle=false} {status:colour=Yellow|title=because|subtle=false} |
+|DialogPlus | https://github.com/orhanobut/dialogplus | Simple, easy dialog solution for Android. | {status:colour=Yellow|title=solution|subtle=false} {status:colour=Yellow|title=dialog|subtle=false} {status:colour=Yellow|title=easy|subtle=false} |
+|SimpleListView | https://github.com/orhanobut/simplelistview | SimpleListView has been updated to 1.1. | {status:colour=Yellow|title=updated|subtle=false} {status:colour=Yellow|title=been|subtle=false} {status:colour=Yellow|title=11|subtle=false} |
+|Godot | https://github.com/hannesstruss/godot | Keep track of how much time you spend on Gradle builds. If you're into that sort of thing that gradle plugin is for you. | {status:colour=Yellow|title=sort|subtle=false} {status:colour=Yellow|title=spend|subtle=false} {status:colour=Yellow|title=track|subtle=false} |
+|Scala API Demos | http://www.47deg.com/blog/scala-api-demos | Here's the release of another open source project - Scala API Demos, an application written 100% in Scala on Android. Showcasing several examples for different skill levels of Android and Scala Developers. If you want to learn Android using a modern functional language, Scala API Demos is a good way to begin | {status:colour=Yellow|title=begin|subtle=false} {status:colour=Yellow|title=skill|subtle=false} {status:colour=Yellow|title=learn|subtle=false} |
+h2. Issue 145:
+h5. March 22nd, 2015
+||Name||Url||Description||Tags||
+|Jackdaw | https://github.com/vbauer/jackdaw | Jackdaw is a Java Annotation Processor which allows to simplify Java/Android development and prevents writing of tedious code. Jackdaw was inspired by Lombok project, but in comparison with Lombok: it does not need to have an extra plugin in IDE and it does not modify the existing source code. | {status:colour=Yellow|title=modify|subtle=false} {status:colour=Yellow|title=extra|subtle=false} {status:colour=Yellow|title=comparison|subtle=false} |
+|Open-Source-Android-Apps | https://github.com/pcqpcq/open-source-android-apps | This is a collection of Android Apps with Open Source. | {status:colour=Yellow|title=collection|subtle=false} {status:colour=Yellow|title=apps|subtle=false} {status:colour=Yellow|title=android|subtle=false} |
+h2. Issue 146:
+h5. March 29th, 2015
+||Name||Url||Description||Tags||
+|Bandhook-Kotlin | https://github.com/antoniolg/Bandhook-Kotlin | The purpose of the project is to show a complex (at least in architecture) project entirely written using Kotlin | {status:colour=Yellow|title=entirely|subtle=false} {status:colour=Yellow|title=architecture)|subtle=false} {status:colour=Yellow|title=least|subtle=false} |
+|AirMapView | https://github.com/airbnb/AirMapView | AirMapView is a view abstraction that enables interactive maps for devices with and without Google Play Services. It is built to support multiple native map providers including Google Maps V2 and soon Amazon Maps V2. | {status:colour=Yellow|title=soon|subtle=false} {status:colour=Yellow|title=providers|subtle=false} {status:colour=Yellow|title=interactive|subtle=false} |
+|Introducing Fresco: A new image library for Android | https://code.facebook.com/posts/366199913563917/introducing-fresco-a-new-image-library-for-android/ | What happens when your app runs out of memory due to many large bitmaps? It crashes. Facebook set out to solve this by creating a library we're calling Fresco — it manages images and the memory they use. Crashes begone. | {status:colour=Yellow|title=memory|subtle=false} {status:colour=Yellow|title=they|subtle=false} {status:colour=Yellow|title=—|subtle=false} |
+h2. Issue 147:
+h5. April 5th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/PhilJay/MPAndroidChart | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations. | {status:colour=Yellow|title=dragging|subtle=false} {status:colour=Yellow|title=charts|subtle=false} {status:colour=Yellow|title=candlestick|subtle=false} |
+|Waiting Dots | https://github.com/tajchert/WaitingDots | Small library that provides... bouncing dots. | {status:colour=Yellow|title=bouncing|subtle=false} {status:colour=Yellow|title=dots|subtle=false} {status:colour=Yellow|title=small|subtle=false} |
+|DaVinci | https://github.com/florent37/DaVinci | DaVinci is an image downloading and caching library for Android Wear. | {status:colour=Yellow|title=downloading|subtle=false} {status:colour=Yellow|title=caching|subtle=false} {status:colour=Yellow|title=image|subtle=false} |
+|Logger | https://github.com/orhanobut/logger | Simple, pretty and powerful logger for android | {status:colour=Yellow|title=logger|subtle=false} {status:colour=Yellow|title=pretty|subtle=false} {status:colour=Yellow|title=powerful|subtle=false} |
+h2. Issue 148:
+h5. April 12th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/florent37/WearMenu | An Android Wear Menu implementation. | {status:colour=Yellow|title=wear|subtle=false} {status:colour=Yellow|title=menu|subtle=false} {status:colour=Yellow|title=implementation|subtle=false} |
+|Android Segmented Control-View | https://github.com/klongmitre/android-segmented-control-view | An implementation of the UISegmentedControl for Android. It's not a natural Android UI pattern - but if you need it - here is an implementation. | {status:colour=Yellow|title=natural|subtle=false} {status:colour=Yellow|title=here|subtle=false} {status:colour=Yellow|title=-|subtle=false} |
+|RecyclerView Animators | https://github.com/wasabeef/recyclerview-animators | An Android Animation library which easily add itemanimator to RecyclerView items. | {status:colour=Yellow|title=itemanimator|subtle=false} {status:colour=Yellow|title=easily|subtle=false} {status:colour=Yellow|title=add|subtle=false} |
+|KAndroid | https://github.com/pawegio/KAndroid | Kotlin library for Android providing useful extensions to eliminate boilerplate code in Android SDK and focus on productivity. | {status:colour=Yellow|title=eliminate|subtle=false} {status:colour=Yellow|title=extensions|subtle=false} {status:colour=Yellow|title=focus|subtle=false} |
+|FlipViewPager.Draco | https://github.com/Yalantis/FlipViewPager.Draco | This project aims to provide a working page flip implementation for usage in ListView. | {status:colour=Yellow|title=usage|subtle=false} {status:colour=Yellow|title=flip|subtle=false} {status:colour=Yellow|title=page|subtle=false} |
+|RichEditor | https://github.com/wasabeef/richeditor-android | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. | {status:colour=Yellow|title=beautiful|subtle=false} {status:colour=Yellow|title=editor|subtle=false} {status:colour=Yellow|title=wysiwyg|subtle=false} |
+|SmartTabLayout | https://github.com/ogaclejapan/SmartTabLayout | The custom ViewPager title strip which gives continuous feedback to the user when scrolling was update to 1.1.0 this week. Lot's of improvements. | {status:colour=Yellow|title=continuous|subtle=false} {status:colour=Yellow|title=strip|subtle=false} {status:colour=Yellow|title=scrolling|subtle=false} |
+h2. Issue 149:
+h5. April 19th, 2015
+||Name||Url||Description||Tags||
+|Vector-Compat | https://github.com/wnafee/vector-compat | A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop. | {status:colour=Yellow|title=introduced|subtle=false} {status:colour=Yellow|title=classes|subtle=false} {status:colour=Yellow|title=support|subtle=false} |
+|Weatherlib | http://survivingwithandroid.github.io/WeatherLib/ | Weatherlib aggregates proprietary 3rd party weather APIs and presents those functions through a simple, unified, normalized API. | {status:colour=Yellow|title=normalized|subtle=false} {status:colour=Yellow|title=functions|subtle=false} {status:colour=Yellow|title=weather|subtle=false} |
+|Material Dialogs | https://github.com/afollestad/material-dialogs | New version 0.7.2.4 of Material designed dialogs has been released. | {status:colour=Yellow|title=dialogs|subtle=false} {status:colour=Yellow|title=designed|subtle=false} {status:colour=Yellow|title=version|subtle=false} |
+|WearViewStub | https://github.com/florent37/WearViewStub | Display different layout on Android Wear Square / Round / Moto 360. | {status:colour=Yellow|title=/|subtle=false} {status:colour=Yellow|title=layout|subtle=false} {status:colour=Yellow|title=360|subtle=false} |
+|Curved Fab Reveal Example | https://github.com/saulmm/Curved-Fab-Reveal-Example | Very nice UI motion example of a circle morphing into a view. It's probably too specific to be reused 'as is' - but you can learn how to create an awesome interface. | {status:colour=Yellow|title=is'|subtle=false} {status:colour=Yellow|title='as|subtle=false} {status:colour=Yellow|title=reused|subtle=false} |
+|Decor | https://github.com/chemouna/Decor | Decor is a library that applies decorators to android layout with additional attributes without the need to extend and create a cutom view for each functionnality. | {status:colour=Yellow|title=cutom|subtle=false} {status:colour=Yellow|title=extend|subtle=false} {status:colour=Yellow|title=decorators|subtle=false} |
+h2. Issue 150:
+h5. April 26th, 2015
+||Name||Url||Description||Tags||
+|Dynamo | https://github.com/doridori/Dynamo | Dynamo is a lightweight state-based architecture for Android. The idea is to have a stateful controller (it's called a Dynamo) that drives your application but is decoupled from the Android architecture. Be sure to check out the wiki for a lengthy motivation and a lot of code examples and use cases. | {status:colour=Yellow|title=motivation|subtle=false} {status:colour=Yellow|title=lengthy|subtle=false} {status:colour=Yellow|title=wiki|subtle=false} |
+|Free and open source Android applications | http://fossdroid.com/ | This website features a list of Android applications (sorted in categories) which are free and open source. So if you ever wondered how these apps are developed - Obi Wan would say: Use the source. | {status:colour=Yellow|title=say:|subtle=false} {status:colour=Yellow|title=categories)|subtle=false} {status:colour=Yellow|title=(sorted|subtle=false} |
+h2. Issue 151:
+h5. May 3rd, 2015
+||Name||Url||Description||Tags||
+|Material View Pager | https://github.com/florent37/MaterialViewPager | A Material Design ViewPager easy to use library | {status:colour=Yellow|title=viewpager|subtle=false} {status:colour=Yellow|title=use|subtle=false} {status:colour=Yellow|title=easy|subtle=false} |
+|Tray | https://github.com/grandcentrix/tray | Tray provides an advanced API which makes it super easy to access and maintain your settings data with upgrade and migrate mechanisms. Welcome to SharedPreferences 2.0 aka Tray. | {status:colour=Yellow|title=aka|subtle=false} {status:colour=Yellow|title=settings|subtle=false} {status:colour=Yellow|title=migrate|subtle=false} |
+h2. Issue 152:
+h5. May 10th, 2015
+||Name||Url||Description||Tags||
+|Carbon | https://github.com/ZieIony/Carbon | Material Design implementation for Android 2.1+ | {status:colour=Yellow|title=implementation|subtle=false} {status:colour=Yellow|title=21+|subtle=false} {status:colour=Yellow|title=material|subtle=false} |
+|Mugen | https://github.com/vinaysshenoy/mugen | Microlibrary for implementing infinite scroll on Android | {status:colour=Yellow|title=infinite|subtle=false} {status:colour=Yellow|title=implementing|subtle=false} {status:colour=Yellow|title=scroll|subtle=false} |
+|Material-cab | https://github.com/afollestad/material-cab | A simple library for Android, which replaces the stock contextual action bar to allow more customization. | {status:colour=Yellow|title=contextual|subtle=false} {status:colour=Yellow|title=stock|subtle=false} {status:colour=Yellow|title=replaces|subtle=false} |
+h2. Issue 153:
+h5. May 17th, 2015
+||Name||Url||Description||Tags||
+|Bookends | https://github.com/tumblr/Bookends | A UI widget that allows for headers and footers on lists backed by RecyclerView, for Android | {status:colour=Yellow|title=footers|subtle=false} {status:colour=Yellow|title=backed|subtle=false} {status:colour=Yellow|title=lists|subtle=false} |
+|Remember | https://github.com/tumblr/Remember | An in-memory data store backed by shared preferences, for Android. | {status:colour=Yellow|title=in-memory|subtle=false} {status:colour=Yellow|title=shared|subtle=false} {status:colour=Yellow|title=backed|subtle=false} |
+|Anko | https://github.com/JetBrains/anko | Anko is a library which makes Android application development faster and easier. It makes your code clean and easy to read, and lets you forget about rough edges of Android SDK for Java. | {status:colour=Yellow|title=edges|subtle=false} {status:colour=Yellow|title=rough|subtle=false} {status:colour=Yellow|title=forget|subtle=false} |
+h2. Issue 154:
+h5. May 24th, 2015
+||Name||Url||Description||Tags||
+|Mizuu | https://github.com/MizzleDK/Mizuu | Mizuu is a user friendly, open source media center application for Android. The application helps manage all your movie and TV show video files - and automatically fetches useful information about the video content, including title, plot, cover art and actors. | {status:colour=Yellow|title=video|subtle=false} {status:colour=Yellow|title=art|subtle=false} {status:colour=Yellow|title=cover|subtle=false} |
+|Rx-android-architecture | https://github.com/tehmou/rx-android-architecture | This is an ambitious example project of a reference architecture for Android using RxJava for an app based on streams of data. | {status:colour=Yellow|title=streams|subtle=false} {status:colour=Yellow|title=ambitious|subtle=false} {status:colour=Yellow|title=reference|subtle=false} |
+|RxRecyclerView | https://github.com/exallium/RxRecyclerView | Crazy easy to use RecyclerView Adapter for applications using RxJava | {status:colour=Yellow|title=applications|subtle=false} {status:colour=Yellow|title=rxjava|subtle=false} {status:colour=Yellow|title=recyclerview|subtle=false} |
+|JumpingBeans | https://github.com/frakbot/JumpingBeans | A Span-based library to make your text jump like Mexican beans! Or rather, like the '...' that Hangouts uses to indicate that someone is typing, or some other kind of ongoing activity. | {status:colour=Yellow|title=ongoing|subtle=false} {status:colour=Yellow|title=kind|subtle=false} {status:colour=Yellow|title=someone|subtle=false} |
+h2. Issue 155:
+h5. May 31st, 2015
+||Name||Url||Description||Tags||
+|Ormlite-android-gradle-plugin | https://github.com/stephanenicolas/ormlite-android-gradle-plugin | A Gradle plugin for Android to generate an ORMLite configuration file and boost DAO creation | {status:colour=Yellow|title=boost|subtle=false} {status:colour=Yellow|title=creation|subtle=false} {status:colour=Yellow|title=file|subtle=false} |
+|Cheesesquare | https://github.com/chrisbanes/cheesesquare/ | Demos the new Android Design library | {status:colour=Yellow|title=new|subtle=false} {status:colour=Yellow|title=demos|subtle=false} {status:colour=Yellow|title=design|subtle=false} |
+h2. Issue 156:
+h5. June 7th, 2015
+||Name||Url||Description||Tags||
+|Bottomsheet | https://github.com/Flipboard/bottomsheet | BottomSheet is an Android component which presents a dismissible view from the bottom of the screen. BottomSheet can be a useful replacement for dialogs and menus but can hold any view so the use cases are endless. | {status:colour=Yellow|title=hold|subtle=false} {status:colour=Yellow|title=menus|subtle=false} {status:colour=Yellow|title=bottom|subtle=false} |
+|EventBus 3 beta announced at droidcon | http://androiddevblog.com/eventbus-3-droidcon/ | EventBus 3 beta, with its new annotation based API, is available on Maven central. | {status:colour=Yellow|title=3|subtle=false} {status:colour=Yellow|title=available|subtle=false} {status:colour=Yellow|title=its|subtle=false} |
+h2. Issue 157:
+h5. June 14th, 2015
+||Name||Url||Description||Tags||
+|Android-design-support-lib-sample | https://github.com/swissonid/android-design-support-lib-sample | Here's a sample app that implements many Material design patterns using the new Material support library. | {status:colour=Yellow|title=patterns|subtle=false} {status:colour=Yellow|title=many|subtle=false} {status:colour=Yellow|title=here's|subtle=false} |
+h2. Issue 158:
+h5. June 21st, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/PaoloRotolo/AppIntro | Android Library to make a cool intro for your app. | {status:colour=Yellow|title=intro|subtle=false} {status:colour=Yellow|title=cool|subtle=false} {status:colour=Yellow|title=make|subtle=false} |
+|VitaminSaber | https://github.com/w2ji/VitaminSaber | Vitamin Saber provides resource injection for Android (@InjectResource(resId)). It is annotation processor based and will provide all the speed you need on Android by avoiding reflection. | {status:colour=Yellow|title=avoiding|subtle=false} {status:colour=Yellow|title=speed|subtle=false} {status:colour=Yellow|title=injection|subtle=false} |
+|IntentBuilder | https://github.com/emilsjolander/IntentBuilder | IntentBuilder is a type safe way of creating intents and populating them with extras. Intents were created to be very dynamic but often times the dynamic nature of intents is not needed and just gets in the way of writing safe code. | {status:colour=Yellow|title=intents|subtle=false} {status:colour=Yellow|title=safe|subtle=false} {status:colour=Yellow|title=nature|subtle=false} |
+|GuillotineMenu-Android | https://github.com/Yalantis/GuillotineMenu-Android | Neat library, that provides a simple way to implement guillotine-styled animation | {status:colour=Yellow|title=guillotine-styled|subtle=false} {status:colour=Yellow|title=implement|subtle=false} {status:colour=Yellow|title=animation|subtle=false} |
+|Heimdall | https://github.com/rheinfabrik/Heimdall.droid | Heimdall is an easy to use OAuth 2 library for Android. Connecting various SocialNetworks like Github or Facebook can be a daunting task - Heimdall helps you to provide an easy to use interface to achieve that task. Be sure to checkout the example app in to Repo. | {status:colour=Yellow|title=achieve|subtle=false} {status:colour=Yellow|title=interface|subtle=false} {status:colour=Yellow|title=daunting|subtle=false} |
+h2. Issue 159:
+h5. June 28th, 2015
+||Name||Url||Description||Tags||
+|Android-TextView-LinkBuilder | https://github.com/klinker24/Android-TextView-LinkBuilder | Insanely easy way to create clickable links within a TextView. | {status:colour=Yellow|title=clickable|subtle=false} {status:colour=Yellow|title=links|subtle=false} {status:colour=Yellow|title=within|subtle=false} |
+|Android-ReactiveLocation | https://github.com/mcharmas/Android-ReactiveLocation | Small library that wraps Google Play Services API in RxJava Observables reducing boilerplate to minimum. | {status:colour=Yellow|title=reducing|subtle=false} {status:colour=Yellow|title=wraps|subtle=false} {status:colour=Yellow|title=boilerplate|subtle=false} |
+h2. Issue 160:
+h5. July 5th, 2015
+||Name||Url||Description||Tags||
+|Deeplinkdispatch | https://github.com/airbnb/DeepLinkDispatch | DeepLinkDispatch provides a declarative, annotation-based API to declare application deep links. | {status:colour=Yellow|title=deep|subtle=false} {status:colour=Yellow|title=declare|subtle=false} {status:colour=Yellow|title=annotation-based|subtle=false} |
+|Storio | https://github.com/pushtorefresh/storio | StorIO is a modern API for SQLiteDatabase and ContentResolver. Offers a powerful & simple set of operations: Put, Get, Delete, via an API with type safety, immutability & thread-safety. Offers RxJava support as well. | {status:colour=Yellow|title=&|subtle=false} {status:colour=Yellow|title=immutability|subtle=false} {status:colour=Yellow|title=operations:|subtle=false} |
+|CatKit | https://github.com/cesarferreira/CatKit | Android library for cat placeholder images. | {status:colour=Yellow|title=placeholder|subtle=false} {status:colour=Yellow|title=cat|subtle=false} {status:colour=Yellow|title=images|subtle=false} |
+h2. Issue 161:
+h5. July 12th, 2015
+||Name||Url||Description||Tags||
+|TourGuide | https://github.com/worker8/TourGuide | TourGuide is an Android library. It lets you add pointer, overlay and tooltip easily, guiding users on how to use your app | {status:colour=Yellow|title=users|subtle=false} {status:colour=Yellow|title=guiding|subtle=false} {status:colour=Yellow|title=tooltip|subtle=false} |
+|ProcessPhoenix | https://github.com/JakeWharton/ProcessPhoenix | Process Phoenix facilitates restarting your application process. This should only be used for things like fundamental state changes in your debug builds (e.g., changing from staging to production). | {status:colour=Yellow|title=staging|subtle=false} {status:colour=Yellow|title=changing|subtle=false} {status:colour=Yellow|title=debug|subtle=false} |
+|Mortar-architect | https://github.com/lukaspili/mortar-architect | Mortar Architect provides a flexible stack for navigating and displaying views and their presenters, using the MVP pattern with Mortar | {status:colour=Yellow|title=displaying|subtle=false} {status:colour=Yellow|title=navigating|subtle=false} {status:colour=Yellow|title=stack|subtle=false} |
+|ThreeTenABP | https://github.com/JakeWharton/ThreeTenABP | JSR-310 was included in Java 8 as the java.time.* package. It is a full replacement for the ailing Date and Calendar APIs in both Java and Android. This library makes the JSR-310 Java 6 backport Android friendly. | {status:colour=Yellow|title=6|subtle=false} {status:colour=Yellow|title=ailing|subtle=false} {status:colour=Yellow|title=8|subtle=false} |
+h2. Issue 162:
+h5. July 19th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/florent37/GlidePalette | Android Lollipop Palette is now easy to use with Glide | {status:colour=Yellow|title=now|subtle=false} {status:colour=Yellow|title=glide|subtle=false} {status:colour=Yellow|title=palette|subtle=false} |
+|Paginize | https://github.com/neevek/Paginize | Paginize is a light-weight application framework for Android. | {status:colour=Yellow|title=light-weight|subtle=false} {status:colour=Yellow|title=framework|subtle=false} {status:colour=Yellow|title=application|subtle=false} |
+|Awesome Android UI | https://github.com/wasabeef/awesome-android-ui | A curated list of awesome Android UI/UX libraries | {status:colour=Yellow|title=curated|subtle=false} {status:colour=Yellow|title=libraries|subtle=false} {status:colour=Yellow|title=awesome|subtle=false} |
+|MultiViewPager | https://github.com/Pixplicity/MultiViewPager | The MultiViewPager is an extension of the support-v4 library's ViewPager that allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered. | {status:colour=Yellow|title=pages|subtle=false} {status:colour=Yellow|title=aligning|subtle=false} {status:colour=Yellow|title=narrower|subtle=false} |
+|Pocketknife | https://github.com/hansenji/pocketknife | Intent and Bundle utility for Android | {status:colour=Yellow|title=utility|subtle=false} {status:colour=Yellow|title=bundle|subtle=false} {status:colour=Yellow|title=intent|subtle=false} |
+|Fontinator | https://github.com/svendvd/fontinator | Fontinator by Sven Nähler is an Android-Library make it easy, to use custom Fonts. | {status:colour=Yellow|title=make|subtle=false} {status:colour=Yellow|title=custom|subtle=false} {status:colour=Yellow|title=android-library|subtle=false} |
+h2. Issue 163:
+h5. July 26th, 2015
+||Name||Url||Description||Tags||
+|Dart | https://github.com/f2prateek/dart | In Dart 2.0, the team added new module is called Henson, which is an annotation processor that helps you navigate between activities. | {status:colour=Yellow|title=module|subtle=false} {status:colour=Yellow|title=navigate|subtle=false} {status:colour=Yellow|title=processor|subtle=false} |
+|Retroauth | https://github.com/Unic8/retroauth | Android library build on top of retrofit, for simple handling of authenticated requests | {status:colour=Yellow|title=authenticated|subtle=false} {status:colour=Yellow|title=requests|subtle=false} {status:colour=Yellow|title=build|subtle=false} |
+h2. Issue 164:
+h5. August 2nd, 2015
+||Name||Url||Description||Tags||
+|WilliamChart | https://github.com/diogobernardino/WilliamChart | Android library to create charts. | {status:colour=Yellow|title=create|subtle=false} {status:colour=Yellow|title=charts|subtle=false} {status:colour=Yellow|title=android|subtle=false} |
+|Once | https://github.com/jonfinerty/Once | A small Android library to manage one-off operations. | {status:colour=Yellow|title=one-off|subtle=false} {status:colour=Yellow|title=manage|subtle=false} {status:colour=Yellow|title=small|subtle=false} |
+|Sixpack-java | https://github.com/seatgeek/sixpack-java | A Java client for the open source Sixpack A/B testing framework. | {status:colour=Yellow|title=testing|subtle=false} {status:colour=Yellow|title=client|subtle=false} {status:colour=Yellow|title=a/b|subtle=false} |
+|Blurry | https://github.com/wasabeef/Blurry | Blurry is an easy blur library for Android | {status:colour=Yellow|title=blur|subtle=false} {status:colour=Yellow|title=blurry|subtle=false} {status:colour=Yellow|title=easy|subtle=false} |
+h2. Issue 165:
+h5. August 9th, 2015
+||Name||Url||Description||Tags||
+|AnDevCon-RxPatterns | https://github.com/colintheshots/AnDevCon-RxPatterns | Patterns used by Colin Lee in his AnDevCon talk "Reactive Android Patterns" | {status:colour=Yellow|title=talk|subtle=false} {status:colour=Yellow|title=his|subtle=false} {status:colour=Yellow|title=used|subtle=false} |
+|RxJava-Android-Samples | https://github.com/kaushikgopal/RxJava-Android-Samples | This is a work-in-progress repository with real-world useful examples of using RxJava with Android. | {status:colour=Yellow|title=work-in-progress|subtle=false} {status:colour=Yellow|title=real-world|subtle=false} {status:colour=Yellow|title=useful|subtle=false} |
+|RxAndroid 1.0.0 | https://github.com/ReactiveX/RxAndroid/releases/tag/v1.0.0 | RxAndroid has reached version 1.0! | {status:colour=Yellow|title=reached|subtle=false} {status:colour=Yellow|title=version|subtle=false} {status:colour=Yellow|title=10!|subtle=false} |
+h2. Issue 166:
+h5. August 16th, 2015
+||Name||Url||Description||Tags||
+|Awesome Android Testing | https://github.com/hotchemi/awesome-android-testing | Nice curated list of Android testing frameworks. | {status:colour=Yellow|title=curated|subtle=false} {status:colour=Yellow|title=testing|subtle=false} {status:colour=Yellow|title=list|subtle=false} |
+|ReactiveNetwork | https://github.com/pwittchen/ReactiveNetwork | ReactiveNetwork is an Android library listening network connection state and change of the WiFi signal strength with RxJava Observables | {status:colour=Yellow|title=strength|subtle=false} {status:colour=Yellow|title=signal|subtle=false} {status:colour=Yellow|title=connection|subtle=false} |
+|android-apt 1.7 released | https://plus.google.com/+HugoVisser/posts/jhUWS2Lw1q2 | Hugo Visser has published an update to android-apt, a gradle plugin that assists in working with annotation processors in combination with Android Studio. | {status:colour=Yellow|title=combination|subtle=false} {status:colour=Yellow|title=processors|subtle=false} {status:colour=Yellow|title=assists|subtle=false} |
+|Android Saripaar | https://github.com/ragunathjawahar/android-saripaar | UI form validation library for Android. | {status:colour=Yellow|title=form|subtle=false} {status:colour=Yellow|title=validation|subtle=false} {status:colour=Yellow|title=ui|subtle=false} |
+|MaterialShowcaseView | https://github.com/deano2390/MaterialShowcaseView | A Material Design themed ShowcaseView for Android. | {status:colour=Yellow|title=themed|subtle=false} {status:colour=Yellow|title=showcaseview|subtle=false} {status:colour=Yellow|title=material|subtle=false} |
+|MaterialSheetFab | https://github.com/gowong/material-sheet-fab | Library that implements the floating action button to sheet transition from Google's Material Design documentation. It can be used with any FAB library on Android 4.0+ (API levels >= 14). | {status:colour=Yellow|title=>=|subtle=false} {status:colour=Yellow|title=sheet|subtle=false} {status:colour=Yellow|title=levels|subtle=false} |
+|Android Fillable Loaders | https://github.com/JorgeCastilloPrz/AndroidFillableLoaders | Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. | {status:colour=Yellow|title=logo|subtle=false} {status:colour=Yellow|title=branding|subtle=false} {status:colour=Yellow|title=option|subtle=false} |
+|WatchTower | https://github.com/hitherejoe/WatchTower | A sample application created to test, explore and demonstrate the Proximity Beacon API. | {status:colour=Yellow|title=explore|subtle=false} {status:colour=Yellow|title=demonstrate|subtle=false} {status:colour=Yellow|title=sample|subtle=false} |
+h2. Issue 167:
+h5. August 23rd, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/hitherejoe/Android-Boilerplate | A simple boilerplate application which demonstrates the downloading, persisting and syncing of data - displayed with a common layout used amongst applications. It features the use of the Design Support library, data caching and the new Test Modules, separating the functional tests from production code. | {status:colour=Yellow|title=production|subtle=false} {status:colour=Yellow|title=separating|subtle=false} {status:colour=Yellow|title=amongst|subtle=false} |
+|CoordinatorLayoutExample | https://github.com/saulmm/CoordinatorLayoutExample | This example tries to replicate the profile animation of Hangouts 4.0 to show how a CoordinatorLayout.Behavior could be used. | {status:colour=Yellow|title=profile|subtle=false} {status:colour=Yellow|title=replicate|subtle=false} {status:colour=Yellow|title=tries|subtle=false} |
+h2. Issue 168:
+h5. August 30th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/android-awesome/Awesome-Material | A library for Android that makes it super easy for developers to incorporate material design and bootstrap buttons with icons into their apps, or simple icon themed TextViews. | {status:colour=Yellow|title=buttons|subtle=false} {status:colour=Yellow|title=bootstrap|subtle=false} {status:colour=Yellow|title=incorporate|subtle=false} |
+|Aftermath | https://github.com/MichaelEvans/Aftermath | A simple, annotation-based Android library for generating onActivityForResult handlers. | {status:colour=Yellow|title=generating|subtle=false} {status:colour=Yellow|title=annotation-based|subtle=false} {status:colour=Yellow|title=handlers|subtle=false} |
+|GAlette | https://github.com/uPhyca/GAlette | Annotation-triggered tracking along with Google Analytics for Android | {status:colour=Yellow|title=along|subtle=false} {status:colour=Yellow|title=tracking|subtle=false} {status:colour=Yellow|title=analytics|subtle=false} |
+|MVVM_Hacker_News | https://github.com/hitherejoe/MVVM_Hacker_News | An experimental Hacker News reader built as an MVVM structured project using the official Data Binding library. | {status:colour=Yellow|title=official|subtle=false} {status:colour=Yellow|title=reader|subtle=false} {status:colour=Yellow|title=experimental|subtle=false} |
+|Assertj-rx | https://github.com/ribot/assertj-rx | This library extends AssertJ core with the aim of providing elegant assertions to test RxJava Observables. | {status:colour=Yellow|title=assertions|subtle=false} {status:colour=Yellow|title=elegant|subtle=false} {status:colour=Yellow|title=core|subtle=false} |
+|SCViewPager | https://github.com/sacot41/SCViewPager | A simple ViewPager extends that provide scroll based animation like Jazz Hands for iOS | {status:colour=Yellow|title=extends|subtle=false} {status:colour=Yellow|title=scroll|subtle=false} {status:colour=Yellow|title=provide|subtle=false} |
+|AndroidFillableLoaders | https://github.com/JorgeCastilloPrz/AndroidFillableLoaders | Android Open Source library providing an interesting fillable progress view working with SVG paths. | {status:colour=Yellow|title=fillable|subtle=false} {status:colour=Yellow|title=providing|subtle=false} {status:colour=Yellow|title=progress|subtle=false} |
+h2. Issue 169:
+h5. September 6th, 2015
+||Name||Url||Description||Tags||
+|Frenchtoast | https://github.com/pyricau/frenchtoast | FrenchToast gives you absolute control over your app Toasts. It does so by duplicating the internals of Android Toasts and giving you access. | {status:colour=Yellow|title=giving|subtle=false} {status:colour=Yellow|title=internals|subtle=false} {status:colour=Yellow|title=duplicating|subtle=false} |
+|Backboard | https://github.com/tumblr/Backboard | backboard is a motion-driven animation framework for Android. It is built on top of rebound that makes it easier to use by coupling it to views and motions. | {status:colour=Yellow|title=coupling|subtle=false} {status:colour=Yellow|title=rebound|subtle=false} {status:colour=Yellow|title=motion-driven|subtle=false} |
+|Android-historian | https://github.com/mwolfson/android-historian | This app is designed to demonstrate the various components of the Android Support libraries, in particular, showing how to implement Material design into your app, using these controls. | {status:colour=Yellow|title=showing|subtle=false} {status:colour=Yellow|title=these|subtle=false} {status:colour=Yellow|title=components|subtle=false} |
+|Sticky-headers-recyclerview | https://github.com/timehop/sticky-headers-recyclerview | This decorator allows you to easily create section headers for RecyclerViews using a LinearLayoutManager in either vertical or horizontal orientation. | {status:colour=Yellow|title=vertical|subtle=false} {status:colour=Yellow|title=either|subtle=false} {status:colour=Yellow|title=decorator|subtle=false} |
+|Tabby | https://github.com/hitherejoe/Tabby | Tabby (Cat), is a simple sample application demoing the features of the new Chrome Custom Tabs support library for Android | {status:colour=Yellow|title=demoing|subtle=false} {status:colour=Yellow|title=features|subtle=false} {status:colour=Yellow|title=chrome|subtle=false} |
+h2. Issue 170:
+h5. September 13th, 2015
+||Name||Url||Description||Tags||
+|HomeMirror | https://github.com/HannahMitt/HomeMirror | Android application powering the mirror in my house | {status:colour=Yellow|title=house|subtle=false} {status:colour=Yellow|title=my|subtle=false} {status:colour=Yellow|title=mirror|subtle=false} |
+|Telescope | https://github.com/mattprecious/telescope | A simple tool to allow easy bug report capturing within your app. | {status:colour=Yellow|title=capturing|subtle=false} {status:colour=Yellow|title=bug|subtle=false} {status:colour=Yellow|title=report|subtle=false} |
+|ksoap2-android 3.5.0 released | https://groups.google.com/forum/#!msg/ksoap2-android/ChNnzl8N0EM/F1KwixFNAQAJ | ksoap2 library for Android has reached a 3.5 release with lots of updates. | {status:colour=Yellow|title=ksoap2|subtle=false} {status:colour=Yellow|title=lots|subtle=false} {status:colour=Yellow|title=reached|subtle=false} |
+h2. Issue 171:
+h5. September 20th, 2015
+||Name||Url||Description||Tags||
+|AndroidAppCrashFlowChart | https://github.com/octohub/AndroidAppCrashFlowChart | A flow chart to help the modern Android dev solve crashes. This is what open source is all about, collaboration, so please submit your pull requests. | {status:colour=Yellow|title=please|subtle=false} {status:colour=Yellow|title=flow|subtle=false} {status:colour=Yellow|title=submit|subtle=false} |
+|Material-Animations | https://github.com/lgvalle/Material-Animations | A huge code sample that demonstrates the three main types of animations that can be done via the Android Transition Framework. | {status:colour=Yellow|title=types|subtle=false} {status:colour=Yellow|title=huge|subtle=false} {status:colour=Yellow|title=animations|subtle=false} |
+h2. Issue 172:
+h5. September 27th, 2015
+||Name||Url||Description||Tags||
+|SearchBubble | https://github.com/tunjos/searchbubble | Search Bubble allows you to Search with a floating button. It's thats simple. | {status:colour=Yellow|title=thats|subtle=false} {status:colour=Yellow|title=floating|subtle=false} {status:colour=Yellow|title=bubble|subtle=false} |
+|Archi | https://github.com/ivacf/archi | This repository showcases and compares the exact same sample app built three times using the following approaches: Standard Android, Model View Presenter and Model View View-Model | {status:colour=Yellow|title=approaches:|subtle=false} {status:colour=Yellow|title=exact|subtle=false} {status:colour=Yellow|title=compares|subtle=false} |
+|Tray | https://github.com/grandcentrix/tray | Tray is a cross-process data management approach to SharedPreferences. Tray also provides an advanced API which makes it super easy to access and maintain your data with upgrade and migrate mechanisms. | {status:colour=Yellow|title=approach|subtle=false} {status:colour=Yellow|title=management|subtle=false} {status:colour=Yellow|title=cross-process|subtle=false} |
+|Renderscript Demo: Healing Brush | https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/ | Implementation of a healing brush (like in Photoshop) in Renderscript. | {status:colour=Yellow|title=brush|subtle=false} {status:colour=Yellow|title=healing|subtle=false} {status:colour=Yellow|title=(like|subtle=false} |
+h2. Issue 173:
+h5. October 4th, 2015
+||Name||Url||Description||Tags||
+|ExplosionField | https://github.com/tyrantgit/ExplosionField | Explosive dust effect for views | {status:colour=Yellow|title=dust|subtle=false} {status:colour=Yellow|title=effect|subtle=false} {status:colour=Yellow|title=views|subtle=false} |
+|Effective Android | https://github.com/rallat/EffectiveAndroid | This sample project shows how to apply MVP and Clean architecture on an Android app. | {status:colour=Yellow|title=apply|subtle=false} {status:colour=Yellow|title=shows|subtle=false} {status:colour=Yellow|title=architecture|subtle=false} |
+|Paper | https://github.com/pilgr/Paper | Paper is a fast NoSQL data storage for Android that lets you save/restore Java objects by using efficient Kryo serialization and handling data structure changes automatically. | {status:colour=Yellow|title=structure|subtle=false} {status:colour=Yellow|title=save/restore|subtle=false} {status:colour=Yellow|title=changes|subtle=false} |
+h2. Issue 174:
+h5. October 11th, 2015
+||Name||Url||Description||Tags||
+|Screenshot-tests-for-android | http://facebook.github.io/screenshot-tests-for-android/ | Automated testing that helps prevent visual regressions in Android apps | {status:colour=Yellow|title=regressions|subtle=false} {status:colour=Yellow|title=visual|subtle=false} {status:colour=Yellow|title=prevent|subtle=false} |
+|Dexcount-gradle-plugin | https://github.com/KeepSafe/dexcount-gradle-plugin | A Gradle plugin to report the number of method references in your APK on every build. | {status:colour=Yellow|title=references|subtle=false} {status:colour=Yellow|title=every|subtle=false} {status:colour=Yellow|title=method|subtle=false} |
+|RxPermissions | https://github.com/tbruyelle/RxPermissions | This library allows the usage of RxJava with the new Android M permission model. | {status:colour=Yellow|title=usage|subtle=false} {status:colour=Yellow|title=permission|subtle=false} {status:colour=Yellow|title=model|subtle=false} |
+h2. Issue 175:
+h5. October 18th, 2015
+||Name||Url||Description||Tags||
+|TextSurface | https://github.com/elevenetc/TextSurface | A little animation framework which could help you to show message in a nice looking way. | {status:colour=Yellow|title=message|subtle=false} {status:colour=Yellow|title=could|subtle=false} {status:colour=Yellow|title=looking|subtle=false} |
+|Iosched | https://github.com/google/iosched | Google has released the source for the Google I/O 2015 app. | {status:colour=Yellow|title=2015|subtle=false} {status:colour=Yellow|title=i/o|subtle=false} {status:colour=Yellow|title=google|subtle=false} |
+|Digitus | https://github.com/afollestad/digitus | A library that simplifies the use of Marshmallow's Fingerprint API (Nexus Imprint). Falls back to a simple password on older API levels. | {status:colour=Yellow|title=password|subtle=false} {status:colour=Yellow|title=back|subtle=false} {status:colour=Yellow|title=older|subtle=false} |
+h2. Issue 176:
+h5. October 25th, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/lisawray/fontbinding | A full example of custom fonts in XML using data binding and including font caching. | {status:colour=Yellow|title=binding|subtle=false} {status:colour=Yellow|title=font|subtle=false} {status:colour=Yellow|title=fonts|subtle=false} |
+|FlowingDrawer | https://github.com/mxn21/FlowingDrawer | Swipe right to display drawer with flowing & bouncing effects. | {status:colour=Yellow|title=flowing|subtle=false} {status:colour=Yellow|title=right|subtle=false} {status:colour=Yellow|title=bouncing|subtle=false} |
+|Lobsterpicker | https://github.com/LarsWerkman/Lobsterpicker | Lobsterpicker is a library for android material design made to support apps and developers if a color should be choosen by a user. | {status:colour=Yellow|title=choosen|subtle=false} {status:colour=Yellow|title=color|subtle=false} {status:colour=Yellow|title=made|subtle=false} |
+h2. Issue 177:
+h5. November 1st, 2015
+||Name||Url||Description||Tags||
+| | https://github.com/nickbutcher/plaid | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | {status:colour=Yellow|title=&|subtle=false} {status:colour=Yellow|title=understandable|subtle=false} {status:colour=Yellow|title=principles|subtle=false} |
+|MPAndroidChart | https://github.com/PhilJay/MPAndroidChart | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations. | {status:colour=Yellow|title=bubble-|subtle=false} {status:colour=Yellow|title=dragging|subtle=false} {status:colour=Yellow|title=charts|subtle=false} |
+|Favor | https://github.com/soarcn/Favor | A easy way of using Android SharedPreferences | {status:colour=Yellow|title=way|subtle=false} {status:colour=Yellow|title=sharedpreferences|subtle=false} {status:colour=Yellow|title=using|subtle=false} |
+h2. Issue 178:
+h5. November 8th, 2015
+||Name||Url||Description||Tags||
+|Frodo | https://github.com/android10/frodo | Frodo is an android library used for logging RxJava Observables and Subscribers outputs on the logcat. | {status:colour=Yellow|title=outputs|subtle=false} {status:colour=Yellow|title=logging|subtle=false} {status:colour=Yellow|title=used|subtle=false} |
+|ReLinker | https://github.com/KeepSafe/ReLinker | A robust native library loader for Android. | {status:colour=Yellow|title=loader|subtle=false} {status:colour=Yellow|title=robust|subtle=false} {status:colour=Yellow|title=native|subtle=false} |
+|Self-compiling Android Application | https://github.com/Tribler/self-compile-Android | This is a real spooky proof of concept of an application that is capable of self-compilation, mutation and viral spreading. It currently only works on Android 4.3_r3.1 with Galaxy Nexus. Or Cyanogenmod 12.1 of android 5.1.1, confirmed on Nexus 5,6 and 10 devices. | {status:colour=Yellow|title=confirmed|subtle=false} {status:colour=Yellow|title=viral|subtle=false} {status:colour=Yellow|title=mutation|subtle=false} |
+|EmailAutoCompleteTextView | https://github.com/tasomaniac/EmailAutoCompleteTextView | An AutoCompleteTextView with builtin Adapter with the emails in the device. The library automatically adds GET_ACCOUNTS permission into your Manifest. For Android Marshmallow, the library also handles runtime permissions. | {status:colour=Yellow|title=emails|subtle=false} {status:colour=Yellow|title=builtin|subtle=false} {status:colour=Yellow|title=runtime|subtle=false} |
+|KotlinFPWebinar | https://github.com/mikehearn/KotlinFPWebinar | This is the code written as part of the Kotlin functional programming webinar | {status:colour=Yellow|title=webinar|subtle=false} {status:colour=Yellow|title=programming|subtle=false} {status:colour=Yellow|title=part|subtle=false} |
+h2. Issue 179:
+h5. November 15th, 2015
+||Name||Url||Description||Tags||
+|Search-View-Layout | https://github.com/sahildave/Search-View-Layout | Search View Layout like Lollipop Dialer | {status:colour=Yellow|title=dialer|subtle=false} {status:colour=Yellow|title=search|subtle=false} {status:colour=Yellow|title=like|subtle=false} |
+|FlycoTabLayout | https://github.com/H07000223/FlycoTabLayout | Heavily modified TabLayouts with some interesting new features. | {status:colour=Yellow|title=modified|subtle=false} {status:colour=Yellow|title=interesting|subtle=false} {status:colour=Yellow|title=new|subtle=false} |
+h2. Issue 180:
+h5. November 22nd, 2015
+||Name||Url||Description||Tags||
+|Presentation | https://github.com/StanKocken/Presentation | An architecture for Android as a replacement of MVC. | {status:colour=Yellow|title=architecture|subtle=false} {status:colour=Yellow|title=replacement|subtle=false} {status:colour=Yellow|title=mvc|subtle=false} |
+|Scissors | https://github.com/lyft/scissors | The team from Lyft brings you a fixed viewport image cropping library for Android with built-in support for Picasso or Glide. | {status:colour=Yellow|title=built-in|subtle=false} {status:colour=Yellow|title=cropping|subtle=false} {status:colour=Yellow|title=viewport|subtle=false} |
+|fragnums | https://github.com/pyricau/fragnums | We all know that Fragments suck, and that #enumsmatter. What if we could replace Fragments with Enums? Here's an enum based library to replace fragments, because #perfmatters! | {status:colour=Yellow|title=replace|subtle=false} {status:colour=Yellow|title=#perfmatters!|subtle=false} {status:colour=Yellow|title=enum|subtle=false} |
+|Dexter | https://github.com/karumi/Dexter | Dexter is an Android library that simplifies the process of requesting permissions at runtime. Dexter frees your permission code from your activities and lets you write that logic anywhere you want. | {status:colour=Yellow|title=anywhere|subtle=false} {status:colour=Yellow|title=frees|subtle=false} {status:colour=Yellow|title=permissions|subtle=false} |
+|TinyDancer | https://github.com/brianPlummer/TinyDancer | Are you a performance junkie? Do want your apps to run smooth like butter? Then checkout TinyDancer, a littler helper that indicates if your app is dropping frames. | {status:colour=Yellow|title=dropping|subtle=false} {status:colour=Yellow|title=indicates|subtle=false} {status:colour=Yellow|title=littler|subtle=false} |

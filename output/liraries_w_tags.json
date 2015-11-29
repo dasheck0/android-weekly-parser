@@ -1,0 +1,4673 @@
+[
+  {
+    "url": "https://github.com/jfeinstein10/SlidingMenu",
+    "name": "Sliding Menu",
+    "description": "Jeremy Feinstein just updated his Sliding Menu component. Some optimizations and more example code.",
+    "issue": 0,
+    "tags": [
+      "optimizations",
+      "just",
+      "updated"
+    ]
+  },
+  {
+    "url": "https://github.com/mecid/roboboost",
+    "name": "Roboboost",
+    "description": "Roboboost is a library that takes the guesswork out of development. For example it let's you inject views via annotations. The library can be compared to Roboguice but the author Mecid Djabrayilov says that things are done more efficient.",
+    "issue": 0,
+    "tags": [
+      "says",
+      "compared",
+      "inject"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/finapps-personal-shopper/",
+    "name": "FinAppsParty",
+    "description": "Xavi Rigau released a prototype app open source at google code. The app is shopping assistant that was created during FinAppParty 2012",
+    "issue": 0,
+    "tags": [
+      "assistant",
+      "shopping",
+      "google"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh/wiki/Changelog",
+    "name": "Android Pull To Refresh 1.4.2",
+    "description": "AndroidPullToRefresh 1.4.2 has been released. The old style flip animation is back. He also introduces PullToRefreshWebView2, which is a new version of PullToRefreshWebView that delegates calls to the WebView's Javascript. For more updates check the changelog.",
+    "issue": 0,
+    "tags": [
+      "updates",
+      "calls",
+      "delegates"
+    ]
+  },
+  {
+    "url": "http://ahmetalpbalkan.com/blog/introducing-orman-framework/",
+    "name": "ORMAN Framework",
+    "description": "The ORMAN framework was hyped on HackerNews yesterday. It's an object relational mapper for SQLite. We're pretty sceptical about this library since the blogpost is from 2011, the Github repository seems to be unmaintained and it also has zero test coverage. If you're looking for something more solid you better check out GreenDAO from Greenrobot.",
+    "issue": 0,
+    "tags": [
+      "zero",
+      "unmaintained",
+      "blogpost"
+    ]
+  },
+  {
+    "url": "https://github.com/Todd-Davies/ProgressWheel",
+    "name": "Another progress visualization",
+    "description": "Todd David has released an UI component that visualizes progress without a progress bar.",
+    "issue": 15,
+    "tags": [
+      "visualizes",
+      "progress",
+      "ui"
+    ]
+  },
+  {
+    "url": "http://greendao-orm.com/",
+    "name": "Android ORM for SQLite",
+    "description": "GreenDao is an ORM that maps Java classes directly onto SQLite tables. No more tedious SQL wrapping.",
+    "issue": 15,
+    "tags": [
+      "onto",
+      "maps",
+      "tedious"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/ActionBarSherlock/tree/4.0-wip",
+    "name": "ActionBarSherlock",
+    "description": "Android library for implementing the action bar design pattern using the native ActionBar on 3.0+ and a custom implementation on pre-3.0 through a single API and theme.",
+    "issue": 16,
+    "tags": [
+      "implementing",
+      "single",
+      "bar"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/romannurik-code/source/browse/misc/bash_completion/adb",
+    "name": "Bash completion for the adb tool",
+    "description": "Roman Nurik has hacked together a great bash completion for the adb tool.",
+    "issue": 16,
+    "tags": [
+      "completion",
+      "bash",
+      "hacked"
+    ]
+  },
+  {
+    "url": "http://libgdx.badlogicgames.com/",
+    "name": "LibGDX",
+    "description": "LibGDX is a cross-platform 2D and 3D game development framework written in Java/C/C++.",
+    "issue": 17,
+    "tags": [
+      "cross-platform",
+      "game",
+      "development"
+    ]
+  },
+  {
+    "url": "http://loopj.com/android-async-http/",
+    "name": "Android Asynchronous Http Client",
+    "description": "A Callback-Based Http Client Library for Android built on top of Apache’s HttpClient libraries.",
+    "issue": 17,
+    "tags": [
+      "top",
+      "built",
+      "httpclient"
+    ]
+  },
+  {
+    "url": "https://github.com/cyrilmottier/GreenDroid",
+    "name": "GreenDroid",
+    "description": "GreenDroid is a development library for the Android platform. It is intended to make UI developments easier and consistent through your applications.",
+    "issue": 18,
+    "tags": [
+      "consistent",
+      "developments",
+      "intended"
+    ]
+  },
+  {
+    "url": "https://github.com/ruboto/ruboto",
+    "name": "Ruboto - Ruby on Android",
+    "description": "A platform for developing apps using JRuby on Android.",
+    "issue": 18,
+    "tags": [
+      "developing",
+      "platform",
+      "apps"
+    ]
+  },
+  {
+    "url": "https://code.google.com/p/range-seek-bar/",
+    "name": "RangeSeekBar widget",
+    "description": "If you need a widget allowing to handle two values (like a minimum and maximum value or a range), this RangeSeekBar widget might suit your needs.",
+    "issue": 19,
+    "tags": [
+      "suit",
+      "maximum",
+      "minimum"
+    ]
+  },
+  {
+    "url": "http://actionbarsherlock.com/",
+    "name": "ActionBarSherlock 4.0",
+    "description": "Version 4.0 of the ActionBarSherlock has been released. ActionBarSherlock is an extension of the compatibility library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.",
+    "issue": 19,
+    "tags": [
+      "facilitate",
+      "across",
+      "compatibility"
+    ]
+  },
+  {
+    "url": "https://github.com/rno/Android-ScrollBarPanel",
+    "name": "Android Scroll Bar Panel",
+    "description": "Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0.",
+    "issue": 20,
+    "tags": [
+      "attach",
+      "it's",
+      "done"
+    ]
+  },
+  {
+    "url": "https://github.com/MikeOrtiz/TouchImageView",
+    "name": "Touch Image View",
+    "description": "Adds panning and pinch zoom to Android ImageView.",
+    "issue": 20,
+    "tags": [
+      "panning",
+      "pinch",
+      "zoom"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/android-active-record/",
+    "name": "Android Active Record",
+    "description": "Lightweight persistence library for Android.",
+    "issue": 21,
+    "tags": [
+      "persistence",
+      "lightweight",
+      "android"
+    ]
+  },
+  {
+    "url": "https://github.com/jberkel/maven-android-plugin",
+    "name": "Maven plugin for Android",
+    "description": "Easy to use Maven plugin for Android.",
+    "issue": 21,
+    "tags": [
+      "plugin",
+      "maven",
+      "use"
+    ]
+  },
+  {
+    "url": "https://github.com/emilsjolander/StickyListHeaders",
+    "name": "StickyListHeaders",
+    "description": "StickyListHeaders is an android library that makes it easy to integrate section headers in your ListView.",
+    "issue": 22,
+    "tags": [
+      "section",
+      "integrate",
+      "headers"
+    ]
+  },
+  {
+    "url": "https://github.com/simon-weber/Unofficial-Google-Music-API",
+    "name": "Google Music API",
+    "description": "Simon Weber has just released his unofficial Google Music API on Github.",
+    "issue": 22,
+    "tags": [
+      "unofficial",
+      "just",
+      "his"
+    ]
+  },
+  {
+    "url": "https://github.com/jkiddo/gmusic.api",
+    "name": "Java Port",
+    "description": "If you want to implement a client, there is also a Java Port",
+    "issue": 22,
+    "tags": [
+      "there",
+      "implement",
+      "port"
+    ]
+  },
+  {
+    "url": "http://www.androidsnippets.com/",
+    "name": "Android Snippets",
+    "description": "Ever wondered which parameters to stuff in an intent to share an email? Android Snippets got the answer!",
+    "issue": 23,
+    "tags": [
+      "answer!",
+      "email?",
+      "intent"
+    ]
+  },
+  {
+    "url": "https://github.com/jgilfelt/android-viewbadger",
+    "name": "Android Viewbadger",
+    "description": "Badges are a pretty common design pattern. Viewbadger is a simple way to \"badge\" any given Android view at runtime without having to cater for it in layout.",
+    "issue": 23,
+    "tags": [
+      "cater",
+      "given",
+      "\"badge\""
+    ]
+  },
+  {
+    "url": "https://github.com/loopj/android-smart-image-view",
+    "name": "Smart Image View for Android",
+    "description": "SmartImageView is a drop-in replacement for Android’s standard ImageView which additionally allows images to be loaded from URLs or the user’s contact address book. Images are cached to memory and to disk for super fast loading.",
+    "issue": 23,
+    "tags": [
+      "address",
+      "contact",
+      "user’s"
+    ]
+  },
+  {
+    "url": "https://github.com/foxykeep/datadroid",
+    "name": "DataDroid",
+    "description": "DataDroid is a library that helps you to develop Restful Android Applications.",
+    "issue": 24,
+    "tags": [
+      "develop",
+      "helps",
+      "restful"
+    ]
+  },
+  {
+    "url": "https://github.com/pakerfeldt/android-viewflow",
+    "name": "ViewFlow UI",
+    "description": "The ViewFlow UI component is a horizontally scrollable ViewGroup with items populated from an Adapter. It has been recently improved and updated.",
+    "issue": 24,
+    "tags": [
+      "improved",
+      "recently",
+      "populated"
+    ]
+  },
+  {
+    "url": "https://github.com/vladimirvivien/workbench/tree/master/android-tutorials/MockHttpServer",
+    "name": "Mock Http Server",
+    "description": "Testing HTTP services can a pain. Fortunately Vladimir Vivien has created a mock http server to test your services.",
+    "issue": 24,
+    "tags": [
+      "mock",
+      "services",
+      "server"
+    ]
+  },
+  {
+    "url": "https://github.com/kaeppler/ignition",
+    "name": "Droid-Fo -> Ignition",
+    "description": "Droid-Fu was a nice library of helper classes - you Ignition is aiming to supersede it. It contains several widgets, a better HTTP Client and a nicer and more robust implementation of AsyncTask.",
+    "issue": 25,
+    "tags": [
+      "supersede",
+      "aiming",
+      "nicer"
+    ]
+  },
+  {
+    "url": "http://blog.synyx.de/2010/06/android-and-self-signed-ssl-certificates/",
+    "name": "Android and self-signed ssl certificates",
+    "description": "Dealing with self-signed SSL certificates is a real pain, because it's not that simple to add them in your app and let android accept them. But fortunately, there's a workaround that uses an own SSLSocketFactory and an own TrustManager.",
+    "issue": 25,
+    "tags": [
+      "own",
+      "workaround",
+      "there's"
+    ]
+  },
+  {
+    "url": "http://mobilegameengines.com/android/game_engines",
+    "name": "All Android Game Engines",
+    "description": "Do you want to code a game on Android? Don't reinvent the wheel, there are plenty of game engines out there. This website shows you a comprehensive list of commercial and open source game engines.",
+    "issue": 26,
+    "tags": [
+      "game",
+      "commercial",
+      "comprehensive"
+    ]
+  },
+  {
+    "url": "http://chrisrisner.com/31-Days-of-Android--Day-5%E2%80%93Adding-Multiple-Activities-and-using-Intents",
+    "name": "31 Days of Android: Day 5",
+    "description": "31 Days of Android: Day 5 Adding multiple activities and using intents.",
+    "issue": 26,
+    "tags": [
+      "activities",
+      "5",
+      "31"
+    ]
+  },
+  {
+    "url": "http://sudarmuthu.com/blog/10-open-source-android-apps-which-every-android-developer-must-look-into",
+    "name": "10 Open Source Android Apps you should look into",
+    "description": "You've learned how to program Android? Now you want to do a larger app, but you quite unsure how fit the bits & pieces? Maybe get some inspiration by looking at 10 open source Android apps.",
+    "issue": 26,
+    "tags": [
+      "pieces?",
+      "bits",
+      "fit"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/android-image-manager/",
+    "name": "Android-image-manager",
+    "description": "Image manager provides performant and easy way to load image resources asynchronously with many options like loading different versions and image quality control.",
+    "issue": 27,
+    "tags": [
+      "resources",
+      "performant",
+      "manager"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/2621173",
+    "name": "ContractFragment",
+    "description": "This gist shows you how to implement a ContractFragment. It ensures that the parent Activity implements a contract interface.",
+    "issue": 27,
+    "tags": [
+      "contract",
+      "parent",
+      "ensures"
+    ]
+  },
+  {
+    "url": "http://andappdevlog.tumblr.com/post/6756906908/using-loaders-beyond-cursors",
+    "name": "Using Loaders beyond Cursors",
+    "description": "If you want to use a AsyncTaskLoader to load something over the network here is a little snippets to help you get the job done.",
+    "issue": 27,
+    "tags": [
+      "job",
+      "snippets",
+      "here"
+    ]
+  },
+  {
+    "url": "https://github.com/ramdroid/AdbToggleAccessLib",
+    "name": "AdbToggleAccessLib",
+    "description": "A code library to communicate AdbToggle.",
+    "issue": 27,
+    "tags": [
+      "communicate",
+      "adbtoggle",
+      "code"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh?utm_source=androidweekly",
+    "name": "Pull To Refresh",
+    "description": "A very good implementation of the pull to refresh paradigma for lists.",
+    "issue": 28,
+    "tags": [
+      "paradigma",
+      "refresh",
+      "pull"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/android-pinch/",
+    "name": "Android Pinch",
+    "description": "Do you need a pinch zoom component and you don't want to use a WebView, then you have to try Android Pinch.",
+    "issue": 28,
+    "tags": [
+      "try",
+      "don't",
+      "pinch"
+    ]
+  },
+  {
+    "url": "http://chrisrisner.com/31-Days-of-Android--Day-7%E2%80%93Sharing-Data-Between-Activities",
+    "name": "31 Days of Android: Day 7",
+    "description": "31 Days of Android: Sharing data between Activities.",
+    "issue": 29,
+    "tags": [
+      "31",
+      "between",
+      "data"
+    ]
+  },
+  {
+    "url": "https://github.com/makeramen/android-segmentedradiobutton",
+    "name": "Segmented Radiobutton",
+    "description": "This weeks code snippets will deal with how to implement an iOS like segmented control. We've selected 3 open source components, so that you can choose for yourself.",
+    "issue": 29,
+    "tags": [
+      "segmented",
+      "weeks",
+      "choose"
+    ]
+  },
+  {
+    "url": "https://github.com/bookwormat/segcontrol",
+    "name": "Segcontrol",
+    "description": "(github.com)",
+    "issue": 29,
+    "tags": [
+      "(githubcom)"
+    ]
+  },
+  {
+    "url": "http://ttlnews.blogspot.de/2011/09/segmented-button-control-in-android.html",
+    "name": "Segmented Button Control in Android",
+    "description": "(ttlnews.blogspot.de)",
+    "issue": 29,
+    "tags": [
+      "(ttlnewsblogspotde)"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/andtweet/",
+    "name": "AndTweet",
+    "description": "AndTweet is an open source Android client for twitter.",
+    "issue": 29,
+    "tags": [
+      "client",
+      "twitter",
+      "andtweet"
+    ]
+  },
+  {
+    "url": "https://github.com/hvasconcelos/beardroid",
+    "name": "Beardroid",
+    "description": "Some usefull code to create Amazing Android Apps. The project lacks a lot of documentation but the aim is create a bunch of boilerplate code for Android Application development.",
+    "issue": 30,
+    "tags": [
+      "bunch",
+      "documentation",
+      "usefull"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/2980593",
+    "name": "Swipe to Dismiss",
+    "description": "Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code.",
+    "issue": 30,
+    "tags": [
+      "find",
+      "interesting",
+      "ui"
+    ]
+  },
+  {
+    "url": "https://github.com/NikolaDespotoski/DoubleTapListViewHandler",
+    "name": "Double Tap List View Handler",
+    "description": "Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code.",
+    "issue": 30,
+    "tags": [
+      "find",
+      "interesting",
+      "ui"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/appunta/?utm_source=androidweekly",
+    "name": "Appunta",
+    "description": "An AR engine that covers not only AR but related operations like compass and location.",
+    "issue": 31,
+    "tags": [
+      "compass",
+      "engine",
+      "related"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/iosched/?utm_source=androidweekly",
+    "name": "iosched",
+    "description": "The source code for the Google I/O 2012 Android app is now available at Google Code. If you're a newbie developer and want to see how things are glued together take a look at this to get some inspiration.",
+    "issue": 31,
+    "tags": [
+      "glued",
+      "newbie",
+      "together"
+    ]
+  },
+  {
+    "url": "http://turbomanage.wordpress.com/2012/06/12/a-basic-http-client-for-android-and-more/?utm_source=androidweekly",
+    "name": "A basic HTTP client for Android",
+    "description": "I'm not quit sure if I like the AsyncTask handling since AsyncTask can really mess things up when you tear an Activity down (e.g. during orientation changes) but it looks quite solid nonetheless.",
+    "issue": 31,
+    "tags": [
+      "changes)",
+      "orientation",
+      "tear"
+    ]
+  },
+  {
+    "url": "https://github.com/ldo/gles2_sample_android",
+    "name": "gles2 sample android",
+    "description": "Lawrence D'Oliveiro released a little sample app where he demonstrates custom Open GLES shader programming.",
+    "issue": 32,
+    "tags": [
+      "shader",
+      "where",
+      "demonstrates"
+    ]
+  },
+  {
+    "url": "https://github.com/JohnHostile/LoadingImageView",
+    "name": "LoadingImageView",
+    "description": "Our fellow developer John Hostile released LoadingImageView on Github. It's a view that displays a holo-themed progress/loading animation. Very cool that he released his first open source work - more developers should do that.",
+    "issue": 32,
+    "tags": [
+      "progress/loading",
+      "holo-themed",
+      "displays"
+    ]
+  },
+  {
+    "url": "http://jakewharton.com/hanselandgretel/",
+    "name": "HanselAndGretel",
+    "description": "Hansel und Gretel is an Android library providing bread crumbs to the support library fragments.",
+    "issue": 32,
+    "tags": [
+      "crumbs",
+      "bread",
+      "und"
+    ]
+  },
+  {
+    "url": "https://github.com/xrigau/Synchronized-Scrolling/tree/master/XaviRigau-SynchronizedScrolling",
+    "name": "Synchronized Scrolling Library",
+    "description": "Synchronized Scrolling by Xavi Rigua is a library project that allows you to have a Synchronized scrolling effect in a view, similar to the one in the GMail app (when you open a conversation with multiple messages, you can scroll down and the senders info stay on top of screen).",
+    "issue": 33,
+    "tags": [
+      "stay",
+      "info",
+      "senders"
+    ]
+  },
+  {
+    "url": "https://github.com/nostra13/Android-Simple-Social-Sharing",
+    "name": "Android-Simple-Social-Sharing",
+    "description": "Sergey Tarasevich has a library on Github that helps you to share your content in Facebook or Twitter.",
+    "issue": 33,
+    "tags": [
+      "share",
+      "content",
+      "helps"
+    ]
+  },
+  {
+    "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
+    "name": "Android-Universal-Image-Loader",
+    "description": "Universal Image Loader (also by Sergey Terasevich) is a reusable and powerful component for asynchronous image loading, caching and displaying.",
+    "issue": 33,
+    "tags": [
+      "reusable",
+      "(also",
+      "caching"
+    ]
+  },
+  {
+    "url": "http://androidannotations.org/",
+    "name": "Android annotations",
+    "description": "AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance. It has RoboGuice under the hood and really simplifies your code from boilerplate.",
+    "issue": 34,
+    "tags": [
+      "really",
+      "hood",
+      "simplifying"
+    ]
+  },
+  {
+    "url": "https://github.com/neofoniemobile/Crouton",
+    "name": "Crouton",
+    "description": "Crouton, is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast.",
+    "issue": 34,
+    "tags": [
+      "insensitive",
+      "feel",
+      "alternative"
+    ]
+  },
+  {
+    "url": "https://github.com/robotmedia/AndroidBillingLibrary",
+    "name": "AndroidBillingLibrary",
+    "description": "Android Billing Library implements in-app billing's full specification and offers high-level classes to use it. Transactions are stored in a local obfuscated database which can be easily queried.",
+    "issue": 34,
+    "tags": [
+      "obfuscated",
+      "stored",
+      "high-level"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/robotium/",
+    "name": "Robotium",
+    "description": "Robotium is a test framework created to make it easy to write powerful and robust automatic black-box test cases for Android applications.",
+    "issue": 35,
+    "tags": [
+      "black-box",
+      "automatic",
+      "test"
+    ]
+  },
+  {
+    "url": "http://openaphid.github.com/blog/2012/05/21/how-to-implement-flipboard-animation-on-android/",
+    "name": "Implement Flipboard Animation",
+    "description": "Do you want to give your app a Flipboard like effect? Here's some code, that exactly does that.",
+    "issue": 35,
+    "tags": [
+      "exactly",
+      "effect?",
+      "give"
+    ]
+  },
+  {
+    "url": "http://loopj.com/android-async-http/",
+    "name": "Asynchronous Http Client",
+    "description": "An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries. All requests are made outside of your app’s main UI thread, but any callback logic will be executed on the same thread as the callback was created using Android’s Handler message passing.",
+    "issue": 36,
+    "tags": [
+      "callback",
+      "executed",
+      "app’s"
+    ]
+  },
+  {
+    "url": "https://github.com/SimonVT/android-menudrawer",
+    "name": "Android Menudrawer",
+    "description": "Android Menu Drawer is a fly in app menu implementation based on this blog post (http://android.cyrilmottier.com/?p=658). It's implemented as an Android Library project.",
+    "issue": 36,
+    "tags": [
+      "implemented",
+      "fly",
+      "post"
+    ]
+  },
+  {
+    "url": "https://github.com/ramdroid/WizardBuilder",
+    "name": "Wizard Builder",
+    "description": "Wizard Builder is a helper to create easy wizards for your app.",
+    "issue": 36,
+    "tags": [
+      "wizards",
+      "helper",
+      "create"
+    ]
+  },
+  {
+    "url": "http://www.theultimateandroidlibrary.com/",
+    "name": "The Ultimate Android Library",
+    "description": "This one is similar to our toolbox, great libraries in there.",
+    "issue": 36,
+    "tags": [
+      "our",
+      "libraries",
+      "great"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh",
+    "name": "PullToRefresh 1.4",
+    "description": "Android-PullToRefresh has been updated to version 1.4. OverScroll Support, Jelly Bean optimisation, some fixes and more stuff. Check out Chris Banes repository at Github.",
+    "issue": 37,
+    "tags": [
+      "fixes",
+      "updated",
+      "repository"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/108284392618554783657/posts/U1RRMWkssYg",
+    "name": "ViewPagerIndicator 2.4.0 released!",
+    "description": "Jake Wharton updated his ViewPagerIndicator to version 2.4.0. Lot of bugfixes and optimizations.",
+    "issue": 37,
+    "tags": [
+      "bugfixes",
+      "updated",
+      "his"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/android-unused-resources",
+    "name": "Android Unused Resources",
+    "description": "If the deadline approaches, projects can become messy. Andround Unused Resources is a Java application that will scan your project for... well... unused resources. Good if you need to clean some things up.",
+    "issue": 37,
+    "tags": [
+      "scan",
+      "unused",
+      "become"
+    ]
+  },
+  {
+    "url": "https://github.com/jgilfelt/android-adt-templates",
+    "name": "Android adt templates",
+    "description": "Android ADT Templates is a small collection of ADT templates for Android development to help quickly scaffold common Activity and UI patterns compiled by Jeff Gilfelt.",
+    "issue": 38,
+    "tags": [
+      "compiled",
+      "scaffold",
+      "quickly"
+    ]
+  },
+  {
+    "url": "https://github.com/jgilfelt/android-mapviewballoons#amazon-maps-api--kindle-fire",
+    "name": "Amazon Maps API & Kindle Fire",
+    "description": "Jeff Gilfet also updated his MapView Balloons Library. It now supports an alternative Amazon Maps API.",
+    "issue": 38,
+    "tags": [
+      "now",
+      "alternative",
+      "supports"
+    ]
+  },
+  {
+    "url": "http://code.google.com/p/html5webview/",
+    "name": "Html5 Webview",
+    "description": "Have you ever wondered why the vanilla WebView component is not as powerful as the Android browser - It's all a matter of configuration! HTML5WebView is a better start and it has plenty of configuration options! So when you want to implement HTML5 Video support or Geolocation Features you should start with this one.",
+    "issue": 39,
+    "tags": [
+      "options!",
+      "configuration!",
+      "matter"
+    ]
+  },
+  {
+    "url": "http://androidimageloader.com/",
+    "name": "ImageLoader",
+    "description": "Novoda, a london based dev shop, released an open source component: ImageLoader. ImageLoader is a simple library that makes it easy to download, display and cache remote images in Android apps. Download happens away from the UI thread and the images are cached with a two-level in-memory/SD card cache.",
+    "issue": 39,
+    "tags": [
+      "card",
+      "two-level",
+      "away"
+    ]
+  },
+  {
+    "url": "https://developers.google.com/android/google-play-services/",
+    "name": "Google+ sign in",
+    "description": "Do you need a Google+ sign in? Google Play services, client library API that offers integration with Google products in Android apps.",
+    "issue": 39,
+    "tags": [
+      "products",
+      "in?",
+      "sign"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/PhotoView",
+    "name": "PhotoView",
+    "description": "Chris Banes has released PhotoView, a simple ImageView that support zooming, both by Multi-touch gestures and double-tap.",
+    "issue": 40,
+    "tags": [
+      "gestures",
+      "both",
+      "support"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/DiskLruCache",
+    "name": "Disk LRU Cache",
+    "description": "Disk LRU Cache, written by Jake Wharton, is a cache that uses a certain amount of space on a filesystem.",
+    "issue": 40,
+    "tags": [
+      "space",
+      "amount",
+      "certain"
+    ]
+  },
+  {
+    "url": "https://github.com/AndreasZeiser/Jalousie",
+    "name": "Jalousie",
+    "description": "Jalousie, a library providing expandable layouts and views for Android.",
+    "issue": 40,
+    "tags": [
+      "expandable",
+      "layouts",
+      "providing"
+    ]
+  },
+  {
+    "url": "https://github.com/Espiandev/ShowcaseView",
+    "name": "ShowcaseView",
+    "description": "The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay.",
+    "issue": 41,
+    "tags": [
+      "attractive",
+      "distinctive",
+      "highlight"
+    ]
+  },
+  {
+    "url": "http://android.cyrilmottier.com/?p=824",
+    "name": "Meet Polaris, a map library for Android",
+    "description": "Polaris is a nice library, by Cyrill Mottier, that makes the developer life much easier when dealing with Google Maps. Read a nice wrap up of all features in his blog post. The source is released on Github.",
+    "issue": 41,
+    "tags": [
+      "wrap",
+      "life",
+      "nice"
+    ]
+  },
+  {
+    "url": "http://square.github.com/otto/",
+    "name": "Otto",
+    "description": "Otto is an enhanced Guava-based event bus with emphasis on Android support. When you create large applications it is necessary to decouple different components while keeping the communication between them easy.",
+    "issue": 42,
+    "tags": [
+      "necessary",
+      "emphasis",
+      "enhanced"
+    ]
+  },
+  {
+    "url": "http://www.senab.co.uk/2012/10/12/photoview-v1-1/",
+    "name": "PhotoView v1.1",
+    "description": "Photoview 1.1, by Chris Banes, has been released. Photoview is an advanced image view which makes pinching and zooming easy. See his introductionary blog post for more information.",
+    "issue": 42,
+    "tags": [
+      "introductionary",
+      "zooming",
+      "pinching"
+    ]
+  },
+  {
+    "url": "https://github.com/lexs/webimageloader",
+    "name": "WebImageLoader",
+    "description": "WebImageLoader, by Alexander Blom, is a library designed to take to hassle out of handling images on the web.",
+    "issue": 42,
+    "tags": [
+      "hassle",
+      "take",
+      "images"
+    ]
+  },
+  {
+    "url": "http://www.grokkingandroid.com/useful-android-libraries-crouton/",
+    "name": "Crouton",
+    "description": "The crouton library is an conceptual enhancement of Toasts. Read this blog posts if you had cases where Notifications via Toasts were not enough.",
+    "issue": 42,
+    "tags": [
+      "had",
+      "posts",
+      "enhancement"
+    ]
+  },
+  {
+    "url": "https://github.com/octo-online/robospice",
+    "name": "RoboSpice",
+    "description": "RoboSpice is a modular android library that makes writing asynchronous network requests easy. It executes asynchronously (in a background AndroidService) network requests and supports REST out of the box via Spring Android [link zu http://www.springsource.org/spring-android].",
+    "issue": 44,
+    "tags": [
+      "requests",
+      "zu",
+      "[link"
+    ]
+  },
+  {
+    "url": "https://github.com/koush/android-websockets",
+    "name": "Android Websockets",
+    "description": "A very simple bare-minimum WebSocket and Socket.IO client for Android by Koushik Dutta.",
+    "issue": 44,
+    "tags": [
+      "bare-minimum",
+      "client",
+      "very"
+    ]
+  },
+  {
+    "url": "https://github.com/iPaulPro/aFileChooser",
+    "name": "Android File Chooser",
+    "description": "This library by Paul Burke provides you the possibility to choose a file from the filesystem or an external storage device.",
+    "issue": 44,
+    "tags": [
+      "external",
+      "filesystem",
+      "possibility"
+    ]
+  },
+  {
+    "url": "https://github.com/foxykeep/GreenDroidLight",
+    "name": "Green Droid Light",
+    "description": "GreenDroid light is... guess what, a lighter version of the GreenDroid library. Nikolaus Klein, has removed the ActionBar code, since you can (and should) use ActionBarSherlock - he also removed some of the original constraints.",
+    "issue": 44,
+    "tags": [
+      "removed",
+      "original",
+      "should)"
+    ]
+  },
+  {
+    "url": "https://github.com/saik0/UnifiedPreference",
+    "name": "UnifiedPreference",
+    "description": "UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.",
+    "issue": 45,
+    "tags": [
+      "v4",
+      "package",
+      "versions"
+    ]
+  },
+  {
+    "url": "http://acra.ch/",
+    "name": "ACRA - Know your Bugs",
+    "description": "If you need some Error Reporting with more power, then Acra is your thing. It support multiple backends like HockeyApp or Bugsense.",
+    "issue": 45,
+    "tags": [
+      "backends",
+      "multiple",
+      "then"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/NotificationCompat2",
+    "name": "NotificationCompat2",
+    "description": "Do you need some Jelly Bean goodness for your notifications on older devices? Then checkout this repository by Jake Wharton. It adds the missing functionality.",
+    "issue": 45,
+    "tags": [
+      "devices?",
+      "notifications",
+      "goodness"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/ActivityCompat2",
+    "name": "ActivityCompat2",
+    "description": "Here comes the same for startActivity and ActivityOptions",
+    "issue": 45,
+    "tags": [
+      "comes",
+      "same",
+      "activityoptions"
+    ]
+  },
+  {
+    "url": "https://github.com/jgilfelt/android-sqlite-asset-helper",
+    "name": "Android Sqlite Asset Helper",
+    "description": "Have you ever needed to update the SQLite Database in one of your apps? It's a nightmare, right? Luckily Jeff Gilfelt created this handy helper class that does the heavy lifting. It manages the database creation and handles version management.",
+    "issue": 46,
+    "tags": [
+      "heavy",
+      "handy",
+      "right?"
+    ]
+  },
+  {
+    "url": "https://github.com/github/gauges-android#readme",
+    "name": "Gaug.es Android App",
+    "description": "Gaug.es is a webservice to analyize traffic. They've open sourced their Android Client and it's a very well engineered app. Check out if you want to see how a good app architecture is made - or if you want to play with their API.",
+    "issue": 46,
+    "tags": [
+      "play",
+      "engineered",
+      "analyize"
+    ]
+  },
+  {
+    "url": "http://www.androidviews.net/",
+    "name": "Androidviews.net",
+    "description": "Android Views is like our Toolbox a great collection of open source views for different purposes.",
+    "issue": 47,
+    "tags": [
+      "our",
+      "great",
+      "collection"
+    ]
+  },
+  {
+    "url": "https://github.com/ankri/SwitchCompatLibrary",
+    "name": "Switch Compat Library",
+    "description": "ICS backport of the Switch button for API Level 8.",
+    "issue": 47,
+    "tags": [
+      "button",
+      "backport",
+      "level"
+    ]
+  },
+  {
+    "url": "https://github.com/fsilvestremorais/android-complex-preferences",
+    "name": "Android Complex Preferences",
+    "description": "Complex Preferences is a library that helps you to store complex objects, even with associations, in the SharedPreferences.",
+    "issue": 47,
+    "tags": [
+      "store",
+      "complex",
+      "even"
+    ]
+  },
+  {
+    "url": "https://github.com/laurencedawson/activetextview",
+    "name": "Active Text View",
+    "description": "ActiveTextView is a view designed to add additional options for links within a TextView.",
+    "issue": 47,
+    "tags": [
+      "links",
+      "options",
+      "additional"
+    ]
+  },
+  {
+    "url": "https://github.com/frankiesardo/LinearListView",
+    "name": "LinearListView",
+    "description": "Android library that allows you to bind a LinearLayout with a ListAdapter.",
+    "issue": 47,
+    "tags": [
+      "bind",
+      "listadapter",
+      "linearlayout"
+    ]
+  },
+  {
+    "url": "https://github.com/coreform/android-formidable-validation",
+    "name": "Android Formidable Validation",
+    "description": "Form validation and feedback library for Android.",
+    "issue": 47,
+    "tags": [
+      "feedback",
+      "validation",
+      "form"
+    ]
+  },
+  {
+    "url": "https://github.com/atermenji/IconicTextView",
+    "name": "IconicTextView",
+    "description": "IconicTextView, by Artur Termenji, is an extension of Android TextView class which provides support for some iconic fonts like Entypo.",
+    "issue": 48,
+    "tags": [
+      "iconic",
+      "fonts",
+      "extension"
+    ]
+  },
+  {
+    "url": "http://androidtransfuse.org/",
+    "name": "Transfuse",
+    "description": "Transfuse is a Java Dependency Injection and integration library geared specifically for the Google Android API. It would be interesting in what ways it differs from Roboguice.",
+    "issue": 48,
+    "tags": [
+      "differs",
+      "ways",
+      "specifically"
+    ]
+  },
+  {
+    "url": "https://github.com/WhiteHouse/wh-app-android",
+    "name": "White House",
+    "description": "Do you start Android development and do you want to know who things are done? Checkout the open source White House app. Lot's of best practices inside.",
+    "issue": 48,
+    "tags": [
+      "practices",
+      "done?",
+      "best"
+    ]
+  },
+  {
+    "url": "http://www.datadroidlib.com/2012/12/datadroid-v2-is-available",
+    "name": "DataDroid v2",
+    "description": "DataDroid is an Android Library which will ease the developement of Android applications when you have to manage local data or to call REST webservices for remote data.",
+    "issue": 49,
+    "tags": [
+      "webservices",
+      "call",
+      "developement"
+    ]
+  },
+  {
+    "url": "https://github.com/MartinvanZ/Inscription",
+    "name": "Inscription",
+    "description": "Inscription is an open source library to display information about your Android app.",
+    "issue": 49,
+    "tags": [
+      "information",
+      "display",
+      "about"
+    ]
+  },
+  {
+    "url": "https://github.com/GBouerat/AsyncTaskFragment",
+    "name": "AsyncTaskFragment",
+    "description": "AsyncTaskFragment is an Android library project designed to help you to perform background operations and publish results on the UI thread from your fragment without having to manipulate threads and/or handlers.",
+    "issue": 49,
+    "tags": [
+      "and/or",
+      "manipulate",
+      "fragment"
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/nadavfima/cardsui-for-android",
+    "name": "CardsUI for Android",
+    "description": "Cards UI View library for Android, like the one on Google Now.",
+    "issue": 49,
+    "tags": [
+      "one",
+      "ui",
+      "cards"
+    ]
+  },
+  {
+    "url": "https://github.com/darvds/RibbonMenu",
+    "name": "RibbonMenu",
+    "description": "Navigation menu for Android (based on Google+ app).",
+    "issue": 49,
+    "tags": [
+      "(based",
+      "menu",
+      "app)"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/Android-PullToRefresh",
+    "name": "Android-PullToRefresh",
+    "description": "Android-PullToRefresh v2.1 is out. There are performance improvements.",
+    "issue": 49,
+    "tags": [
+      "performance",
+      "are",
+      "improvements"
+    ]
+  },
+  {
+    "url": "https://github.com/novoda/ImageLoader",
+    "name": "ImageLoader",
+    "description": "Sometimes I have the feeling that the first task of every good studio is to release an open source ImageLoader component. This one seems pretty solid since it has acceptance tests. So if you have not choosen your favourite yet then check it out.",
+    "issue": 50,
+    "tags": [
+      "favourite",
+      "acceptance",
+      "studio"
+    ]
+  },
+  {
+    "url": "https://github.com/passy/Android-DirectoryChooser",
+    "name": "Android-DirectoryChooser",
+    "description": "Do you need a directory chooser for your app? Pascal Hartig has released a reference implementation ready to use for your project.",
+    "issue": 50,
+    "tags": [
+      "ready",
+      "app?",
+      "chooser"
+    ]
+  },
+  {
+    "url": "https://github.com/throrin19/Android-Validator",
+    "name": "Android-Validator",
+    "description": "Benjamin Besse has released Android Validator an Form validation library as an library project.",
+    "issue": 50,
+    "tags": [
+      "validation",
+      "validator",
+      "besse"
+    ]
+  },
+  {
+    "url": "http://www.senab.co.uk/2013/01/24/android-bitmapcache-v2-1/",
+    "name": "Android-BitmapCache v2.1",
+    "description": "Chris Bane has released V2.1 of Android-BitmapCache, a specialised cache, for use with Android Bitmap objects. The update includes an update to v1.3.1 of DiskLruCache. Also the API got a lot easier and more direct.",
+    "issue": 51,
+    "tags": [
+      "update",
+      "includes",
+      "specialised"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/photup",
+    "name": "Photup",
+    "description": "Photup is an application by Chris Banes, currently available on Google Play with an average rating of 4.4 (at time of writing). Due to lack of time, I'm open sourcing this so anyone can look at the code, and more importantly, so you can submit patches and keep it alive.",
+    "issue": 51,
+    "tags": [
+      "patches",
+      "anyone",
+      "sourcing"
+    ]
+  },
+  {
+    "url": "https://github.com/jfeinstein10/SlidingMenu",
+    "name": "SlidingMenu",
+    "description": "We covered that, but in case you missed it: A SlidingMenu Component by Jeremy Feinstein",
+    "issue": 51,
+    "tags": [
+      "it:",
+      "missed",
+      "covered"
+    ]
+  },
+  {
+    "url": "https://github.com/greenrobot/EventBus",
+    "name": "EventBus",
+    "description": "EventBus is an Android optimized publish/subscribe event bus. A typical use case for Android apps is gluing Activities, Fragments, and background threads together.",
+    "issue": 52,
+    "tags": [
+      "gluing",
+      "typical",
+      "publish/subscribe"
+    ]
+  },
+  {
+    "url": "https://github.com/rock3r/GlowPadBackport",
+    "name": "GlowPadBackport",
+    "description": "GlowPadView is a circular grid of dots, with a central handle that the user can grab to various customizable targets. It is heavily based upon Google's own internal implementation of the GlowPadView found in Android 4.2 Jelly Bean.",
+    "issue": 52,
+    "tags": [
+      "internal",
+      "upon",
+      "heavily"
+    ]
+  },
+  {
+    "url": "http://corner.squareup.com/2013/01/times-square.html",
+    "name": "TimesSquare",
+    "description": "TimeSquare is a standalone Android widget for picking a single date from a calendar view.",
+    "issue": 52,
+    "tags": [
+      "calendar",
+      "picking",
+      "standalone"
+    ]
+  },
+  {
+    "url": "https://github.com/mobandme/ADA-Framework",
+    "name": "ADAFramework",
+    "description": "Android Data Abstraction Framework is an ORM library that aims to simplify your code. With plenty of examples and screencasts the frameworks looks quit ok. Unfortunately I cannot see any tests in the repository so I cannot evaluate the robustness of the library.",
+    "issue": 52,
+    "tags": [
+      "cannot",
+      "robustness",
+      "evaluate"
+    ]
+  },
+  {
+    "url": "https://github.com/jfeinstein10/JazzyViewPager",
+    "name": "JazzyViewPager",
+    "description": "An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!",
+    "issue": 52,
+    "tags": [
+      "go!",
+      "swiping",
+      "change"
+    ]
+  },
+  {
+    "url": "http://dallasgutauckis.com/2012/01/20/parcelabler-for-implementing-androids-parcelable-interface/",
+    "name": "parcelabler: for implementing Android’s Parcelable interface",
+    "description": "Writing parcelables can be a time consuming task. Luckily Dallas Gutauckis implemented a generator to build all the bolierplate code.",
+    "issue": 52,
+    "tags": [
+      "bolierplate",
+      "consuming",
+      "parcelables"
+    ]
+  },
+  {
+    "url": "http://robotoworks.github.com/mechanoid/",
+    "name": "Mechanoid",
+    "description": "Mechanoid is a set of Xtext DSL's for the rapid development of Android applications. It covers database management, network code and preferences.",
+    "issue": 53,
+    "tags": [
+      "rapid",
+      "covers",
+      "database"
+    ]
+  },
+  {
+    "url": "https://github.com/hamsterksu/Android-AnnotatedSQL",
+    "name": "Android-AnnotatedSQL",
+    "description": "Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes.",
+    "issue": 53,
+    "tags": [
+      "full-featured",
+      "provider",
+      "auto"
+    ]
+  },
+  {
+    "url": "http://www.throrinstudio.com/dev/android/android-validator-1-0-released/",
+    "name": "Android Validator",
+    "description": "Romain Piel has released a component that helps you with form validation.",
+    "issue": 53,
+    "tags": [
+      "form",
+      "component",
+      "helps"
+    ]
+  },
+  {
+    "url": "https://github.com/kennydude/zxing-lib",
+    "name": "ZXing Barcode Scanner Android library",
+    "description": "Joe Simpson has ported the ZXing barcode scanning library to work in fragment.",
+    "issue": 53,
+    "tags": [
+      "scanning",
+      "barcode",
+      "ported"
+    ]
+  },
+  {
+    "url": "http://androidannotations.org/",
+    "name": "AndroidAnnotations",
+    "description": "The Android Annotations project has been updated. Android Annotations is a library that puts your biolerplate code on a diet.",
+    "issue": 53,
+    "tags": [
+      "biolerplate",
+      "puts",
+      "diet"
+    ]
+  },
+  {
+    "url": "https://github.com/keyboardsurfer/Crouton",
+    "name": "Crouton",
+    "description": "Crouton is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast.",
+    "issue": 53,
+    "tags": [
+      "insensitive",
+      "feel",
+      "alternative"
+    ]
+  },
+  {
+    "url": "https://code.google.com/p/indic-text-renderer/",
+    "name": "Indic-text-renderer",
+    "description": "Using FreeType (font rasterization engine) and Harfbuzz-ng (complex script layout engine), this Android widget allows Indic text (Devanagari / Hindi, Kannada, Tamil, Telugu etc) to be rendered on Android phones without having to root the phone.",
+    "issue": 53,
+    "tags": [
+      "phones",
+      "rendered",
+      "etc)"
+    ]
+  },
+  {
+    "url": "http://tonicartos.github.com/StickyGridHeaders/",
+    "name": "Sticky Grid Headers",
+    "description": "Tonic Artos has created an Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.",
+    "issue": 54,
+    "tags": [
+      "stick",
+      "sectioned",
+      "grid"
+    ]
+  },
+  {
+    "url": "https://github.com/jgilfelt/android-simpl3r",
+    "name": "Simpl3r",
+    "description": "A simple abstraction to upload multipart files directly to Amazon S3.",
+    "issue": 54,
+    "tags": [
+      "multipart",
+      "upload",
+      "abstraction"
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/nhaarman/listviewanimations",
+    "name": "ListViewAnimations",
+    "description": "Niek Haarman has released a library that provides animations for ListViews. The sourcecode is available on BitBucket.",
+    "issue": 54,
+    "tags": [
+      "sourcecode",
+      "animations",
+      "available"
+    ]
+  },
+  {
+    "url": "http://www.kpbird.com/2013/02/android-chips-edittext-token-edittext.html",
+    "name": "Android Chips EditText",
+    "description": "Ketan Parmar has released a ChipsEditTextView which is a tokenized auto-completing text editing field like the recipients field in your gmail client.",
+    "issue": 54,
+    "tags": [
+      "field",
+      "gmail",
+      "recipients"
+    ]
+  },
+  {
+    "url": "https://github.com/vbabiy/tellandroid",
+    "name": "tellandroid",
+    "description": "A set of utilities to make it easier to work with the android emulator telnet protocol.",
+    "issue": 54,
+    "tags": [
+      "telnet",
+      "emulator",
+      "utilities"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/butterknife",
+    "name": "Butterknife",
+    "description": "Butter Knife is a view \"injection\" library, by Jake Wharton,  which uses annotation processing to generate code that does direct field assignment of your views.",
+    "issue": 55,
+    "tags": [
+      "assignment",
+      "direct",
+      "\"injection\""
+    ]
+  },
+  {
+    "url": "https://github.com/stephanenicolas/Quality-Tools-for-Android",
+    "name": "Quality-Tools-for-Android",
+    "description": "Quality Tools for Android is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.",
+    "issue": 55,
+    "tags": [
+      "increase",
+      "+",
+      "tests"
+    ]
+  },
+  {
+    "url": "https://github.com/pocmo/Android-Network-Intents",
+    "name": "Android Network Intents",
+    "description": "An interesting library comes from Sebastian Kaspari. Android Network Intents is a library to send Android Intent objects to listening apps/devices via multicast (UDP). This library has been written to utilize it for writing simple app or service discovery protocols but as it can be used to send and receive any Intents through the network without knowing the specific receivers. The library comes with an example chat app - I could imagine an Android P2P filesharing app.",
+    "issue": 56,
+    "tags": [
+      "send",
+      "filesharing",
+      "imagine"
+    ]
+  },
+  {
+    "url": "https://github.com/fedepaol/PostmanLib--Rings-Twice--Android",
+    "name": "PostMan (rings twice) Lib",
+    "description": "LibPostman (Rings Twice) for Android is a library intended to make the asynchronous interaction with a remote server easier, without having to deal with all the well known problems related to asynctasks bound to activities.",
+    "issue": 56,
+    "tags": [
+      "bound",
+      "asynctasks",
+      "problems"
+    ]
+  },
+  {
+    "url": "https://github.com/almozavr/HorizontalDatePicker",
+    "name": "HorizontalDatePicker",
+    "description": "Simple but yet flexible android date picker view based on horizontal list views.",
+    "issue": 56,
+    "tags": [
+      "picker",
+      "horizontal",
+      "yet"
+    ]
+  },
+  {
+    "url": "https://github.com/YANOUSHek/LogCat",
+    "name": "LogCat",
+    "description": "LogCat is a simple adb logcat viewer written purely in Objective-C and designed with Apple's Human Interface Guidelines in mind. It uses the native GUI views and is a lot nicer for the eyes than Eclipse plugins.",
+    "issue": 56,
+    "tags": [
+      "eyes",
+      "purely",
+      "viewer"
+    ]
+  },
+  {
+    "url": "https://github.com/LarsWerkman/QuickReturnListView",
+    "name": "QuickReturnListView",
+    "description": "QuickReturnListView is a implementation of the QuickReturn UI developed by Roman Nurik and Nick Butcher. It mimics the same behavior as seen in the Google+ app.",
+    "issue": 57,
+    "tags": [
+      "behavior",
+      "mimics",
+      "seen"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/frankiesardo/5161734",
+    "name": "QuickReturn.java",
+    "description": "Frankie Sardo has released a refactored version of that UI with a better API. But why not as a pull request?",
+    "issue": 57,
+    "tags": [
+      "request?",
+      "refactored",
+      "why"
+    ]
+  },
+  {
+    "url": "https://github.com/TimotheeJeannin/ProviGen",
+    "name": "ProviGen",
+    "description": "Provigen is a library by Timothee Jeannin that helps you to generate ContentProvider from a ContractClass via annotations.",
+    "issue": 57,
+    "tags": [
+      "generate",
+      "annotations",
+      "contractclass"
+    ]
+  },
+  {
+    "url": "https://android.googlesource.com/platform/frameworks/support/+/master/appcompat/",
+    "name": "Appcompat",
+    "description": "Google has released a backported version of their ActionBar. I would still rather going with ActionBarSherlock",
+    "issue": 57,
+    "tags": [
+      "going",
+      "rather",
+      "backported"
+    ]
+  },
+  {
+    "url": "https://android.googlesource.com/platform/frameworks/support/+/master/v4/java/android/support/v4/widget/SlidingPaneLayout.java",
+    "name": "SlidingPaneLayout.java",
+    "description": "They also released a SlidePlaneLayout in their compatibility package.",
+    "issue": 57,
+    "tags": [
+      "compatibility",
+      "their",
+      "also"
+    ]
+  },
+  {
+    "url": "http://uncodin.github.com/bypass/",
+    "name": "Bypass",
+    "description": "If you want to render Markdown with your App, then you can use Bypass to bypass HTML and a WebView.",
+    "issue": 57,
+    "tags": [
+      "bypass",
+      "render",
+      "webview"
+    ]
+  },
+  {
+    "url": "https://github.com/6wunderkinder/android-sliding-layer-lib",
+    "name": "6Wunderkinder SlidingLayer for Android",
+    "description": "6Wunderkinder have released a SlidingLayer Component for Android that can be seen in their Wunderlist 2 app.",
+    "issue": 58,
+    "tags": [
+      "seen",
+      "2",
+      "their"
+    ]
+  },
+  {
+    "url": "https://github.com/vekexasia/android-form-edittext",
+    "name": "Android Form EditText",
+    "description": "Android form edit text is an extension of EditText that brings data validation facilities to the edittext.",
+    "issue": 58,
+    "tags": [
+      "facilities",
+      "brings",
+      "edit"
+    ]
+  },
+  {
+    "url": "https://github.com/ManuelPeinado/MultiChoiceAdapter",
+    "name": "MultiChoiceAdapter",
+    "description": "MultiChoiceAdapter by Manuel Peinado is an implementation of ListAdapter which adds support for modal multiple choice selection as in the native Gmail app.",
+    "issue": 58,
+    "tags": [
+      "selection",
+      "choice",
+      "modal"
+    ]
+  },
+  {
+    "url": "https://github.com/eeVoskos/RobotoViews",
+    "name": "RobotoViews",
+    "description": "RobotoViews is an Android library hosting a collection of Views that use the Roboto font.",
+    "issue": 58,
+    "tags": [
+      "hosting",
+      "collection",
+      "roboto"
+    ]
+  },
+  {
+    "url": "http://usepropeller.com/blog/posts/routable/",
+    "name": "Routable",
+    "description": "Routable is a little router component for iOS and Android. It seems to be very valuable if you have URLs that can be called externally. It also helps you to decouple your activities.",
+    "issue": 58,
+    "tags": [
+      "valuable",
+      "router",
+      "decouple"
+    ]
+  },
+  {
+    "url": "http://udinic.wordpress.com/2013/03/13/activity-split-animation/",
+    "name": "Activity Split Animation",
+    "description": "Udi Cohen has released a component for a split transition between two activities.",
+    "issue": 59,
+    "tags": [
+      "split",
+      "two",
+      "transition"
+    ]
+  },
+  {
+    "url": "https://github.com/tjerkw/Android-SlideExpandableListView",
+    "name": "Slide Expandable List View",
+    "description": "Tjerk Wolterink has released an Expandable List View like the fancy one you can see in the Spotify app.",
+    "issue": 59,
+    "tags": [
+      "fancy",
+      "see",
+      "spotify"
+    ]
+  },
+  {
+    "url": "https://github.com/koush/AndroidAsync",
+    "name": "Android Async",
+    "description": "AndroidAsync is a java.nio based socket and http library for Android.",
+    "issue": 59,
+    "tags": [
+      "socket",
+      "http",
+      "based"
+    ]
+  },
+  {
+    "url": "https://github.com/negusoft/holoaccent",
+    "name": "Holoaccent",
+    "description": "Android library to customize the Holo theme with a custom accent color. The color can even be set programmatically, allowing the UI to change dynamically.",
+    "issue": 105,
+    "tags": [
+      "accent",
+      "allowing",
+      "theme"
+    ]
+  },
+  {
+    "url": "https://github.com/medyo/dynamicbox",
+    "name": "",
+    "description": "DynamicBox is a library which inflates custom layouts to indicate loading content, show an error message or even a custom view. Supports ListView, GridView, ExpandableListView, Activity, FragmentActivity, Fragment, LinearLayout, RelativeLayout, ScrollView",
+    "issue": 105,
+    "tags": [
+      "error",
+      "inflates",
+      "indicate"
+    ]
+  },
+  {
+    "url": "https://github.com/daimajia/AndroidImageSlider",
+    "name": "Android Image Slider",
+    "description": "An image slider for Android with many image transformation effects.",
+    "issue": 105,
+    "tags": [
+      "transformation",
+      "slider",
+      "image"
+    ]
+  },
+  {
+    "url": "https://github.com/dmytrodanylyk/circular-progress-button",
+    "name": "Circular Progress Button",
+    "description": "Android Button which can morph to Circular Progress. See the gifs to get a feeling of the animation.",
+    "issue": 105,
+    "tags": [
+      "gifs",
+      "morph",
+      "feeling"
+    ]
+  },
+  {
+    "url": "https://github.com/danialgoodwin/android-widget-keyboardless-edittext",
+    "name": "KeyboardlessEditText",
+    "description": "A native EditText, except that no keyboard will appear when user interacts with it. All other edit operations still work. We wonder what it will be used for - but if you have that need then check it out.",
+    "issue": 105,
+    "tags": [
+      "wonder",
+      "interacts",
+      "appear"
+    ]
+  },
+  {
+    "url": "https://github.com/FilipPudak/ProgressPieView",
+    "name": "",
+    "description": "Android library for showing progress in a highly customizable pie chart.",
+    "issue": 106,
+    "tags": [
+      "pie",
+      "highly",
+      "showing"
+    ]
+  },
+  {
+    "url": "http://rockerhieu.com/emojicon/",
+    "name": "Emojicon",
+    "description": "Emojicon is an Android library to implement a TextView that supports emoji.",
+    "issue": 106,
+    "tags": [
+      "supports",
+      "implement",
+      "emoji"
+    ]
+  },
+  {
+    "url": "http://stanfy.com/blog/goro-2/",
+    "name": "Goro 2.0",
+    "description": "Goro is an Android library for organizing your asynchronous tasks in queues.",
+    "issue": 106,
+    "tags": [
+      "organizing",
+      "tasks",
+      "asynchronous"
+    ]
+  },
+  {
+    "url": "https://github.com/xgc1986/ParallaxPagerLibrary",
+    "name": "Parallax Pager Library",
+    "description": "A PageTransformer for ViewPager that provides a parallax effect.",
+    "issue": 106,
+    "tags": [
+      "parallax",
+      "provides",
+      "viewpager"
+    ]
+  },
+  {
+    "url": "https://github.com/DesarrolloAntonio/FragmentTransactionExtended",
+    "name": "DesarrolloAntonio/FragmentTransactionExtended",
+    "description": "FragmentTransactionExtended is a library which provide us a set of custom animations between fragments.",
+    "issue": 107,
+    "tags": [
+      "us",
+      "animations",
+      "between"
+    ]
+  },
+  {
+    "url": "http://chris.banes.me/2014/06/18/philm-is-now-open-source/",
+    "name": "Philm is now open source",
+    "description": "If you haven't seen Philm yet, it is a movie collection and information app that I created for Android. It uses the Trakt and TMDB APIs. This morning Chris Banes pushed the source of Philm to GitHub under the Apache v2.0 licence.",
+    "issue": 107,
+    "tags": [
+      "pushed",
+      "morning",
+      "haven't"
+    ]
+  },
+  {
+    "url": "https://github.com/MoshDev/ILog",
+    "name": "MoshDev/ILog",
+    "description": "Simple Logging Tool for Android and Java Platforms",
+    "issue": 107,
+    "tags": [
+      "platforms",
+      "logging",
+      "tool"
+    ]
+  },
+  {
+    "url": "https://github.com/romainguy/google-io-2014",
+    "name": "romainguy/google-io-2014",
+    "description": "Romain Guy shares the Material Witness sample application for the new Material Design APIs introduced in the Android L Preview SDK:\r\n\r\nCustom theme colors\r\nDynamic palette\r\nCircular reveal\r\nActivity transitions",
+    "issue": 109,
+    "tags": [
+      "transitions",
+      "palette",
+      "reveal"
+    ]
+  },
+  {
+    "url": "https://github.com/daimajia/AnimationEasingFunctions",
+    "name": "daimajia/AnimationEasingFunctions",
+    "description": "Android Animation Easing Functions. Let's make animation more real!",
+    "issue": 109,
+    "tags": [
+      "real!",
+      "animation",
+      "make"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/+GabrieleMariotti/posts/BZtP7JYVVxH",
+    "name": "",
+    "description": "Gabriele Mariotti shares a little gist to build a simple Floating Action Button for Android-L with shadow, ripple and outline.",
+    "issue": 109,
+    "tags": [
+      "ripple",
+      "shares a",
+      "build"
+    ]
+  },
+  {
+    "url": "https://github.com/9elements/9elements-One-for-Android-Wear",
+    "name": "",
+    "description": "9elements has released some code that shows how to develop a custom watch face for Android Wear.",
+    "issue": 110,
+    "tags": [
+      "9elements",
+      "face",
+      "watch"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/gabrielemariotti/d23bfe583e900a4f9276",
+    "name": "Android Wear: Heart Rate and Samsung Gear Live",
+    "description": "Here a little gist to get the heart rate on the Samsung Gear Live.",
+    "issue": 110,
+    "tags": [
+      "rate",
+      "heart",
+      "live"
+    ]
+  },
+  {
+    "url": "https://github.com/Pkmmte/CircularImageView",
+    "name": "Circular Image View",
+    "description": "Custom view for circular images in Android while maintaining the best draw performance",
+    "issue": 110,
+    "tags": [
+      "draw",
+      "maintaining",
+      "best"
+    ]
+  },
+  {
+    "url": "https://github.com/blackfizz/EazeGraph",
+    "name": "EazeGraph",
+    "description": "EazeGraph is an Android library for creating beautiful and fancy charts. Its main goal was to create a lighweight library which is easy to use and highly customizeable with an \"up-to-date\"-look.",
+    "issue": 110,
+    "tags": [
+      "customizeable",
+      "lighweight",
+      "highly"
+    ]
+  },
+  {
+    "url": "https://github.com/daimajia/AndroidViewAnimations",
+    "name": "Android View Animations",
+    "description": "Cute view animation collection.",
+    "issue": 110,
+    "tags": [
+      "animation",
+      "view",
+      "cute"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/u/1/101581283591300788111/posts/je1SJtu5RCE",
+    "name": "Unofficial Base WatchFace Activity",
+    "description": "Tavon Gatling has released an unofficial Base WatchFace Activity that helps you to control some additional lifecycle events (like screen dimming etc).",
+    "issue": 110,
+    "tags": [
+      "dimming",
+      "lifecycle",
+      "events"
+    ]
+  },
+  {
+    "url": "https://github.com/kentarosu/AndroidWearAndLIFX",
+    "name": "Android Wear and LIFX",
+    "description": "Tavon Gatling has released a simple app that uses an Android Wear device to connect to LIFX lights on a local network and turn them off and on.",
+    "issue": 110,
+    "tags": [
+      "off",
+      "turn",
+      "lights"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/gabrielemariotti/b49cf077d184e8b26378",
+    "name": "Android Wear: Get data from Battery",
+    "description": "Here a little gist to get details from your battery in your wear device.",
+    "issue": 111,
+    "tags": [
+      "battery",
+      "details",
+      "wear"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/gabrielemariotti/d23bfe583e900a4f9276",
+    "name": "Android Wear: Heart Rate and Samsung Gear Live",
+    "description": "Here a little gist to get the heart rate on the Samsung Gear Live.",
+    "issue": 111,
+    "tags": [
+      "rate",
+      "heart",
+      "live"
+    ]
+  },
+  {
+    "url": "https://github.com/agrosner/Painter",
+    "name": "Painter",
+    "description": "This library enables you to color a view, image icons, and text in a very simple way.",
+    "issue": 111,
+    "tags": [
+      "color",
+      "enables",
+      "text"
+    ]
+  },
+  {
+    "url": "https://github.com/vanniktech/VNTNumberPickerPreference",
+    "name": "VNTNumberPickerPreference",
+    "description": "This is an easy to use custom preference, which opens a dialog with a number picker. The value gets automatically saved and you can set the default-, min- and maxValue conveniently in the XML.",
+    "issue": 111,
+    "tags": [
+      "conveniently",
+      "min-",
+      "saved"
+    ]
+  },
+  {
+    "url": "https://github.com/vanniktech/VNTFontListPreference",
+    "name": "VNTFontListPreference",
+    "description": "This is an easy to use custom preference, which opens a dialog with a list of available fonts. The selected font gets automatically saved and you are able to set the font directory as well as the defaultValue.",
+    "issue": 111,
+    "tags": [
+      "font",
+      "able",
+      "directory"
+    ]
+  },
+  {
+    "url": "http://deano2390.github.io/OpenFlappyBird/",
+    "name": "OpenFlappyBird",
+    "description": "An open source clone of a famous flappy bird game for Android using the AndEngine library.",
+    "issue": 111,
+    "tags": [
+      "bird",
+      "flappy",
+      "famous"
+    ]
+  },
+  {
+    "url": "https://github.com/christophesmet/android_maskable_layout",
+    "name": "android_maskable_layout",
+    "description": "The Maskable Layout is a simple frame layout that allow you to easily mask views and viewgroups. Simple Drawables are accepted, as well as AnimationDrawables.",
+    "issue": 111,
+    "tags": [
+      "mask",
+      "frame",
+      "allow"
+    ]
+  },
+  {
+    "url": "https://github.com/twotoasters/watchface-template",
+    "name": "Watchface Template",
+    "description": "If you want to develop a Watchface for Android Wear then this might be your starting point. Be sure you also read Two Toasters blog post about wear development.",
+    "issue": 112,
+    "tags": [
+      "read",
+      "starting",
+      "might"
+    ]
+  },
+  {
+    "url": "http://github.com/oguzbilgener/CircularFloatingActionMenu",
+    "name": "CircularFloatingActionMenu",
+    "description": "An animated, customizable circular floating menu for Android, inspired by Path app.",
+    "issue": 112,
+    "tags": [
+      "menu",
+      "floating",
+      "circular"
+    ]
+  },
+  {
+    "url": "https://github.com/makovkastar/FloatingActionButton",
+    "name": "Floating Action Button",
+    "description": "Another floating action button implementation.",
+    "issue": 112,
+    "tags": [
+      "button",
+      "floating",
+      "action"
+    ]
+  },
+  {
+    "url": "https://github.com/premnirmal/Magnet",
+    "name": "Magnet",
+    "description": "This library enables you to create a window icon similar to Facebooks chat icon, and also similar to the Link Bubble app.",
+    "issue": 112,
+    "tags": [
+      "similar",
+      "window",
+      "chat"
+    ]
+  },
+  {
+    "url": "https://github.com/pavlospt/CircleView",
+    "name": "CircleView",
+    "description": "A circle view containing title and subtitle.",
+    "issue": 112,
+    "tags": [
+      "containing",
+      "title",
+      "circle"
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/littlerobots/beanlib",
+    "name": "Beanlib",
+    "description": "This is an unofficial SDK for the Punch Through Design Beann (an Arduino-based BLE device). The library allows for communication with the bean and control its various functions.",
+    "issue": 113,
+    "tags": [
+      "bean",
+      "(an",
+      "communication"
+    ]
+  },
+  {
+    "url": "https://github.com/mobsandgeeks/adapter-kit",
+    "name": "Adapter Kit",
+    "description": "Adapter Kit is a set of useful adapters for Android. The kit currently includes: Instant Adapter, Instant Cursor Adapter, Simple Section Adapter, Circular List Adapter",
+    "issue": 113,
+    "tags": [
+      "includes:",
+      "adapters",
+      "kit"
+    ]
+  },
+  {
+    "url": "https://github.com/fedestyla/FillingEffect",
+    "name": "FillingEffect",
+    "description": "Nice progress indicator effect.",
+    "issue": 114,
+    "tags": [
+      "indicator",
+      "progress",
+      "effect"
+    ]
+  },
+  {
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "name": "",
+    "description": "A charting library for Android. It contains the following chart types: LineChart, BarChart2D, BarChart3D, PieChart and ScatterChart. All the types come in different flavours.",
+    "issue": 114,
+    "tags": [
+      "come",
+      "types:",
+      "types"
+    ]
+  },
+  {
+    "url": "https://github.com/diogobernardino/WilliamChart",
+    "name": "WilliamChart",
+    "description": "Another charting library. It contains a LineChartView and a BarChartView. It doesn't look as feature complete as MPAndroidChart so maybe you developers join forces.",
+    "issue": 114,
+    "tags": [
+      "join",
+      "maybe",
+      "doesn't"
+    ]
+  },
+  {
+    "url": "https://github.com/quemb/QMBForm",
+    "name": "QMBForm",
+    "description": "Create simple Android forms. QMBForm is inspired by the iOS counterpart XMLForm.",
+    "issue": 114,
+    "tags": [
+      "counterpart",
+      "inspired",
+      "xmlform"
+    ]
+  },
+  {
+    "url": "https://github.com/alexvasilkov/AndroidGradleSignPlugin",
+    "name": "AndroidGradleSignPlugin",
+    "description": "Gradle plugin to prompt for Android release keystore passwords.",
+    "issue": 114,
+    "tags": [
+      "keystore",
+      "prompt",
+      "release"
+    ]
+  },
+  {
+    "url": "https://github.com/adennie/fb-android-dagger",
+    "name": "fb Android Dagger",
+    "description": "A set of helper classes for using Square's Dagger with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.",
+    "issue": 114,
+    "tags": [
+      "such",
+      "components",
+      "helper"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/JakeWharton/0d67d01badcee0ae7bc9",
+    "name": "A Gson TypeAdapterFactory",
+    "description": "A Gson TypeAdapterFactory which allows serialization of @AutoValue types. Apache 2 licensed.",
+    "issue": 114,
+    "tags": [
+      "serialization",
+      "2",
+      "allows"
+    ]
+  },
+  {
+    "url": "https://github.com/jerrellmardis/Amphitheatre",
+    "name": "Amphitheatre",
+    "description": "Amphitheatre is an Android TV app that connects with network shares, organizes and serves videos to any Android capable media player app.",
+    "issue": 114,
+    "tags": [
+      "player",
+      "videos",
+      "serves"
+    ]
+  },
+  {
+    "url": "https://github.com/rfc2822/davdroid",
+    "name": "davdroid",
+    "description": "DAVdroid is an open-source CalDAV/CardDAV synchronization app for Android 4+",
+    "issue": 115,
+    "tags": [
+      "4+",
+      "synchronization",
+      "open-source"
+    ]
+  },
+  {
+    "url": "https://github.com/sephiroth74/ImageViewZoom",
+    "name": "ImageViewZoom",
+    "description": "Android ImageView widget with zoom and pan capabilities",
+    "issue": 115,
+    "tags": [
+      "capabilities",
+      "pan",
+      "zoom"
+    ]
+  },
+  {
+    "url": "https://github.com/serso/android-checkout",
+    "name": "",
+    "description": "Checkout is a library for Android In-App Billing (v3). The main goal is to reduce work which should be done by developers who want to integrate in-app purchases in their products. The project is inspired by Volley library and is designed to be easy to use, fast and flexible.",
+    "issue": 116,
+    "tags": [
+      "purchases",
+      "reduce",
+      "in-app"
+    ]
+  },
+  {
+    "url": "https://github.com/watabou/pixel-dungeon",
+    "name": "pixel-dungeon",
+    "description": "Pixel Dungeon is an open source, traditional roguelike game with pixel-art graphics and simple interface.",
+    "issue": 116,
+    "tags": [
+      "graphics",
+      "pixel-art",
+      "roguelike"
+    ]
+  },
+  {
+    "url": "http://arpitonline.com/blog/2014/08/21/announcing-artbook-an-android-client-for-dribbble/",
+    "name": "Announcing Artbook: An Android Client for Dribbble",
+    "description": "Arpit Mathur, author of the open source control FreeFlow, has open sourced his Dribbble artwork viewing app Artbook under the Apache 2 license.",
+    "issue": 116,
+    "tags": [
+      "viewing",
+      "artwork",
+      "under"
+    ]
+  },
+  {
+    "url": "https://github.com/daimajia/AndroidSwipeLayout",
+    "name": "",
+    "description": "A library that reveals controls with a swipe gesture. Can be easily integrated in anywhere, ListView, GridView, ViewGroup.",
+    "issue": 117,
+    "tags": [
+      "integrated",
+      "swipe",
+      "controls"
+    ]
+  },
+  {
+    "url": "https://github.com/TwistedEquations/TwistVolley",
+    "name": "TwistVolley",
+    "description": "Extension to the Volley library adding an easy to use wrapper around Volley that sets up the RequestQueue and Image cache for the ImageLoader. It also provides an easy Picasso inspired image loading system based on the ImageLoader.",
+    "issue": 117,
+    "tags": [
+      "system",
+      "sets",
+      "around"
+    ]
+  },
+  {
+    "url": "https://github.com/MostafaGazar/Widgets",
+    "name": "Widgets",
+    "description": "This new library has a Ripple View base class for adding to your project.",
+    "issue": 117,
+    "tags": [
+      "base",
+      "adding",
+      "class"
+    ]
+  },
+  {
+    "url": "https://github.com/lawloretienne/QuickReturn",
+    "name": "QuickReturn",
+    "description": "QuickReturn is a library which showcases the QuickReturn UI pattern. It can be used for header views, footer views, or both header views and footer views. Supports both ScrollView and ListView and comes with examples of Twitter, Facebook, and Google+ QuickReturn views.",
+    "issue": 117,
+    "tags": [
+      "footer",
+      "header",
+      "both"
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/josephearl/foundry",
+    "name": "Foundry",
+    "description": "Tired of manually setting the typefaces of all your views and cluttering your logic with presentation code? Foundry lets you style the typefaces of your views in your XML layout files and styles.",
+    "issue": 117,
+    "tags": [
+      "typefaces",
+      "code?",
+      "presentation"
+    ]
+  },
+  {
+    "url": "http://chris.banes.me/2014/08/29/systemuihelper/",
+    "name": "SystemUiHelper",
+    "description": "Here's a Gist from Chris Banes and Roman Nurik to help with dealing with Android System UI visibility across the different API levels.",
+    "issue": 117,
+    "tags": [
+      "visibility",
+      "across",
+      "dealing"
+    ]
+  },
+  {
+    "url": "https://github.com/mikepenz/AboutLibraries",
+    "name": "About Libraries",
+    "description": "Most modern apps feature an \"Used Library\"-Section and for this some information of those libs is required. As it gets annoying to copy those strings always to your app I've developed this small helper library to provide the required information.",
+    "issue": 118,
+    "tags": [
+      "those",
+      "strings",
+      "copy"
+    ]
+  },
+  {
+    "url": "https://github.com/evant/holdr",
+    "name": "Holdr",
+    "description": "Holdr generates classes based on your layouts to help you interact with them in a type-safe way. It removes the boilerplate of doing TextView myTextView = findViewById(R.id.my_text_view) all the time.",
+    "issue": 118,
+    "tags": [
+      "=",
+      "doing",
+      "removes"
+    ]
+  },
+  {
+    "url": "https://github.com/gabrielemariotti/RecyclerViewItemAnimators",
+    "name": "Recycler ViewItem Animators",
+    "description": "This repo provides simple animators for the item views in the RecyclerView This code is cloned from DefaultItemAnimator provided by Google customizing the animations.",
+    "issue": 118,
+    "tags": [
+      "customizing",
+      "provided",
+      "cloned"
+    ]
+  },
+  {
+    "url": "https://github.com/marvinlabs/android-floatinglabel-widgets",
+    "name": "android-floatinglabel-widgets",
+    "description": "A set of input widgets with a hint label that floats when input is not empty.",
+    "issue": 119,
+    "tags": [
+      "input",
+      "hint",
+      "widgets"
+    ]
+  },
+  {
+    "url": "https://github.com/MrEngineer13/SnackBar",
+    "name": "SnackBar",
+    "description": "SnackBar is a toast-like alert pattern for Android inspired by the Google Material Design Spec.",
+    "issue": 119,
+    "tags": [
+      "alert",
+      "toast-like",
+      "pattern"
+    ]
+  },
+  {
+    "url": "https://github.com/Instagram/ig-json-parser/",
+    "name": "ig-json-parser",
+    "description": "Fast JSON parser for java projects",
+    "issue": 119,
+    "tags": [
+      "parser",
+      "projects",
+      "java"
+    ]
+  },
+  {
+    "url": "https://github.com/kaushikgopal/Android-RxJava",
+    "name": "Android-RxJava",
+    "description": "This is a repository with real-world useful examples of using RxJava with Android. It usually will be in a constant state of \"Work in Progress\"",
+    "issue": 120,
+    "tags": [
+      "constant",
+      "usually",
+      "real-world"
+    ]
+  },
+  {
+    "url": "https://github.com/alamkanak/Android-Week-View",
+    "name": "",
+    "description": "Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.",
+    "issue": 121,
+    "tags": [
+      "view)",
+      "day",
+      "(week"
+    ]
+  },
+  {
+    "url": "https://github.com/norbsoft/android-typeface-helper",
+    "name": "Android-typeface-helper",
+    "description": "Android lacks proper support for custom typefaces. Most obvious method of defining typeface for UI elements via XML attributes is missing from default framework views. This library makes it a lot easier to set custom typefaces from java code.",
+    "issue": 121,
+    "tags": [
+      "default",
+      "elements",
+      "typeface"
+    ]
+  },
+  {
+    "url": "https://github.com/lucamtudor/lantern",
+    "name": "Lantern",
+    "description": "A simple Android app to light your way (written in Kotlin)",
+    "issue": 121,
+    "tags": [
+      "(written",
+      "light",
+      "way"
+    ]
+  },
+  {
+    "url": "https://github.com/fnk0/Android-Wear-Codelab",
+    "name": "Android-Wear-Codelab",
+    "description": "Android Wear codelab for the GDG OSU Stillwater: This codelab was developed by Marcus Gabilheri to be used in the GDG OSU Stillwater I/O Extended event.",
+    "issue": 122,
+    "tags": [
+      "codelab",
+      "developed",
+      "extended"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/+MarkusHi/posts/356rDLDfCoy",
+    "name": "Introducing ActionView for Android",
+    "description": "Inspired by some fancy Material showcases Markus Hi created a widget which can tween between different actions dynamically. Transitions between drawer navigation, back, close and plus are built-in.",
+    "issue": 123,
+    "tags": [
+      "plus",
+      "close",
+      "actions"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/donnfelker/46c56cab8441ecf2ee14",
+    "name": "Picasso and CircularTransform Example",
+    "description": "A Picasso and CircularTransform example from Donn Felker",
+    "issue": 123,
+    "tags": [
+      "example",
+      "felker",
+      "donn"
+    ]
+  },
+  {
+    "url": "https://github.com/traex/RippleEffect",
+    "name": "",
+    "description": "Implementation of Ripple effect from Material Design for Android API 14+",
+    "issue": 124,
+    "tags": [
+      "14+",
+      "effect",
+      "api"
+    ]
+  },
+  {
+    "url": "https://github.com/franlopjur/FlipCheckBox",
+    "name": "FlipCheckBox",
+    "description": "Give your collections (on any View at all) a fancier look by adding a cool way to check elements.",
+    "issue": 124,
+    "tags": [
+      "fancier",
+      "all)",
+      "(on"
+    ]
+  },
+  {
+    "url": "https://github.com/ikimuhendis/LDrawer",
+    "name": "LDrawer",
+    "description": "And another Android drawer icon with material design animation.",
+    "issue": 124,
+    "tags": [
+      "another",
+      "icon",
+      "drawer"
+    ]
+  },
+  {
+    "url": "https://github.com/ChrisRenke/DrawerArrowDrawable",
+    "name": "DrawerArrowDrawable",
+    "description": "A simple drawable backport of the new drawer-indicator/back-arrow rotating drawable from the upcoming Android L.",
+    "issue": 124,
+    "tags": [
+      "drawable",
+      "upcoming",
+      "rotating"
+    ]
+  },
+  {
+    "url": "http://robobinding.github.io/RoboBinding/",
+    "name": "RoboBinding",
+    "description": "A data-binding Presentation Model (MVVM) framework for the Android platform. RoboBinding helps you write UI code that is easier to read, test and maintain without performance compromise(code generation instead of java reflection).",
+    "issue": 124,
+    "tags": [
+      "generation",
+      "compromise(code",
+      "data-binding"
+    ]
+  },
+  {
+    "url": "https://chris.banes.me/2014/10/20/palette-v21/",
+    "name": "",
+    "description": "Tried the Android Lollipop SDK? You may have noticed that Palette's API has been updated. As before, Palette allows you to extract colors from images for use in your UI.",
+    "issue": 125,
+    "tags": [
+      "extract",
+      "noticed",
+      "may"
+    ]
+  },
+  {
+    "url": "https://github.com/polok/TaggerString",
+    "name": "TaggerString",
+    "description": "TaggerString is very light library which allows to build dynamic string resource in much more readable way.",
+    "issue": 125,
+    "tags": [
+      "readable",
+      "string",
+      "resource"
+    ]
+  },
+  {
+    "url": "https://github.com/eowise/recyclerview-stickyheaders",
+    "name": "Recyclerview with sticky headers",
+    "description": "Android library that integrate sticky section headers in your RecyclerView.",
+    "issue": 125,
+    "tags": [
+      "sticky",
+      "section",
+      "integrate"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/+ChrisBanes/posts/AXaiFCe7rBv",
+    "name": "Display DrawerLayout over ActionBar but under StatusBar",
+    "description": "A lot of peeps were asking so Chris Banes explains on StackOverflow.",
+    "issue": 125,
+    "tags": [
+      "explains",
+      "asking",
+      "peeps"
+    ]
+  },
+  {
+    "url": "https://github.com/castorflex/manifestreplace-plugin",
+    "name": "Manifestreplace Gradle Plugin",
+    "description": "Gradle plugin to add more placeholders to your manifest.xml.",
+    "issue": 125,
+    "tags": [
+      "placeholders",
+      "manifestxml",
+      "plugin"
+    ]
+  },
+  {
+    "url": "https://github.com/StanKocken/EfficientAdapter",
+    "name": "EfficientAdapter",
+    "description": "An efficient adapter to make the use of RecyclerView much easier for Android.",
+    "issue": 125,
+    "tags": [
+      "adapter",
+      "efficient",
+      "much"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/chrisbanes/11247418",
+    "name": "FloatLabelLayout",
+    "description": "A short little gist by Chris Banes that implements the float label UI pattern.",
+    "issue": 125,
+    "tags": [
+      "float",
+      "short",
+      "label"
+    ]
+  },
+  {
+    "url": "https://github.com/klinker24/Talon-for-Twitter",
+    "name": "Talon for Twitter",
+    "description": "This is the complete version of the Twitter client that Luke Klinker created for Android. It is 100% open source, the only thing that you will have to do plug in is your own API keys. If you want to see a well structured app in action then check it out.",
+    "issue": 125,
+    "tags": [
+      "plug",
+      "structured",
+      "thing"
+    ]
+  },
+  {
+    "url": "http://www.transround.com/l6",
+    "name": "App language localization SDK",
+    "description": "The Transround SDK implements dynamic language resource handling with AOP for Android apps. It is used for on-device app translation and on the fly resource distribution in a free app localization framework and service.",
+    "issue": 126,
+    "tags": [
+      "resource",
+      "localization",
+      "distribution"
+    ]
+  },
+  {
+    "url": "https://github.com/greenrobot/greenrobot-common",
+    "name": "Greenrobot Common",
+    "description": "greenrobot-common provides general purpose utilities for Android and Java projects. Having its root in the early days of Android development, the library is minimalistic, tiny in size (jar < 100k), and focuses on efficiency and performance.",
+    "issue": 127,
+    "tags": [
+      "efficiency",
+      "focuses",
+      "<"
+    ]
+  },
+  {
+    "url": "https://github.com/afollestad/material-dialogs",
+    "name": "Material Dialogs",
+    "description": "Not even AppCompat uses Material theming for AlertDialogs on pre-Lollipop. This is a beautiful and easy solution.",
+    "issue": 127,
+    "tags": [
+      "theming",
+      "beautiful",
+      "even"
+    ]
+  },
+  {
+    "url": "https://github.com/pavlospt/RoundedLetterView",
+    "name": "",
+    "description": "RoundedLetterView like the one in Android 5.0 Contacts app",
+    "issue": 128,
+    "tags": [
+      "one",
+      "contacts",
+      "50"
+    ]
+  },
+  {
+    "url": "https://github.com/beworker/tinybus",
+    "name": "Tinybus",
+    "description": "A lightweight and simple event bus tailored for Android",
+    "issue": 128,
+    "tags": [
+      "tailored",
+      "bus",
+      "event"
+    ]
+  },
+  {
+    "url": "https://github.com/ksoichiro/Android-ObservableScrollView",
+    "name": "Android-ObservableScrollView",
+    "description": "Android library to observe scroll events on scrollable views.",
+    "issue": 128,
+    "tags": [
+      "observe",
+      "scrollable",
+      "events"
+    ]
+  },
+  {
+    "url": "http://google.github.io/mathfu/",
+    "name": "Geometry Math Library for C++ Game Developers: MathFu",
+    "description": "Google announces 1.0 release of MathFu, a cross-platform geometry math library for C++ game developers. MathFu is a C++ math library developed primarily for games focused on simplicity and efficiency.",
+    "issue": 128,
+    "tags": [
+      "math",
+      "simplicity",
+      "focused"
+    ]
+  },
+  {
+    "url": "https://github.com/agrosner/DBFlow",
+    "name": "DBFlow",
+    "description": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
+    "issue": 129,
+    "tags": [
+      "writes",
+      "blazing",
+      "database"
+    ]
+  },
+  {
+    "url": "https://github.com/theDazzler/droidicon",
+    "name": "Droidicon",
+    "description": "Based on IconicDroid, droidicon provides over 1600 customizable icons, 25 ready-made social badges and more! droidicon makes it super easy to add icons and badges to your app.",
+    "issue": 129,
+    "tags": [
+      "badges",
+      "droidicon",
+      "more!"
+    ]
+  },
+  {
+    "url": "http://www.androidzeitgeist.com/2014/11/introducing-android-network-intents17.html",
+    "name": "Introducing Android Network Intents",
+    "description": "Sebastian Kaspari's new library allows you to send Intents to listening clients on the local network (WiFi) without knowing who these clients are. Sender and receiver do not need to connect to each other. Therefore the library can be used to write custom discovery protocols.",
+    "issue": 129,
+    "tags": [
+      "clients",
+      "receiver",
+      "discovery"
+    ]
+  },
+  {
+    "url": "https://github.com/nispok/snackbar",
+    "name": "Snackbar",
+    "description": "Library that implements Snackbars from Google's Material Design documentation.",
+    "issue": 129,
+    "tags": [
+      "implements",
+      "google's",
+      "snackbars"
+    ]
+  },
+  {
+    "url": "https://github.com/inaka/galgo/",
+    "name": "",
+    "description": "A tiny Android library for those moments when you want your logs to be displayed on screen",
+    "issue": 130,
+    "tags": [
+      "logs",
+      "moments",
+      "displayed"
+    ]
+  },
+  {
+    "url": "https://github.com/antonkrasov/AndroidProgressLayout",
+    "name": "AndroidProgressLayout",
+    "description": "If you're tired of wrapping your Views with RelativeLayout to add ProgressBar then this small view will help you.",
+    "issue": 130,
+    "tags": [
+      "wrapping",
+      "tired",
+      "small"
+    ]
+  },
+  {
+    "url": "https://github.com/rohaanhamid/ScrollableItemList",
+    "name": "ScrollableItemList",
+    "description": "An Android RecyclerView List with items that can scroll to reveal more content on the side. This view has been inspired by the one found in the Reddit News App",
+    "issue": 131,
+    "tags": [
+      "found",
+      "reveal",
+      "items"
+    ]
+  },
+  {
+    "url": "https://github.com/lukeFalsina/Grab-n-Run",
+    "name": "Grab-n-Run",
+    "description": "Grab’n Run (aka GNR) is a simple and effective Java Library that you can easily add to your Android projects to perform secure dynamic class loading operations over standard DexClassLoader",
+    "issue": 131,
+    "tags": [
+      "effective",
+      "(aka",
+      "standard"
+    ]
+  },
+  {
+    "url": "https://github.com/AnderWeb/discreteSeekBar",
+    "name": "DiscreteSeekBar",
+    "description": "Here's the start of a project on GitHub to implement Material design's Discrete Slider. The author is looking for help in adding polish and publishing to jcenter.",
+    "issue": 131,
+    "tags": [
+      "publishing",
+      "polish",
+      "design's"
+    ]
+  },
+  {
+    "url": "https://github.com/quiqueqs/BabushkaText",
+    "name": "BabushkaText",
+    "description": "BabushkaText is a custom TextView which lets you customize the styling of parts of your text via Spannables, but without the hassle of having to deal directly with Spannable themselves.",
+    "issue": 131,
+    "tags": [
+      "styling",
+      "hassle",
+      "parts"
+    ]
+  },
+  {
+    "url": "https://developer.spotify.com/technologies/spotify-android-sdk/",
+    "name": "Spotify Android SDK",
+    "description": "The Spotify Android SDK makes it easy to add audio streaming, user authentication and other Spotify features to Android apps. ",
+    "issue": 131,
+    "tags": [
+      "authentication",
+      "audio",
+      "other"
+    ]
+  },
+  {
+    "url": "http://tech.gilt.com/post/105014609604/new-in-gilt-tech-open-source",
+    "name": "New in Gilt Tech Open Source",
+    "description": "Gilt Senior Software Engineer Kevin Schultz has just released android-proguard-snippets: Sample ProGuard configurations for common Android libraries.",
+    "issue": 132,
+    "tags": [
+      "configurations",
+      "android-proguard-snippets:",
+      "common"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/+ChrisBanes/posts/J9Fwbc15BHN",
+    "name": "Collapsing Toolbar Title",
+    "description": "Chris Banes shares an implementation of a collapsing toolbar.",
+    "issue": 132,
+    "tags": [
+      "collapsing",
+      "shares",
+      "implementation"
+    ]
+  },
+  {
+    "url": "https://github.com/foxykeep/ParcelableCodeGenerator",
+    "name": "ParcelableCodeGenerator",
+    "description": "This project is a code generator written in Java used to generate Android code. Given a JSON definition file, it will generate the corresponding Parcelable class.",
+    "issue": 133,
+    "tags": [
+      "generate",
+      "corresponding",
+      "definition"
+    ]
+  },
+  {
+    "url": "https://github.com/foxykeep/ContentProviderCodeGenerator",
+    "name": "ContentProviderCodeGenerator",
+    "description": "Given a database schema JSON definition file, it will generate all the code you need to add the corresponding ContentProvider in your project.",
+    "issue": 133,
+    "tags": [
+      "corresponding",
+      "definition",
+      "schema"
+    ]
+  },
+  {
+    "url": "https://github.com/Raizlabs/Parser",
+    "name": "Parser",
+    "description": "Parser is the fastest JSON-to-Model object parser that uses annotation processing to generate the parsing for you. It only uses reflection one time and parsing is as fast as writing the code yourself.",
+    "issue": 133,
+    "tags": [
+      "parsing",
+      "reflection",
+      "processing"
+    ]
+  },
+  {
+    "url": "https://github.com/damianpetla/kotlin-dagger-example",
+    "name": "kotlin-dagger-example",
+    "description": "This project demonstrate how to setup an Android Project with Kotlin and Dagger 2.",
+    "issue": 133,
+    "tags": [
+      "setup",
+      "demonstrate",
+      "how"
+    ]
+  },
+  {
+    "url": "https://github.com/telly/MrVector",
+    "name": "",
+    "description": "An Android 7+ backport of VectorDrawable. Basic, simple vector drawables are working now. Please lend your support to help complete some of the roadmap.",
+    "issue": 134,
+    "tags": [
+      "lend",
+      "drawables",
+      "vector"
+    ]
+  },
+  {
+    "url": "https://github.com/Raizlabs/Singleton",
+    "name": "Singleton",
+    "description": "An implementation of the Singleton pattern, with the added bonus of disk persistence.",
+    "issue": 134,
+    "tags": [
+      "bonus",
+      "disk",
+      "added"
+    ]
+  },
+  {
+    "url": "https://github.com/MostafaGazar/soas",
+    "name": "Soas",
+    "description": "Native Android \"sample of all samples\" for beginners and experienced, 14+, with focus on lollipop and Material. Your help is needed to add a few more examples to the project.",
+    "issue": 134,
+    "tags": [
+      "few",
+      "lollipop",
+      "beginners"
+    ]
+  },
+  {
+    "url": "http://android-libs.com/",
+    "name": "Android Libs",
+    "description": "Another good site to find all your favorite android libraries and tools for development. Support your Android community!",
+    "issue": 135,
+    "tags": [
+      "community!",
+      "tools",
+      "favorite"
+    ]
+  },
+  {
+    "url": "https://github.com/moallemi/gradle-advanced-build-version",
+    "name": "Gradle Advanced Build Version Plugin",
+    "description": "A plugin to generate the Android version code and version name automatically.",
+    "issue": 136,
+    "tags": [
+      "name",
+      "version",
+      "generate"
+    ]
+  },
+  {
+    "url": "https://github.com/oli107/material-range-bar",
+    "name": "MaterialRangeBar",
+    "description": "MaterialRangeBar is a fork of https://github.com/edmodo/range-bar that adds some basic material styling, as well as start and end values, values as floats and some other things.",
+    "issue": 136,
+    "tags": [
+      "end",
+      "basic",
+      "fork"
+    ]
+  },
+  {
+    "url": "https://github.com/MoshDev/AndroidIndicators",
+    "name": "Android Indicators",
+    "description": "A simple library to add some effect to screen title.",
+    "issue": 136,
+    "tags": [
+      "screen",
+      "effect",
+      "add"
+    ]
+  },
+  {
+    "url": "https://github.com/jpardogo/PagerSlidingTabStrip",
+    "name": "Android PagerSlidingTabStrip",
+    "description": "Interactive paging indicator widget, compatible with the ViewPager from the Android Support Library.",
+    "issue": 136,
+    "tags": [
+      "compatible",
+      "paging",
+      "indicator"
+    ]
+  },
+  {
+    "url": "https://github.com/Yalantis/Side-Menu.Android",
+    "name": "Side-Menu.Android",
+    "description": "A nicely animated side navigation menu",
+    "issue": 136,
+    "tags": [
+      "navigation",
+      "side",
+      "animated"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/Telecine",
+    "name": "Telecine",
+    "description": "Jake Wharton has released and open sourced Telecine, a small app which he wrote two months ago for creating clean screen recordings directly on your device.",
+    "issue": 136,
+    "tags": [
+      "recordings",
+      "ago",
+      "months"
+    ]
+  },
+  {
+    "url": "https://github.com/dlew/joda-time-android",
+    "name": "Joda-time-android",
+    "description": "Dan Lew has created an Android specific port of Joda-time, which provides a quality replacement for the Java date and time classes.",
+    "issue": 137,
+    "tags": [
+      "port",
+      "date",
+      "quality"
+    ]
+  },
+  {
+    "url": "http://www.raizlabs.com/dev/2015/02/go-dbflow-fastest-android-orm-database-library/",
+    "name": "The Fastest Android ORM Database Library",
+    "description": "Raizlabs built DBFlow as a more efficient and powerful alternative to existing ORMs, and the results have been outstanding – it’s supposedly the fastest Android ORM database library",
+    "issue": 139,
+    "tags": [
+      "supposedly",
+      "it’s",
+      "–"
+    ]
+  },
+  {
+    "url": "http://www.rushorm.com/",
+    "name": "RushOrm - Object-relational mapping for Android",
+    "description": "RushOrm for Android (v0.5) replaces the need for SQL by mapping java classes to SQL tables",
+    "issue": 139,
+    "tags": [
+      "tables",
+      "mapping",
+      "replaces"
+    ]
+  },
+  {
+    "url": "https://github.com/m039/beacon-keeper",
+    "name": "Beacon-keeper",
+    "description": "The main goal of this project is to create solid and simple library for locating and working with iBeacons for Android.",
+    "issue": 139,
+    "tags": [
+      "locating",
+      "goal",
+      "solid"
+    ]
+  },
+  {
+    "url": "https://github.com/avast/android-styled-dialogs",
+    "name": "Android-styled-dialogs",
+    "description": "A backport of Material style dialogs based on DialogFragment. Supports stacked buttons, neutral button, callbacks even after rotation. Contains even more specialized dialogs: List, Progress, Time&Date Picker, Custom, etc.",
+    "issue": 139,
+    "tags": [
+      "dialogs:",
+      "specialized",
+      "after"
+    ]
+  },
+  {
+    "url": "https://github.com/prolificinteractive/material-calendarview",
+    "name": "",
+    "description": "A better looking implementation of android's CalendarView.",
+    "issue": 140,
+    "tags": [
+      "android's",
+      "looking",
+      "better"
+    ]
+  },
+  {
+    "url": "https://github.com/jjobes/SlideDateTimePicker",
+    "name": "SlideDateTimePicker",
+    "description": "A combined DatePicker and TimePicker in a DialogFragment for Android.",
+    "issue": 140,
+    "tags": [
+      "combined",
+      "dialogfragment",
+      "timepicker"
+    ]
+  },
+  {
+    "url": "https://github.com/neevek/Paginize",
+    "name": "Paginize",
+    "description": "A light-weight application framework for Android.",
+    "issue": 140,
+    "tags": [
+      "light-weight",
+      "framework",
+      "application"
+    ]
+  },
+  {
+    "url": "https://github.com/mikepenz/MaterialDrawer",
+    "name": "",
+    "description": "A simple take on creating a easy to use and fast material drawer implementation",
+    "issue": 141,
+    "tags": [
+      "take",
+      "drawer",
+      "creating"
+    ]
+  },
+  {
+    "url": "http://snowdream.github.io/awesome-android/",
+    "name": "Awesome-Android",
+    "description": "A huge and good list of Android libs from Github",
+    "issue": 141,
+    "tags": [
+      "libs",
+      "huge",
+      "list"
+    ]
+  },
+  {
+    "url": "https://github.com/bluelinelabs/LoganSquare",
+    "name": "LoganSquare",
+    "description": "Screaming fast JSON parsing and serialization library for Android.",
+    "issue": 141,
+    "tags": [
+      "parsing",
+      "serialization",
+      "fast"
+    ]
+  },
+  {
+    "url": "https://github.com/JMPergar/AwesomeText",
+    "name": "AwesomeText",
+    "description": "A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).",
+    "issue": 141,
+    "tags": [
+      "facilitates",
+      "tool",
+      "extension"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/hawk",
+    "name": "Hawk",
+    "description": "Secure and easy key value storage for Android. Internally it uses AES for the crypto and SharedPreferences for the storage. With Hawk you can secure persist save any type and collections of types.",
+    "issue": 141,
+    "tags": [
+      "save",
+      "persist",
+      "crypto"
+    ]
+  },
+  {
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "name": "",
+    "description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations.",
+    "issue": 142,
+    "tags": [
+      "dragging",
+      "charts",
+      "candlestick"
+    ]
+  },
+  {
+    "url": "https://github.com/thyrlian/AwesomeValidation",
+    "name": "AwesomeValidation",
+    "description": "Do you need validation for your Android forms? This library helps to boil down the tedious work to three easy steps.",
+    "issue": 142,
+    "tags": [
+      "boil",
+      "forms?",
+      "three"
+    ]
+  },
+  {
+    "url": "https://github.com/square/sqlbrite",
+    "name": "SQLBrite",
+    "description": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.",
+    "issue": 142,
+    "tags": [
+      "semantics",
+      "stream",
+      "reactive"
+    ]
+  },
+  {
+    "url": "https://github.com/inaka/TinyTask",
+    "name": "TinyTask",
+    "description": "A Tiny Task Library",
+    "issue": 142,
+    "tags": [
+      "task",
+      "tiny",
+      "library"
+    ]
+  },
+  {
+    "url": "https://github.com/asyl/ArcAnimator",
+    "name": "ArcAnimator",
+    "description": "ArcAnimator helps to create arc transition animation",
+    "issue": 142,
+    "tags": [
+      "arc",
+      "transition",
+      "animation"
+    ]
+  },
+  {
+    "url": "https://github.com/ustwo/clockwise",
+    "name": "Clockwise",
+    "description": "Clockwise is a watch face framework for Android Wear. It helps you with all the tedious tasks like handling watch face modes (ambient / burn in / ...) or a big GeometryUtil package with lots of nifty convenience functions.",
+    "issue": 142,
+    "tags": [
+      "face",
+      "watch",
+      "convenience"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/bee",
+    "name": "",
+    "description": "Bee is a QA/Debug tool that works like a widget in any application.",
+    "issue": 143,
+    "tags": [
+      "works",
+      "tool",
+      "widget"
+    ]
+  },
+  {
+    "url": "https://github.com/lsjwzh/MaterialLoadingProgressBar",
+    "name": "MaterialLoadingProgressBar",
+    "description": "MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator.",
+    "issue": 143,
+    "tags": [
+      "styled",
+      "looks",
+      "loading"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/dialogplus",
+    "name": "SharedPreferenceInspector",
+    "description": "Provides a simple way to see shared preferences and edit them for test.",
+    "issue": 143,
+    "tags": [
+      "preferences",
+      "shared",
+      "edit"
+    ]
+  },
+  {
+    "url": "https://github.com/vbauer/caesar",
+    "name": "Caeser",
+    "description": "Caesar is a tiny Java library that allows to create an asynchronous proxy-version of some synchronous bean. It means that you can still think in terms of your service/bean/object and use its methods instead of writing concurrency code.",
+    "issue": 143,
+    "tags": [
+      "concurrency",
+      "methods",
+      "service/bean/object"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/wasp",
+    "name": "Wasp",
+    "description": "Wasp is compact, complete, easy-in-use and all-in-one network solution.",
+    "issue": 143,
+    "tags": [
+      "all-in-one",
+      "easy-in-use",
+      "network"
+    ]
+  },
+  {
+    "url": "https://github.com/vinc3m1/DragSortAdapter",
+    "name": "DragSortAdapter",
+    "description": "Drag and drop re-ordering adapter for RecyclerView. A note from the author: \"This is an advanced library meant to be flexible and customizable which leads to more complexity in integration. It is not meant to be a simple drop-in.\"",
+    "issue": 143,
+    "tags": [
+      "meant",
+      "complexity",
+      "leads"
+    ]
+  },
+  {
+    "url": "https://github.com/ckurtm/FabButton",
+    "name": "",
+    "description": "Android Floating ActionButton with a progress indicator ring.",
+    "issue": 144,
+    "tags": [
+      "indicator",
+      "progress",
+      "ring"
+    ]
+  },
+  {
+    "url": "https://github.com/dmytrodanylyk/shadow-layout",
+    "name": "Android Shadow Layout",
+    "description": "Android Shadow Layout - because CardView is not enough (e.g. when drawind a  circular shadow).",
+    "issue": 144,
+    "tags": [
+      "drawind",
+      "enough",
+      "because"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/dialogplus",
+    "name": "DialogPlus",
+    "description": "Simple, easy dialog solution for Android.",
+    "issue": 144,
+    "tags": [
+      "solution",
+      "dialog",
+      "easy"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/simplelistview",
+    "name": "SimpleListView",
+    "description": "SimpleListView has been updated to 1.1.",
+    "issue": 144,
+    "tags": [
+      "updated",
+      "been",
+      "11"
+    ]
+  },
+  {
+    "url": "https://github.com/hannesstruss/godot",
+    "name": "Godot",
+    "description": "Keep track of how much time you spend on Gradle builds. If you're into that sort of thing that gradle plugin is for you.",
+    "issue": 144,
+    "tags": [
+      "sort",
+      "spend",
+      "track"
+    ]
+  },
+  {
+    "url": "http://www.47deg.com/blog/scala-api-demos",
+    "name": "Scala API Demos",
+    "description": "Here's the release of another open source project - Scala API Demos, an application written 100% in Scala on Android. Showcasing several examples for different skill levels of Android and Scala Developers. If you want to learn Android using a modern functional language, Scala API Demos is a good way to begin",
+    "issue": 144,
+    "tags": [
+      "begin",
+      "skill",
+      "learn"
+    ]
+  },
+  {
+    "url": "https://github.com/vbauer/jackdaw",
+    "name": "Jackdaw",
+    "description": "Jackdaw is a Java Annotation Processor which allows to simplify Java/Android development and prevents writing of tedious code. Jackdaw was inspired by Lombok project, but in comparison with Lombok: it does not need to have an extra plugin in IDE and it does not modify the existing source code.",
+    "issue": 145,
+    "tags": [
+      "modify",
+      "extra",
+      "comparison"
+    ]
+  },
+  {
+    "url": "https://github.com/pcqpcq/open-source-android-apps",
+    "name": "Open-Source-Android-Apps",
+    "description": "This is a collection of Android Apps with Open Source.",
+    "issue": 145,
+    "tags": [
+      "collection",
+      "apps",
+      "android"
+    ]
+  },
+  {
+    "url": "https://github.com/antoniolg/Bandhook-Kotlin",
+    "name": "Bandhook-Kotlin",
+    "description": "The purpose of the project is to show a complex (at least in architecture) project entirely written using Kotlin",
+    "issue": 146,
+    "tags": [
+      "entirely",
+      "architecture)",
+      "least"
+    ]
+  },
+  {
+    "url": "https://github.com/airbnb/AirMapView",
+    "name": "AirMapView",
+    "description": "AirMapView is a view abstraction that enables interactive maps for devices with and without Google Play Services. It is built to support multiple native map providers including Google Maps V2 and soon Amazon Maps V2.",
+    "issue": 146,
+    "tags": [
+      "soon",
+      "providers",
+      "map"
+    ]
+  },
+  {
+    "url": "https://code.facebook.com/posts/366199913563917/introducing-fresco-a-new-image-library-for-android/",
+    "name": "Introducing Fresco: A new image library for Android",
+    "description": "What happens when your app runs out of memory due to many large bitmaps? It crashes. Facebook set out to solve this by creating a library we're calling Fresco — it manages images and the memory they use. Crashes begone.",
+    "issue": 146,
+    "tags": [
+      "memory",
+      "they",
+      "—"
+    ]
+  },
+  {
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "name": "",
+    "description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- and candlestick charts as well as scaling, dragging and animations.",
+    "issue": 147,
+    "tags": [
+      "dragging",
+      "charts",
+      "candlestick"
+    ]
+  },
+  {
+    "url": "https://github.com/tajchert/WaitingDots",
+    "name": "Waiting Dots",
+    "description": "Small library that provides... bouncing dots.",
+    "issue": 147,
+    "tags": [
+      "bouncing",
+      "dots",
+      "small"
+    ]
+  },
+  {
+    "url": "https://github.com/florent37/DaVinci",
+    "name": "DaVinci",
+    "description": "DaVinci is an image downloading and caching library for Android Wear.",
+    "issue": 147,
+    "tags": [
+      "downloading",
+      "caching",
+      "image"
+    ]
+  },
+  {
+    "url": "https://github.com/orhanobut/logger",
+    "name": "Logger",
+    "description": "Simple, pretty and powerful logger for android",
+    "issue": 147,
+    "tags": [
+      "logger",
+      "pretty",
+      "powerful"
+    ]
+  },
+  {
+    "url": "https://github.com/florent37/WearMenu",
+    "name": "",
+    "description": "An Android Wear Menu implementation.",
+    "issue": 148,
+    "tags": [
+      "wear",
+      "menu",
+      "android"
+    ]
+  },
+  {
+    "url": "https://github.com/klongmitre/android-segmented-control-view",
+    "name": "Android Segmented Control-View",
+    "description": "An implementation of the UISegmentedControl for Android. It's not a natural Android UI pattern - but if you need it - here is an implementation.",
+    "issue": 148,
+    "tags": [
+      "natural",
+      "here",
+      "-"
+    ]
+  },
+  {
+    "url": "https://github.com/wasabeef/recyclerview-animators",
+    "name": "RecyclerView Animators",
+    "description": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+    "issue": 148,
+    "tags": [
+      "itemanimator",
+      "easily",
+      "add"
+    ]
+  },
+  {
+    "url": "https://github.com/pawegio/KAndroid",
+    "name": "KAndroid",
+    "description": "Kotlin library for Android providing useful extensions to eliminate boilerplate code in Android SDK and focus on productivity.",
+    "issue": 148,
+    "tags": [
+      "eliminate",
+      "extensions",
+      "focus"
+    ]
+  },
+  {
+    "url": "https://github.com/Yalantis/FlipViewPager.Draco",
+    "name": "FlipViewPager.Draco",
+    "description": "This project aims to provide a working page flip implementation for usage in ListView.",
+    "issue": 148,
+    "tags": [
+      "usage",
+      "flip",
+      "page"
+    ]
+  },
+  {
+    "url": "https://github.com/wasabeef/richeditor-android",
+    "name": "RichEditor",
+    "description": "RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.",
+    "issue": 148,
+    "tags": [
+      "beautiful",
+      "editor",
+      "wysiwyg"
+    ]
+  },
+  {
+    "url": "https://github.com/ogaclejapan/SmartTabLayout",
+    "name": "SmartTabLayout",
+    "description": "The custom ViewPager title strip which gives continuous feedback to the user when scrolling was update to 1.1.0 this week. Lot's of improvements.",
+    "issue": 148,
+    "tags": [
+      "continuous",
+      "strip",
+      "scrolling"
+    ]
+  },
+  {
+    "url": "https://github.com/wnafee/vector-compat",
+    "name": "Vector-Compat",
+    "description": "A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop.",
+    "issue": 149,
+    "tags": [
+      "introduced",
+      "classes",
+      "support"
+    ]
+  },
+  {
+    "url": "http://survivingwithandroid.github.io/WeatherLib/",
+    "name": "Weatherlib",
+    "description": "Weatherlib aggregates proprietary 3rd party weather APIs and presents those functions through a simple, unified, normalized API.",
+    "issue": 149,
+    "tags": [
+      "normalized",
+      "functions",
+      "weather"
+    ]
+  },
+  {
+    "url": "https://github.com/afollestad/material-dialogs",
+    "name": "Material Dialogs",
+    "description": "New version 0.7.2.4 of Material designed dialogs has been released.",
+    "issue": 149,
+    "tags": [
+      "dialogs",
+      "designed",
+      "version"
+    ]
+  },
+  {
+    "url": "https://github.com/florent37/WearViewStub",
+    "name": "WearViewStub",
+    "description": "Display different layout on Android Wear Square / Round / Moto 360.",
+    "issue": 149,
+    "tags": [
+      "/",
+      "layout",
+      "360"
+    ]
+  },
+  {
+    "url": "https://github.com/saulmm/Curved-Fab-Reveal-Example",
+    "name": "Curved Fab Reveal Example",
+    "description": "Very nice UI motion example of a circle morphing into a view. It's probably too specific to be reused 'as is' - but you can learn how to create an awesome interface.",
+    "issue": 149,
+    "tags": [
+      "is'",
+      "'as",
+      "reused"
+    ]
+  },
+  {
+    "url": "https://github.com/chemouna/Decor",
+    "name": "Decor",
+    "description": "Decor is a library that applies decorators to android layout with additional attributes without the need to extend and create a cutom view for each functionnality.",
+    "issue": 149,
+    "tags": [
+      "cutom",
+      "extend",
+      "decorators"
+    ]
+  },
+  {
+    "url": "https://github.com/doridori/Dynamo",
+    "name": "Dynamo",
+    "description": "Dynamo is a lightweight state-based architecture for Android. The idea is to have a stateful controller (it's called a Dynamo) that drives your application but is decoupled from the Android architecture. Be sure to check out the wiki for a lengthy motivation and a lot of code examples and use cases.",
+    "issue": 150,
+    "tags": [
+      "motivation",
+      "lengthy",
+      "wiki"
+    ]
+  },
+  {
+    "url": "http://fossdroid.com/",
+    "name": "Free and open source Android applications",
+    "description": "This website features a list of Android applications (sorted in categories) which are free and open source. So if you ever wondered how these apps are developed - Obi Wan would say: Use the source.",
+    "issue": 150,
+    "tags": [
+      "say:",
+      "categories)",
+      "(sorted"
+    ]
+  },
+  {
+    "url": "https://github.com/florent37/MaterialViewPager",
+    "name": "Material View Pager",
+    "description": "A Material Design ViewPager easy to use library",
+    "issue": 151,
+    "tags": [
+      "viewpager",
+      "easy",
+      "use"
+    ]
+  },
+  {
+    "url": "https://github.com/grandcentrix/tray",
+    "name": "Tray",
+    "description": "Tray provides an advanced API which makes it super easy to access and maintain your settings data with upgrade and migrate mechanisms. Welcome to SharedPreferences 2.0 aka Tray.",
+    "issue": 151,
+    "tags": [
+      "aka",
+      "settings",
+      "migrate"
+    ]
+  },
+  {
+    "url": "https://github.com/ZieIony/Carbon",
+    "name": "Carbon",
+    "description": "Material Design implementation for Android 2.1+",
+    "issue": 152,
+    "tags": [
+      "implementation",
+      "21+",
+      "material"
+    ]
+  },
+  {
+    "url": "https://github.com/vinaysshenoy/mugen",
+    "name": "Mugen",
+    "description": "Microlibrary for implementing infinite scroll on Android",
+    "issue": 152,
+    "tags": [
+      "infinite",
+      "implementing",
+      "scroll"
+    ]
+  },
+  {
+    "url": "https://github.com/afollestad/material-cab",
+    "name": "Material-cab",
+    "description": "A simple library for Android, which replaces the stock contextual action bar to allow more customization.",
+    "issue": 152,
+    "tags": [
+      "contextual",
+      "stock",
+      "replaces"
+    ]
+  },
+  {
+    "url": "https://github.com/tumblr/Bookends",
+    "name": "Bookends",
+    "description": "A UI widget that allows for headers and footers on lists backed by RecyclerView, for Android",
+    "issue": 153,
+    "tags": [
+      "lists",
+      "footers",
+      "backed"
+    ]
+  },
+  {
+    "url": "https://github.com/tumblr/Remember",
+    "name": "Remember",
+    "description": "An in-memory data store backed by shared preferences, for Android.",
+    "issue": 153,
+    "tags": [
+      "in-memory",
+      "shared",
+      "backed"
+    ]
+  },
+  {
+    "url": "https://github.com/JetBrains/anko",
+    "name": "Anko",
+    "description": "Anko is a library which makes Android application development faster and easier. It makes your code clean and easy to read, and lets you forget about rough edges of Android SDK for Java.",
+    "issue": 153,
+    "tags": [
+      "edges",
+      "rough",
+      "forget"
+    ]
+  },
+  {
+    "url": "https://github.com/MizzleDK/Mizuu",
+    "name": "Mizuu",
+    "description": "Mizuu is a user friendly, open source media center application for Android. The application helps manage all your movie and TV show video files - and automatically fetches useful information about the video content, including title, plot, cover art and actors.",
+    "issue": 154,
+    "tags": [
+      "video",
+      "art",
+      "cover"
+    ]
+  },
+  {
+    "url": "https://github.com/tehmou/rx-android-architecture",
+    "name": "Rx-android-architecture",
+    "description": "This is an ambitious example project of a reference architecture for Android using RxJava for an app based on streams of data.",
+    "issue": 154,
+    "tags": [
+      "streams",
+      "ambitious",
+      "reference"
+    ]
+  },
+  {
+    "url": "https://github.com/exallium/RxRecyclerView",
+    "name": "RxRecyclerView",
+    "description": "Crazy easy to use RecyclerView Adapter for applications using RxJava",
+    "issue": 154,
+    "tags": [
+      "applications",
+      "rxjava",
+      "recyclerview"
+    ]
+  },
+  {
+    "url": "https://github.com/frakbot/JumpingBeans",
+    "name": "JumpingBeans",
+    "description": "A Span-based library to make your text jump like Mexican beans! Or rather, like the '...' that Hangouts uses to indicate that someone is typing, or some other kind of ongoing activity.",
+    "issue": 154,
+    "tags": [
+      "ongoing",
+      "kind",
+      "someone"
+    ]
+  },
+  {
+    "url": "https://github.com/stephanenicolas/ormlite-android-gradle-plugin",
+    "name": "Ormlite-android-gradle-plugin",
+    "description": "A Gradle plugin for Android to generate an ORMLite configuration file and boost DAO creation",
+    "issue": 155,
+    "tags": [
+      "boost",
+      "creation",
+      "file"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisbanes/cheesesquare/",
+    "name": "Cheesesquare",
+    "description": "Demos the new Android Design library",
+    "issue": 155,
+    "tags": [
+      "new",
+      "demos",
+      "design"
+    ]
+  },
+  {
+    "url": "https://github.com/Flipboard/bottomsheet",
+    "name": "Bottomsheet",
+    "description": "BottomSheet is an Android component which presents a dismissible view from the bottom of the screen. BottomSheet can be a useful replacement for dialogs and menus but can hold any view so the use cases are endless.",
+    "issue": 156,
+    "tags": [
+      "hold",
+      "menus",
+      "bottom"
+    ]
+  },
+  {
+    "url": "http://androiddevblog.com/eventbus-3-droidcon/",
+    "name": "EventBus 3 beta announced at droidcon",
+    "description": "EventBus 3 beta, with its new annotation based API, is available on Maven central.",
+    "issue": 156,
+    "tags": [
+      "3",
+      "available",
+      "its"
+    ]
+  },
+  {
+    "url": "https://github.com/swissonid/android-design-support-lib-sample",
+    "name": "Android-design-support-lib-sample",
+    "description": "Here's a sample app that implements many Material design patterns using the new Material support library.",
+    "issue": 157,
+    "tags": [
+      "patterns",
+      "many",
+      "implements"
+    ]
+  },
+  {
+    "url": "https://github.com/PaoloRotolo/AppIntro",
+    "name": "",
+    "description": "Android Library to make a cool intro for your app.",
+    "issue": 158,
+    "tags": [
+      "intro",
+      "cool",
+      "make"
+    ]
+  },
+  {
+    "url": "https://github.com/w2ji/VitaminSaber",
+    "name": "VitaminSaber",
+    "description": "Vitamin Saber provides resource injection for Android (@InjectResource(resId)). It is annotation processor based and will provide all the speed you need on Android by avoiding reflection.",
+    "issue": 158,
+    "tags": [
+      "avoiding",
+      "speed",
+      "injection"
+    ]
+  },
+  {
+    "url": "https://github.com/emilsjolander/IntentBuilder",
+    "name": "IntentBuilder",
+    "description": "IntentBuilder is a type safe way of creating intents and populating them with extras. Intents were created to be very dynamic but often times the dynamic nature of intents is not needed and just gets in the way of writing safe code.",
+    "issue": 158,
+    "tags": [
+      "intents",
+      "safe",
+      "nature"
+    ]
+  },
+  {
+    "url": "https://github.com/Yalantis/GuillotineMenu-Android",
+    "name": "GuillotineMenu-Android",
+    "description": "Neat library, that provides a simple way to implement guillotine-styled animation",
+    "issue": 158,
+    "tags": [
+      "guillotine-styled",
+      "implement",
+      "animation"
+    ]
+  },
+  {
+    "url": "https://github.com/rheinfabrik/Heimdall.droid",
+    "name": "Heimdall",
+    "description": "Heimdall is an easy to use OAuth 2 library for Android. Connecting various SocialNetworks like Github or Facebook can be a daunting task - Heimdall helps you to provide an easy to use interface to achieve that task. Be sure to checkout the example app in to Repo.",
+    "issue": 158,
+    "tags": [
+      "achieve",
+      "interface",
+      "daunting"
+    ]
+  },
+  {
+    "url": "https://github.com/klinker24/Android-TextView-LinkBuilder",
+    "name": "Android-TextView-LinkBuilder",
+    "description": "Insanely easy way to create clickable links within a TextView.",
+    "issue": 159,
+    "tags": [
+      "clickable",
+      "links",
+      "within"
+    ]
+  },
+  {
+    "url": "https://github.com/mcharmas/Android-ReactiveLocation",
+    "name": "Android-ReactiveLocation",
+    "description": "Small library that wraps Google Play Services API in RxJava Observables reducing boilerplate to minimum.",
+    "issue": 159,
+    "tags": [
+      "reducing",
+      "wraps",
+      "boilerplate"
+    ]
+  },
+  {
+    "url": "https://github.com/airbnb/DeepLinkDispatch",
+    "name": "Deeplinkdispatch",
+    "description": "DeepLinkDispatch provides a declarative, annotation-based API to declare application deep links.",
+    "issue": 160,
+    "tags": [
+      "deep",
+      "declare",
+      "annotation-based"
+    ]
+  },
+  {
+    "url": "https://github.com/pushtorefresh/storio",
+    "name": "Storio",
+    "description": "StorIO is a modern API for SQLiteDatabase and ContentResolver. Offers a powerful & simple set of operations: Put, Get, Delete, via an API with type safety, immutability & thread-safety. Offers RxJava support as well.",
+    "issue": 160,
+    "tags": [
+      "&",
+      "immutability",
+      "operations:"
+    ]
+  },
+  {
+    "url": "https://github.com/cesarferreira/CatKit",
+    "name": "CatKit",
+    "description": "Android library for cat placeholder images.",
+    "issue": 160,
+    "tags": [
+      "placeholder",
+      "cat",
+      "images"
+    ]
+  },
+  {
+    "url": "https://github.com/worker8/TourGuide",
+    "name": "TourGuide",
+    "description": "TourGuide is an Android library. It lets you add pointer, overlay and tooltip easily, guiding users on how to use your app",
+    "issue": 161,
+    "tags": [
+      "users",
+      "guiding",
+      "tooltip"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/ProcessPhoenix",
+    "name": "ProcessPhoenix",
+    "description": "Process Phoenix facilitates restarting your application process. This should only be used for things like fundamental state changes in your debug builds (e.g., changing from staging to production).",
+    "issue": 161,
+    "tags": [
+      "staging",
+      "changing",
+      "builds"
+    ]
+  },
+  {
+    "url": "https://github.com/lukaspili/mortar-architect",
+    "name": "Mortar-architect",
+    "description": "Mortar Architect provides a flexible stack for navigating and displaying views and their presenters, using the MVP pattern with Mortar",
+    "issue": 161,
+    "tags": [
+      "displaying",
+      "navigating",
+      "stack"
+    ]
+  },
+  {
+    "url": "https://github.com/JakeWharton/ThreeTenABP",
+    "name": "ThreeTenABP",
+    "description": "JSR-310 was included in Java 8 as the java.time.* package. It is a full replacement for the ailing Date and Calendar APIs in both Java and Android. This library makes the JSR-310 Java 6 backport Android friendly.",
+    "issue": 161,
+    "tags": [
+      "6",
+      "ailing",
+      "8"
+    ]
+  },
+  {
+    "url": "https://github.com/florent37/GlidePalette",
+    "name": "",
+    "description": "Android Lollipop Palette is now easy to use with Glide",
+    "issue": 162,
+    "tags": [
+      "now",
+      "glide",
+      "palette"
+    ]
+  },
+  {
+    "url": "https://github.com/neevek/Paginize",
+    "name": "Paginize",
+    "description": "Paginize is a light-weight application framework for Android.",
+    "issue": 162,
+    "tags": [
+      "light-weight",
+      "framework",
+      "application"
+    ]
+  },
+  {
+    "url": "https://github.com/wasabeef/awesome-android-ui",
+    "name": "Awesome Android UI",
+    "description": "A curated list of awesome Android UI/UX libraries",
+    "issue": 162,
+    "tags": [
+      "curated",
+      "libraries",
+      "awesome"
+    ]
+  },
+  {
+    "url": "https://github.com/Pixplicity/MultiViewPager",
+    "name": "MultiViewPager",
+    "description": "The MultiViewPager is an extension of the support-v4 library's ViewPager that allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered.",
+    "issue": 162,
+    "tags": [
+      "pages",
+      "next",
+      "aligning"
+    ]
+  },
+  {
+    "url": "https://github.com/hansenji/pocketknife",
+    "name": "Pocketknife",
+    "description": "Intent and Bundle utility for Android",
+    "issue": 162,
+    "tags": [
+      "utility",
+      "bundle",
+      "intent"
+    ]
+  },
+  {
+    "url": "https://github.com/svendvd/fontinator",
+    "name": "Fontinator",
+    "description": "Fontinator by Sven Nähler is an Android-Library make it easy, to use custom Fonts.",
+    "issue": 162,
+    "tags": [
+      "make",
+      "custom",
+      "android-library"
+    ]
+  },
+  {
+    "url": "https://github.com/f2prateek/dart",
+    "name": "Dart",
+    "description": "In Dart 2.0, the team added new module is called Henson, which is an annotation processor that helps you navigate between activities.",
+    "issue": 163,
+    "tags": [
+      "navigate",
+      "module",
+      "processor"
+    ]
+  },
+  {
+    "url": "https://github.com/Unic8/retroauth",
+    "name": "Retroauth",
+    "description": "Android library build on top of retrofit, for simple handling of authenticated requests",
+    "issue": 163,
+    "tags": [
+      "authenticated",
+      "requests",
+      "build"
+    ]
+  },
+  {
+    "url": "https://github.com/diogobernardino/WilliamChart",
+    "name": "WilliamChart",
+    "description": "Android library to create charts.",
+    "issue": 164,
+    "tags": [
+      "create",
+      "charts",
+      "android"
+    ]
+  },
+  {
+    "url": "https://github.com/jonfinerty/Once",
+    "name": "Once",
+    "description": "A small Android library to manage one-off operations.",
+    "issue": 164,
+    "tags": [
+      "one-off",
+      "manage",
+      "small"
+    ]
+  },
+  {
+    "url": "https://github.com/seatgeek/sixpack-java",
+    "name": "Sixpack-java",
+    "description": "A Java client for the open source Sixpack A/B testing framework.",
+    "issue": 164,
+    "tags": [
+      "testing",
+      "client",
+      "a/b"
+    ]
+  },
+  {
+    "url": "https://github.com/wasabeef/Blurry",
+    "name": "Blurry",
+    "description": "Blurry is an easy blur library for Android",
+    "issue": 164,
+    "tags": [
+      "blur",
+      "blurry",
+      "easy"
+    ]
+  },
+  {
+    "url": "https://github.com/colintheshots/AnDevCon-RxPatterns",
+    "name": "AnDevCon-RxPatterns",
+    "description": "Patterns used by Colin Lee in his AnDevCon talk \"Reactive Android Patterns\"",
+    "issue": 165,
+    "tags": [
+      "talk",
+      "his",
+      "used"
+    ]
+  },
+  {
+    "url": "https://github.com/kaushikgopal/RxJava-Android-Samples",
+    "name": "RxJava-Android-Samples",
+    "description": "This is a work-in-progress repository with real-world useful examples of using RxJava with Android.",
+    "issue": 165,
+    "tags": [
+      "work-in-progress",
+      "real-world",
+      "useful"
+    ]
+  },
+  {
+    "url": "https://github.com/ReactiveX/RxAndroid/releases/tag/v1.0.0",
+    "name": "RxAndroid 1.0.0",
+    "description": "RxAndroid has reached version 1.0!",
+    "issue": 165,
+    "tags": [
+      "reached",
+      "version",
+      "10!"
+    ]
+  },
+  {
+    "url": "https://github.com/hotchemi/awesome-android-testing",
+    "name": "Awesome Android Testing",
+    "description": "Nice curated list of Android testing frameworks.",
+    "issue": 166,
+    "tags": [
+      "curated",
+      "testing",
+      "list"
+    ]
+  },
+  {
+    "url": "https://github.com/pwittchen/ReactiveNetwork",
+    "name": "ReactiveNetwork",
+    "description": "ReactiveNetwork is an Android library listening network connection state and change of the WiFi signal strength with RxJava Observables",
+    "issue": 166,
+    "tags": [
+      "strength",
+      "signal",
+      "connection"
+    ]
+  },
+  {
+    "url": "https://plus.google.com/+HugoVisser/posts/jhUWS2Lw1q2",
+    "name": "android-apt 1.7 released",
+    "description": "Hugo Visser has published an update to android-apt, a gradle plugin that assists in working with annotation processors in combination with Android Studio.",
+    "issue": 166,
+    "tags": [
+      "combination",
+      "processors",
+      "assists"
+    ]
+  },
+  {
+    "url": "https://github.com/ragunathjawahar/android-saripaar",
+    "name": "Android Saripaar",
+    "description": "UI form validation library for Android.",
+    "issue": 166,
+    "tags": [
+      "form",
+      "validation",
+      "ui"
+    ]
+  },
+  {
+    "url": "https://github.com/deano2390/MaterialShowcaseView",
+    "name": "MaterialShowcaseView",
+    "description": "A Material Design themed ShowcaseView for Android.",
+    "issue": 166,
+    "tags": [
+      "themed",
+      "showcaseview",
+      "material"
+    ]
+  },
+  {
+    "url": "https://github.com/gowong/material-sheet-fab",
+    "name": "MaterialSheetFab",
+    "description": "Library that implements the floating action button to sheet transition from Google's Material Design documentation. It can be used with any FAB library on Android 4.0+ (API levels >= 14).",
+    "issue": 166,
+    "tags": [
+      ">=",
+      "sheet",
+      "levels"
+    ]
+  },
+  {
+    "url": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
+    "name": "Android Fillable Loaders",
+    "description": "Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app.",
+    "issue": 166,
+    "tags": [
+      "logo",
+      "branding",
+      "option"
+    ]
+  },
+  {
+    "url": "https://github.com/hitherejoe/WatchTower",
+    "name": "WatchTower",
+    "description": "A sample application created to test, explore and demonstrate the Proximity Beacon API.",
+    "issue": 166,
+    "tags": [
+      "explore",
+      "demonstrate",
+      "sample"
+    ]
+  },
+  {
+    "url": "https://github.com/hitherejoe/Android-Boilerplate",
+    "name": "",
+    "description": "A simple boilerplate application which demonstrates the downloading, persisting and syncing of data - displayed with a common layout used amongst applications. It features the use of the Design Support library, data caching and the new Test Modules, separating the functional tests from production code.",
+    "issue": 167,
+    "tags": [
+      "production",
+      "separating",
+      "amongst"
+    ]
+  },
+  {
+    "url": "https://github.com/saulmm/CoordinatorLayoutExample",
+    "name": "CoordinatorLayoutExample",
+    "description": "This example tries to replicate the profile animation of Hangouts 4.0 to show how a CoordinatorLayout.Behavior could be used.",
+    "issue": 167,
+    "tags": [
+      "profile",
+      "replicate",
+      "tries"
+    ]
+  },
+  {
+    "url": "https://github.com/android-awesome/Awesome-Material",
+    "name": "",
+    "description": "A library for Android that makes it super easy for developers to incorporate material design and bootstrap buttons with icons into their apps, or simple icon themed TextViews.",
+    "issue": 168,
+    "tags": [
+      "buttons",
+      "bootstrap",
+      "incorporate"
+    ]
+  },
+  {
+    "url": "https://github.com/MichaelEvans/Aftermath",
+    "name": "Aftermath",
+    "description": "A simple, annotation-based Android library for generating onActivityForResult handlers.",
+    "issue": 168,
+    "tags": [
+      "generating",
+      "annotation-based",
+      "handlers"
+    ]
+  },
+  {
+    "url": "https://github.com/uPhyca/GAlette",
+    "name": "GAlette",
+    "description": "Annotation-triggered tracking along with Google Analytics for Android",
+    "issue": 168,
+    "tags": [
+      "along",
+      "tracking",
+      "analytics"
+    ]
+  },
+  {
+    "url": "https://github.com/hitherejoe/MVVM_Hacker_News",
+    "name": "MVVM_Hacker_News",
+    "description": "An experimental Hacker News reader built as an MVVM structured project using the official Data Binding library.",
+    "issue": 168,
+    "tags": [
+      "official",
+      "reader",
+      "experimental"
+    ]
+  },
+  {
+    "url": "https://github.com/ribot/assertj-rx",
+    "name": "Assertj-rx",
+    "description": "This library extends AssertJ core with the aim of providing elegant assertions to test RxJava Observables.",
+    "issue": 168,
+    "tags": [
+      "assertions",
+      "elegant",
+      "core"
+    ]
+  },
+  {
+    "url": "https://github.com/sacot41/SCViewPager",
+    "name": "SCViewPager",
+    "description": "A simple ViewPager extends that provide scroll based animation like Jazz Hands for iOS",
+    "issue": 168,
+    "tags": [
+      "extends",
+      "scroll",
+      "provide"
+    ]
+  },
+  {
+    "url": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
+    "name": "AndroidFillableLoaders",
+    "description": "Android Open Source library providing an interesting fillable progress view working with SVG paths.",
+    "issue": 168,
+    "tags": [
+      "fillable",
+      "providing",
+      "progress"
+    ]
+  },
+  {
+    "url": "https://github.com/pyricau/frenchtoast",
+    "name": "Frenchtoast",
+    "description": "FrenchToast gives you absolute control over your app Toasts. It does so by duplicating the internals of Android Toasts and giving you access.",
+    "issue": 169,
+    "tags": [
+      "giving",
+      "internals",
+      "duplicating"
+    ]
+  },
+  {
+    "url": "https://github.com/tumblr/Backboard",
+    "name": "Backboard",
+    "description": "backboard is a motion-driven animation framework for Android. It is built on top of rebound that makes it easier to use by coupling it to views and motions.",
+    "issue": 169,
+    "tags": [
+      "coupling",
+      "rebound",
+      "motion-driven"
+    ]
+  },
+  {
+    "url": "https://github.com/mwolfson/android-historian",
+    "name": "Android-historian",
+    "description": "This app is designed to demonstrate the various components of the Android Support libraries, in particular, showing how to implement Material design into your app, using these controls.",
+    "issue": 169,
+    "tags": [
+      "showing",
+      "these",
+      "components"
+    ]
+  },
+  {
+    "url": "https://github.com/timehop/sticky-headers-recyclerview",
+    "name": "Sticky-headers-recyclerview",
+    "description": "This decorator allows you to easily create section headers for RecyclerViews using a LinearLayoutManager in either vertical or horizontal orientation.",
+    "issue": 169,
+    "tags": [
+      "vertical",
+      "either",
+      "decorator"
+    ]
+  },
+  {
+    "url": "https://github.com/hitherejoe/Tabby",
+    "name": "Tabby",
+    "description": "Tabby (Cat), is a simple sample application demoing the features of the new Chrome Custom Tabs support library for Android",
+    "issue": 169,
+    "tags": [
+      "demoing",
+      "features",
+      "tabs"
+    ]
+  },
+  {
+    "url": "https://github.com/HannahMitt/HomeMirror",
+    "name": "HomeMirror",
+    "description": "Android application powering the mirror in my house",
+    "issue": 170,
+    "tags": [
+      "house",
+      "my",
+      "mirror"
+    ]
+  },
+  {
+    "url": "https://github.com/mattprecious/telescope",
+    "name": "Telescope",
+    "description": "A simple tool to allow easy bug report capturing within your app.",
+    "issue": 170,
+    "tags": [
+      "capturing",
+      "bug",
+      "report"
+    ]
+  },
+  {
+    "url": "https://groups.google.com/forum/#!msg/ksoap2-android/ChNnzl8N0EM/F1KwixFNAQAJ",
+    "name": "ksoap2-android 3.5.0 released",
+    "description": "ksoap2 library for Android has reached a 3.5 release with lots of updates.",
+    "issue": 170,
+    "tags": [
+      "ksoap2",
+      "lots",
+      "reached"
+    ]
+  },
+  {
+    "url": "https://github.com/octohub/AndroidAppCrashFlowChart",
+    "name": "AndroidAppCrashFlowChart",
+    "description": "A flow chart to help the modern Android dev solve crashes. This is what open source is all about, collaboration, so please submit your pull requests.",
+    "issue": 171,
+    "tags": [
+      "please",
+      "flow",
+      "submit"
+    ]
+  },
+  {
+    "url": "https://github.com/lgvalle/Material-Animations",
+    "name": "Material-Animations",
+    "description": "A huge code sample that demonstrates the three main types of animations that can be done via the Android Transition Framework.",
+    "issue": 171,
+    "tags": [
+      "types",
+      "huge",
+      "animations"
+    ]
+  },
+  {
+    "url": "https://github.com/tunjos/searchbubble",
+    "name": "SearchBubble",
+    "description": "Search Bubble allows you to Search with a floating button. It's thats simple.",
+    "issue": 172,
+    "tags": [
+      "thats",
+      "floating",
+      "bubble"
+    ]
+  },
+  {
+    "url": "https://github.com/ivacf/archi",
+    "name": "Archi",
+    "description": "This repository showcases and compares the exact same sample app built three times using the following approaches: Standard Android, Model View Presenter and Model View View-Model",
+    "issue": 172,
+    "tags": [
+      "approaches:",
+      "exact",
+      "compares"
+    ]
+  },
+  {
+    "url": "https://github.com/grandcentrix/tray",
+    "name": "Tray",
+    "description": "Tray is a cross-process data management approach to SharedPreferences. Tray also provides an advanced API which makes it super easy to access and maintain your data with upgrade and migrate mechanisms.",
+    "issue": 172,
+    "tags": [
+      "approach",
+      "management",
+      "cross-process"
+    ]
+  },
+  {
+    "url": "https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/",
+    "name": "Renderscript Demo: Healing Brush",
+    "description": "Implementation of a healing brush (like in Photoshop) in Renderscript.",
+    "issue": 172,
+    "tags": [
+      "brush",
+      "healing",
+      "(like"
+    ]
+  },
+  {
+    "url": "https://github.com/tyrantgit/ExplosionField",
+    "name": "ExplosionField",
+    "description": "Explosive dust effect for views",
+    "issue": 173,
+    "tags": [
+      "dust",
+      "effect",
+      "views"
+    ]
+  },
+  {
+    "url": "https://github.com/rallat/EffectiveAndroid",
+    "name": "Effective Android",
+    "description": "This sample project shows how to apply MVP and Clean architecture on an Android app.",
+    "issue": 173,
+    "tags": [
+      "apply",
+      "shows",
+      "architecture"
+    ]
+  },
+  {
+    "url": "https://github.com/pilgr/Paper",
+    "name": "Paper",
+    "description": "Paper is a fast NoSQL data storage for Android that lets you save/restore Java objects by using efficient Kryo serialization and handling data structure changes automatically.",
+    "issue": 173,
+    "tags": [
+      "structure",
+      "save/restore",
+      "changes"
+    ]
+  },
+  {
+    "url": "http://facebook.github.io/screenshot-tests-for-android/",
+    "name": "Screenshot-tests-for-android",
+    "description": "Automated testing that helps prevent visual regressions in Android apps",
+    "issue": 174,
+    "tags": [
+      "regressions",
+      "visual",
+      "prevent"
+    ]
+  },
+  {
+    "url": "https://github.com/KeepSafe/dexcount-gradle-plugin",
+    "name": "Dexcount-gradle-plugin",
+    "description": "A Gradle plugin to report the number of method references in your APK on every build.",
+    "issue": 174,
+    "tags": [
+      "references",
+      "every",
+      "method"
+    ]
+  },
+  {
+    "url": "https://github.com/tbruyelle/RxPermissions",
+    "name": "RxPermissions",
+    "description": "This library allows the usage of RxJava with the new Android M permission model.",
+    "issue": 174,
+    "tags": [
+      "usage",
+      "permission",
+      "model"
+    ]
+  },
+  {
+    "url": "https://github.com/elevenetc/TextSurface",
+    "name": "TextSurface",
+    "description": "A little animation framework which could help you to show message in a nice looking way.",
+    "issue": 175,
+    "tags": [
+      "message",
+      "could",
+      "looking"
+    ]
+  },
+  {
+    "url": "https://github.com/google/iosched",
+    "name": "Iosched",
+    "description": "Google has released the source for the Google I/O 2015 app.",
+    "issue": 175,
+    "tags": [
+      "2015",
+      "i/o",
+      "google"
+    ]
+  },
+  {
+    "url": "https://github.com/afollestad/digitus",
+    "name": "Digitus",
+    "description": "A library that simplifies the use of Marshmallow's Fingerprint API (Nexus Imprint). Falls back to a simple password on older API levels.",
+    "issue": 175,
+    "tags": [
+      "password",
+      "back",
+      "older"
+    ]
+  },
+  {
+    "url": "https://github.com/lisawray/fontbinding",
+    "name": "",
+    "description": "A full example of custom fonts in XML using data binding and including font caching.",
+    "issue": 176,
+    "tags": [
+      "binding",
+      "font",
+      "fonts"
+    ]
+  },
+  {
+    "url": "https://github.com/mxn21/FlowingDrawer",
+    "name": "FlowingDrawer",
+    "description": "Swipe right to display drawer with flowing & bouncing effects.",
+    "issue": 176,
+    "tags": [
+      "flowing",
+      "right",
+      "bouncing"
+    ]
+  },
+  {
+    "url": "https://github.com/LarsWerkman/Lobsterpicker",
+    "name": "Lobsterpicker",
+    "description": "Lobsterpicker is a library for android material design made to support apps and developers if a color should be choosen by a user.",
+    "issue": 176,
+    "tags": [
+      "choosen",
+      "color",
+      "made"
+    ]
+  },
+  {
+    "url": "https://github.com/nickbutcher/plaid",
+    "name": "",
+    "description": "Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.",
+    "issue": 177,
+    "tags": [
+      "&",
+      "understandable",
+      "principles"
+    ]
+  },
+  {
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "name": "MPAndroidChart",
+    "description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",
+    "issue": 177,
+    "tags": [
+      "bubble-",
+      "dragging",
+      "charts"
+    ]
+  },
+  {
+    "url": "https://github.com/soarcn/Favor",
+    "name": "Favor",
+    "description": "A easy way of using Android SharedPreferences",
+    "issue": 177,
+    "tags": [
+      "way",
+      "sharedpreferences",
+      "using"
+    ]
+  },
+  {
+    "url": "https://github.com/android10/frodo",
+    "name": "Frodo",
+    "description": "Frodo is an android library used for logging RxJava Observables and Subscribers outputs on the logcat.",
+    "issue": 178,
+    "tags": [
+      "outputs",
+      "logging",
+      "android"
+    ]
+  },
+  {
+    "url": "https://github.com/KeepSafe/ReLinker",
+    "name": "ReLinker",
+    "description": "A robust native library loader for Android.",
+    "issue": 178,
+    "tags": [
+      "loader",
+      "robust",
+      "native"
+    ]
+  },
+  {
+    "url": "https://github.com/Tribler/self-compile-Android",
+    "name": "Self-compiling Android Application",
+    "description": "This is a real spooky proof of concept of an application that is capable of self-compilation, mutation and viral spreading. It currently only works on Android 4.3_r3.1 with Galaxy Nexus. Or Cyanogenmod 12.1 of android 5.1.1, confirmed on Nexus 5,6 and 10 devices.",
+    "issue": 178,
+    "tags": [
+      "confirmed",
+      "viral",
+      "mutation"
+    ]
+  },
+  {
+    "url": "https://github.com/tasomaniac/EmailAutoCompleteTextView",
+    "name": "EmailAutoCompleteTextView",
+    "description": "An AutoCompleteTextView with builtin Adapter with the emails in the device. The library automatically adds GET_ACCOUNTS permission into your Manifest. For Android Marshmallow, the library also handles runtime permissions.",
+    "issue": 178,
+    "tags": [
+      "emails",
+      "builtin",
+      "runtime"
+    ]
+  },
+  {
+    "url": "https://github.com/mikehearn/KotlinFPWebinar",
+    "name": "KotlinFPWebinar",
+    "description": "This is the code written as part of the Kotlin functional programming webinar",
+    "issue": 178,
+    "tags": [
+      "webinar",
+      "programming",
+      "part"
+    ]
+  },
+  {
+    "url": "https://github.com/sahildave/Search-View-Layout",
+    "name": "Search-View-Layout",
+    "description": "Search View Layout like Lollipop Dialer",
+    "issue": 179,
+    "tags": [
+      "dialer",
+      "search",
+      "like"
+    ]
+  },
+  {
+    "url": "https://github.com/H07000223/FlycoTabLayout",
+    "name": "FlycoTabLayout",
+    "description": "Heavily modified TabLayouts with some interesting new features.",
+    "issue": 179,
+    "tags": [
+      "modified",
+      "interesting",
+      "new"
+    ]
+  },
+  {
+    "url": "https://github.com/StanKocken/Presentation",
+    "name": "Presentation",
+    "description": "An architecture for Android as a replacement of MVC.",
+    "issue": 180,
+    "tags": [
+      "replacement",
+      "architecture",
+      "mvc"
+    ]
+  },
+  {
+    "url": "https://github.com/lyft/scissors",
+    "name": "Scissors",
+    "description": "The team from Lyft brings you a fixed viewport image cropping library for Android with built-in support for Picasso or Glide.",
+    "issue": 180,
+    "tags": [
+      "built-in",
+      "cropping",
+      "viewport"
+    ]
+  },
+  {
+    "url": "https://github.com/pyricau/fragnums",
+    "name": "fragnums",
+    "description": "We all know that Fragments suck, and that #enumsmatter. What if we could replace Fragments with Enums? Here's an enum based library to replace fragments, because #perfmatters!",
+    "issue": 180,
+    "tags": [
+      "replace",
+      "#perfmatters!",
+      "enum"
+    ]
+  },
+  {
+    "url": "https://github.com/karumi/Dexter",
+    "name": "Dexter",
+    "description": "Dexter is an Android library that simplifies the process of requesting permissions at runtime. Dexter frees your permission code from your activities and lets you write that logic anywhere you want.",
+    "issue": 180,
+    "tags": [
+      "anywhere",
+      "frees",
+      "permissions"
+    ]
+  },
+  {
+    "url": "https://github.com/brianPlummer/TinyDancer",
+    "name": "TinyDancer",
+    "description": "Are you a performance junkie? Do want your apps to run smooth like butter? Then checkout TinyDancer, a littler helper that indicates if your app is dropping frames.",
+    "issue": 180,
+    "tags": [
+      "dropping",
+      "indicates",
+      "littler"
+    ]
+  }
+]
